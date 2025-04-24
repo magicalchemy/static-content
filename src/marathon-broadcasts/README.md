@@ -16,12 +16,11 @@ src/marathon-broadcasts/
 
 ## Формат JSON
 
-```json
+```
 {
   "youtube_url": "https://youtube.com/..." или "",
   "twitch_url": "https://twitch.tv/..." или "",
-  "is_live": true | false,
-  "scheduled_time": "YYYY-MM-DDTHH:MM:SSZ" (ISO 8601)  // опционально
+  "is_live": true или false,
 }
 ```
 
@@ -35,16 +34,33 @@ src/marathon-broadcasts/
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/<org>/MA-static-content.git
-   cd MA-static-content
+   git clone https://github.com/magicalchemy/static-content.git
+   cd static-content
    ```
-2. Создать ветку для изменений:
-   ```bash
-   git checkout -b update-broadcasts
+2. Обновить `src/marathon-broadcasts/stage/broadcasts.json`.
+
+3. закоммитить изменения `git commit -m "update marathon broadcasts"`
+
+4. залить изменения на github `git push origin main`
+
+5. протестировать на stage через raw-ссылку:
+
    ```
-3. Обновить `src/marathon-broadcasts/stage/broadcasts.json`.
-4. Протестировать на stage через raw-ссылку:
+   https://raw.githubusercontent.com/magicalchemy/static-content/refs/heads/main/src/marathon-broadcasts/stage/broadcasts.json
    ```
-   https://raw.githubusercontent.com/<org>/MA-static-content/main/src/marathon-broadcasts/stage/broadcasts.json
-   ```
-5. Создать Pull Request, после одобрения скопировать `stage/broadcasts.json` → `production/broadcasts.json` и мержить.
+
+   и на сайте https://stage.magicalchemy.org/world/altar
+
+6. протестировть на stage
+
+7. если все хорошо скопировать `stage/broadcasts.json` → `production/broadcasts.json`
+
+8. закоммитить изменения git commit -m "update marathon broadcasts"
+
+9. залить изменения на github git push origin main.
+
+10. протестировать на production через raw-ссылку:
+    ```
+    https://raw.githubusercontent.com/magicalchemy/static-content/refs/heads/main/src/marathon-broadcasts/production/broadcasts.json
+    ```
+    и на сайте https://magicalchemy.org/world/altar
