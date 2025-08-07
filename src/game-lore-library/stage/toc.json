@@ -1,6 +1,74 @@
-[
-  {
-    "title": "Пример статьи",
-    "file": "articles/example.md"
-  }
-]
+{
+  "WIKI":[
+    {
+      "title": {
+        "ru": "Механики",
+        "en": "Game Mechanics"
+      },
+      "isCategory": true,
+      "items": [
+        {
+          "title": {
+            "ru": "Боевая система",
+            "en": "Combat System"
+          },
+          "files": {
+            "ru": "articles/combat-ru.md",
+            "en": "articles/combat-en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Алхимические формулы",
+            "en": "Alchemy Formulas"
+          },
+          "files": {
+            "ru": "articles/alchemy-formulas-ru.md",
+            "en": "articles/alchemy-formulas-en.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Пример статьи",
+        "en": "Example Article"
+      },
+      "files": {
+        "ru": "articles/example-ru.md",
+        "en": "articles/example-en.md"
+      }
+    }
+  ],
+  "LORE":[
+    {
+      "title": {
+        "ru": "Мир игры",
+        "en": "Game World"
+      },
+      "isCategory": true,
+      "items": [
+        {
+          "title": {
+            "ru": "История мира",
+            "en": "World History"
+          },
+          "files": {
+            "ru": "articles/world-history-ru.md",
+            "en": "articles/world-history-en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "География",
+            "en": "Geography"
+          },
+          "files": {
+            "ru": "articles/geography-ru.md",
+            "en": "articles/geography-en.md"
+          }
+        }
+      ]
+    }
+  ]
+}

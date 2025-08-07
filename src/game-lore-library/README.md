@@ -22,13 +22,115 @@ src/game-lore-library/
 
 ## Формат toc.json
 
+Файл `toc.json` поддерживает мультиязычные статьи и категории, разделенные на две основные секции: WIKI и LORE.
+
+### 1. Структура файла
+
+Файл представляет собой JSON-объект с двумя ключами "WIKI" и "LORE", значениями которых являются массивы статей и категорий.
+
 ```json
-[
-  {
-    "title": "Название статьи",
-    "file": "articles/filename.md"
+{
+  "WIKI": [...],
+  "LORE": [...]
+}
+```
+
+### 2. Статья без категории
+
+```json
+{
+  "title": {
+    "ru": "Название статьи на русском",
+    "en": "Article title in English"
+  },
+  "files": {
+    "ru": "articles/filename-ru.md",
+    "en": "articles/filename-en.md"
   }
-]
+}
+```
+
+### 3. Категория со статьями
+
+```json
+{
+  "title": {
+    "ru": "Название категории на русском",
+    "en": "Category title in English"
+  },
+  "isCategory": true,
+  "items": [
+    {
+      "title": {
+        "ru": "Название статьи на русском",
+        "en": "Article title in English"
+      },
+      "files": {
+        "ru": "articles/filename-ru.md",
+        "en": "articles/filename-en.md"
+      }
+    }
+  ]
+}
+```
+
+### Пример полной структуры
+
+```json
+{
+  "WIKI": [
+    {
+      "title": {
+        "ru": "Механики",
+        "en": "Game Mechanics"
+      },
+      "isCategory": true,
+      "items": [
+        {
+          "title": {
+            "ru": "Боевая система",
+            "en": "Combat System"
+          },
+          "files": {
+            "ru": "articles/combat-ru.md",
+            "en": "articles/combat-en.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Пример статьи",
+        "en": "Example Article"
+      },
+      "files": {
+        "ru": "articles/example-ru.md",
+        "en": "articles/example-en.md"
+      }
+    }
+  ],
+  "LORE": [
+    {
+      "title": {
+        "ru": "Мир игры",
+        "en": "Game World"
+      },
+      "isCategory": true,
+      "items": [
+        {
+          "title": {
+            "ru": "История мира",
+            "en": "World History"
+          },
+          "files": {
+            "ru": "articles/world-history-ru.md",
+            "en": "articles/world-history-en.md"
+          }
+        }
+      ]
+    }
+  ]
+}
 ```
 
 ## Ожидаемое поведение
