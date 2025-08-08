@@ -9,16 +9,14 @@
 src/game-lore-library/
 ├── stage/
 │ ├── toc.json # оглавление статей
-│ ├── articles/ # markdown-статьи
-│ │ └── example.md
-│ └── images/ # картинки для статей
-│ └── .gitkeep
+│ └── articles/ # markdown-статьи
+│     ├── [Название_статьи]/ # отдельная директория для каждой статьи
+│     │   ├── [Название_статьи]_ru.md # файл статьи на русском
+│     │   ├── [Название_статьи]_en.md # файл статьи на английском (опционально)
+│     │   └── images/ # изображения для конкретной статьи
 └── production/
-├── toc.json
-├── articles/
-│ └── example.md
-└── images/
-└── .gitkeep
+    ├── toc.json
+    └── articles/
 
 ## Формат toc.json
 
@@ -43,7 +41,6 @@ src/game-lore-library/
     "ru": "Название категории на русском",
     "en": "Category title in English"
   },
-  "isCategory": true,
   "items": [
     {
       "title": {
@@ -51,8 +48,8 @@ src/game-lore-library/
         "en": "Article title in English"
       },
       "files": {
-        "ru": "articles/filename-ru.md",
-        "en": "articles/filename-en.md"
+        "ru": "articles/Название_статьи/Название_статьи_ru.md",
+        "en": "articles/Название_статьи/Название_статьи_en.md"
       }
     }
   ]
@@ -69,7 +66,6 @@ src/game-lore-library/
         "ru": "Механики",
         "en": "Game Mechanics"
       },
-      "isCategory": true,
       "items": [
         {
           "title": {
@@ -77,18 +73,18 @@ src/game-lore-library/
             "en": "Combat System"
           },
           "files": {
-            "ru": "articles/combat-ru.md",
-            "en": "articles/combat-en.md"
+            "ru": "articles/Combat_System/Combat_System_ru.md",
+            "en": "articles/Combat_System/Combat_System_en.md"
           }
         },
         {
           "title": {
-            "ru": "Пример статьи",
-            "en": "Example Article"
+            "ru": "Ребаланс Magic Towers",
+            "en": "Magic Towers Rebalance"
           },
           "files": {
-            "ru": "articles/example-ru.md",
-            "en": "articles/example-en.md"
+            "ru": "articles/Ребаланс_Magic_Towers/Ребаланс_Magic_Towers_ru.md",
+            "en": "articles/Ребаланс_Magic_Towers/Ребаланс_Magic_Towers_en.md"
           }
         }
       ]
@@ -100,16 +96,25 @@ src/game-lore-library/
         "ru": "Мир игры",
         "en": "Game World"
       },
-      "isCategory": true,
       "items": [
         {
           "title": {
-            "ru": "История мира",
-            "en": "World History"
+            "ru": "О существах магических",
+            "en": "About Magical Creatures"
           },
           "files": {
-            "ru": "articles/world-history-ru.md",
-            "en": "articles/world-history-en.md"
+            "ru": "articles/О_существах_магических/О_существах_магических_ru.md",
+            "en": "articles/О_существах_магических/О_существах_магических_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Страны мира ДжиДа",
+            "en": "JiDa World Countries"
+          },
+          "files": {
+            "ru": "articles/Страны_мира_ДжиДа._Часть_4/Страны_мира_ДжиДа._Часть_4_ru.md",
+            "en": "articles/Страны_мира_ДжиДа._Часть_4/Страны_мира_ДжиДа._Часть_4_en.md"
           }
         }
       ]
@@ -122,7 +127,7 @@ src/game-lore-library/
 
 - Фронтенд импортирует `toc.json`, загружает статьи и изображения через raw-ссылки.
 - Каждая статья отображается с заголовком и контентом.
-- Картинки доступны из папки `images`.
+- Картинки для каждой статьи доступны из папки `images` внутри директории статьи.
 
 ## Работа с файлами
 
