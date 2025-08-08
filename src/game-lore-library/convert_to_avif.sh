@@ -231,6 +231,6 @@ if [ -f "$TEMP_STATS" ]; then
 fi
 
 echo "Обработка завершена."
-echo "Всего найдено файлов: $total_files"
+echo "Всего найдено файлов для конвертации: $total_files"
 echo "Создано AVIF-файлов: $processed_files"
 echo "Пропущено (уже существуют): $skipped_files"

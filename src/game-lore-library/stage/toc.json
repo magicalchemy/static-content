@@ -30,7 +30,6 @@
             "en": "New mechanics of farming Gems and Points"
           },
           "files": {
-            "ru": "articles/New_mechanics_of_farming_Gems_and_Points/New_mechanics_of_farming_Gems_and_Points_ru.md",
             "en": "articles/New_mechanics_of_farming_Gems_and_Points/New_mechanics_of_farming_Gems_and_Points_en.md"
           }
         },
@@ -40,7 +39,7 @@
             "en": "The new mechanics of staking RUSK"
           },
           "files": {
-            "ru": "articles/The_new_mechanics_of_steaking_RUSK/The_new_mechanics_of_steaking_RUSK_ru.md"
+            "en": "articles/The_new_mechanics_of_steaking_RUSK/The_new_mechanics_of_steaking_RUSK_en.md"
           }
         }
       ]
@@ -57,7 +56,7 @@
             "en": "Magic Alchemy Tokenomics"
           },
           "files": {
-            "ru": "articles/Magic_Alchemy_Tokenomics/Magic_Alchemy_Tokenomics_ru.md"
+            "en": "articles/Magic_Alchemy_Tokenomics/Magic_Alchemy_Tokenomics_en.md"
           }
         },
         {
@@ -66,7 +65,7 @@
             "en": "RUSK Tokenomics"
           },
           "files": {
-            "ru": "articles/RUSK_Tokenomics/RUSK_Tokenomics_ru.md"
+            "en": "articles/RUSK_Tokenomics/RUSK_Tokenomics_en.md"
           }
         },
         {
@@ -75,7 +74,7 @@
             "en": "Magic Alchemy DeFi"
           },
           "files": {
-            "ru": "articles/MA_DeFi_Part/MA_DeFi_Part_ru.md"
+            "en": "articles/MA_DeFi_Part/MA_DeFi_Part_en.md"
           }
         }
       ]
@@ -148,8 +147,7 @@
             "en": "Homecoming"
           },
           "files": {
-            "ru": "articles/Возвращение_домой/Возвращение_домой_ru.md",
-            "en": "articles/Magic_Alchemy_Homecoming/Magic_Alchemy_Homecoming_ru.md"
+            "ru": "articles/Возвращение_домой/Возвращение_домой_ru.md"
           }
         }
       ]
@@ -166,7 +164,7 @@
             "en": "Magic Alchemy AMA Recap: New Year's Edition"
           },
           "files": {
-            "ru": "articles/Magic_Alchemy_AMA_Recap_New_Years_Edition/Magic_Alchemy_AMA_Recap_New_Years_Edition_ru.md"
+            "en": "articles/Magic_Alchemy_AMA_Recap_New_Years_Edition/Magic_Alchemy_AMA_Recap_New_Years_Edition_en.md"
           }
         },
         {
@@ -175,7 +173,7 @@
             "en": "Second AMA Session Magic Alchemy"
           },
           "files": {
-            "ru": "articles/Second_AMA_Session_Magic_Alchemy/Second_AMA_Session_Magic_Alchemy_ru.md"
+            "en": "articles/Second_AMA_Session_Magic_Alchemy/Second_AMA_Session_Magic_Alchemy_en.md"
           }
         },
         {
@@ -184,7 +182,7 @@
             "en": "Fourth MA AMA session, final before the marathon"
           },
           "files": {
-            "ru": "articles/Четвертая_сессия_MA_AMA_заключительная_перед_марафоном/Четвертая_сессия_MA_AMA_заключительная_перед_марафоном_ru.md"
+            "en": "articles/Четвертая_сессия_MA_AMA_заключительная_перед_марафоном/Четвертая_сессия_MA_AMA_заключительная_перед_марафоном_en.md"
           }
         },
         {
@@ -193,7 +191,7 @@
             "en": "Post-Token and NFT Marathon Stages"
           },
           "files": {
-            "ru": "articles/Post-Token_and_NFT_Marathon_Stages/Post-Token_and_NFT_Marathon_Stages_ru.md"
+            "en": "articles/Post-Token_and_NFT_Marathon_Stages/Post-Token_and_NFT_Marathon_Stages_en.md"
           }
         },
         {
@@ -202,7 +200,7 @@
             "en": "I Am Legend"
           },
           "files": {
-            "ru": "articles/I_Am_Legend/I_Am_Legend_ru.md"
+            "en": "articles/I_Am_Legend/I_Am_Legend_en.md"
           }
         }
       ]

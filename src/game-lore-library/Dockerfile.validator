@@ -1,0 +1,16 @@
+FROM ubuntu:22.04
+
+# Установка зависимостей
+RUN apt-get update && \
+    apt-get install -y \
+    jq \
+    && rm -rf /var/lib/apt/lists/*
+
+# Копирование скрипта валидатора
+COPY validate_toc.sh /app/validate_toc.sh
+RUN chmod +x /app/validate_toc.sh
+
+WORKDIR /app
+
+# Точка входа
+ENTRYPOINT ["/app/validate_toc.sh"]
