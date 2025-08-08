@@ -7,7 +7,7 @@ Hey everyone! You’ve probably heard the saying, *“Every joke has a grain of 
 Friends, the next time someone asks, *“Wen drop, sir?”* you can confidently point them to this article. Here’s the infographic showing the token distribution for $RUSK:
 
 
-![](images/img-1-1400.png)
+![](images/img-1.2x.png)
 
 *\*Unclaimed drops will be burned.*
 

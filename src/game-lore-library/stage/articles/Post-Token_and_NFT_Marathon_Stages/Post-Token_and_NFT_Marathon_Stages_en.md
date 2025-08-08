@@ -15,7 +15,7 @@ This means that Marathon participants will be able to immediately see the benefi
 Here’s the complete table of in-game rewards for each hour of Marathon participation, based on the rank of your Mendelef Flasks. Take note of the rewards for each flask! During the Marathon, you can purchase up to 42 flasks.
 
 
-![](images/img-1-1400.jpg)
+![](images/img-1.2x.jpg)
 
 *\*Prior to the start of the Marathon, numbers may be slightly adjusted.*
 
@@ -24,7 +24,7 @@ An important update for the Token and NFT Marathon: we’ve decided that the fir
 During the Marathon and subsequent stages, you’ll encounter MendelefFlask NFTs, Alchemist NFTs, and the so-called “Ugly Broths,” each with varying rarities and appearances. You can explore their types and visuals in this table:
 
 
-![](images/img-2-1400.png)
+![](images/img-2.2x.png)
 
 We’ll dive into each of these components separately a bit later. For now, let’s jump right into the stages ahead.
 
@@ -36,7 +36,7 @@ Approximately a week after the Token & NFT Marathon (subject to change), we’ll
 This phase will unfold in a new sub-location, the Relic of Transmutation, located within the Mendelef’s Abode.
 
 
-![](images/img-3-1400.png)
+![](images/img-3.2x.png)
 
 **Here’s how it works:**
 
@@ -62,7 +62,7 @@ In the Fountain of Life, players will combine an NFT alchemist embryo with an NF
 * A common embryo requires a common Ugly Broth, a rare embryo needs a rare Ugly Broth, and so on. Only for the legendary NFT alchemist embryo will an epic Ugly Broth be needed.
 
 
-![](images/img-4-1400.png)
+![](images/img-4.2x.png)
 
 This mechanic is carefully designed to add value to NFT Ugly Broths, especially for players who were less fortunate during the Transmutation and only received Ugly Broths from their Mendelef Flasks. This creates a market demand for these NFTs, giving players a chance to sell them on the secondary market, especially the epic Ugly Broths, as they’re required for legendary alchemists.
 
@@ -82,7 +82,7 @@ In general, staking involves locking up crypto assets for a certain period, allo
 **In our game, players will stake their NFT alchemist** on our smart contract and receive POTION token rewards. These rewards will come from a designated reward pool outlined in our tokenomics and will be subject to a lock period.
 
 
-![](images/img-5-1400.png)
+![](images/img-5.2x.png)
 
 All rewards earned through staking an Alchemist will be directly **recorded within that NFT Alchemist**.  
  Accordingly, the more POTION tokens the Alchemist farms — which directly depends on its rarity — the more valuable it can become on the market, even before the game officially launches.
@@ -99,7 +99,7 @@ Our goals for this stage are twofold. First, to allow more people to engage with
 Each rarity level of the alchemist NFT will have specific staking coefficients, allowing participants to see the number of POTION tokens they can earn per day based on these coefficients. And rest assured, the annual percentage yield (APR) for staking an alchemist will likely be highly attractive.
 
 
-![](images/img-6-1400.jpeg)
+![](images/img-6.2x.jpeg)
 
 *\*Prior to the start of the Marathon, numbers may be slightly adjusted.*
 

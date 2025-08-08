@@ -2,7 +2,7 @@ Second AMA Session — Magic Alchemy
 ==================================
 
 
-![](images/img-1-1400.png)
+![](images/img-1.2x.png)
 
 Hello everyone! Here’s a summary of our second AMA session. For more detailed answers, check out the [**FULL VIDEO**](https://www.youtube.com/watch?v=brFu5px7MFU) on YouTube.
 

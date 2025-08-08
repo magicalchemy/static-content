@@ -23,7 +23,7 @@ Tokenomics is a critical component of any successful crypto project. Its design 
 * **Treasury Vault (Warchest):** A treasury owned by the game to support its economy.
 
 
-![](images/img-1-1400.jpg)
+![](images/img-1.2x.jpg)
 
 This section presents solutions to these challenges, based on modeling the tokenomics of our game. It takes into account gameplay mechanics and the various influences of user groups that are an integral part of the open economy (industrial farmers, players, and speculators).
 
@@ -39,10 +39,10 @@ The Warchest acts as a **market maker**: when **hard floor conditions** are trig
 This mechanism ensures that the **token price cannot fall below its fundamental value**.
 
 
-![](images/img-2-1400.jpg)
+![](images/img-2.2x.jpg)
 
 
-![](images/img-3-1400.jpg)
+![](images/img-3.2x.jpg)
 
 Moreover, during gameplay, players often fear **large token unlocks**, leading them to exit the game prematurely.
 
@@ -53,7 +53,7 @@ This issue is addressed by making the game **finite**, lasting approximately **o
 This approach eliminates the fear of **token dumps**, allowing players to focus entirely on their **strategies and progression** throughout the game.
 
 
-![](images/img-4-1400.jpg)
+![](images/img-4.2x.jpg)
 
 The end of the game marks the **distribution of community rewards** among the winners and the **transformation of the Warchest into a DAO fund**.
 
@@ -65,12 +65,12 @@ G.E.M.
 ======
 
 
-![](images/img-5-1400.jpg)
+![](images/img-5.2x.jpg)
 
 While creating the game, we realized it was more than just a game. It’s a **complete economic engine** — an **infrastructure model** that can be applied to any **Web3 game**.
 
 
-![](images/img-6-1400.jpg)
+![](images/img-6.2x.jpg)
 
 **Key Components of This Model:**
 
@@ -81,7 +81,7 @@ While creating the game, we realized it was more than just a game. It’s a **co
 This is how the **Game Economic Model (G.E.M.)** was created. In our studio, we simply call it the **Engine**.
 
 
-![](images/img-7-1400.jpg)
+![](images/img-7.2x.jpg)
 
 Our economic engine serves as a **framework** for any type of **GameFi project**. You can integrate any **Web2 game** and customize the other components as needed.
 
@@ -130,19 +130,19 @@ Due to strong **fundamental demand**, **POTION may experience a supply shortage*
 * **Initial Supply (Initial Supply):** **2.255 million POTION** (**15% of the total supply**).
 
 
-![](images/img-8-1400.jpg)
+![](images/img-8.2x.jpg)
 
 The timeline of **POTION’s circulating supply growth** during the game is shown below:
 
 
-![](images/img-9-1400.jpg)
+![](images/img-9.2x.jpg)
 
 Since **Magic Alchemy** has a **finite gameplay duration**, the project will continue evolving and **transition into a DAO** after the game ends. At this stage, the **game tokenomics** shifts to a **DAO-based model**, featuring a **Total Supply of 100 million POTION**.
 
 Of this supply, **50 million POTION** (exactly **50%**) will be distributed as **rewards** for in-game achievements.
 
 
-![](images/img-10-1400.jpg)
+![](images/img-10.2x.jpg)
 
 A key element of the DAO tokenomics is the **SAFU Fund (Warchest)**, which accumulates all profits from **NFT sales**, **pool fees**, and **marketplace commissions**. The **Warchest** serves as a **value support mechanism** for rewards earned by Alchemists and acts as a **backing reserve** for the **POTION token** in the DAO phase.
 

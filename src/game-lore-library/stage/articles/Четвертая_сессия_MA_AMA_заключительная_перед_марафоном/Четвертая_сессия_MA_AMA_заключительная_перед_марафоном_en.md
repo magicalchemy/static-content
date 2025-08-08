@@ -3,7 +3,7 @@
 Hello everyone! Here’s a brief summary of our fourth AMA, the final one before the start of the NFT and POTION Token Marathon. If you’re interested in more detailed answers to the questions, check out the [FULL VIDEO](https://youtu.be/H807vMfoYJc?si=-f2Zdd5084LgoxNK) on YouTube.
 
 
-![](images/img-1-1400.jpeg)
+![](images/img-1.2x.jpeg)
 
 **00:00:07 — Speaker Introduction**
 

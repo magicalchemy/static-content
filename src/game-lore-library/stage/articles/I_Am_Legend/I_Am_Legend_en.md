@@ -12,12 +12,12 @@ We want to share the value and utility of our Alchemists. As mentioned earlier (
 The primary value of Alchemists lies in the fact that **only their owners can participate in the core DeFi mechanics of Magic Alchemy.** We position ourselves as a gamified DEX platform, and it seems we’ve succeeded in creating a new gaming genre — **LP2Play.**
 
 
-![](images/img-1-1400.png)
+![](images/img-1.2x.png)
 
 In short, the essence of this genre lies in players adding liquidity to the **cauldron (pool)** in the form of game potions (in-game tokens). By “brewing” these potions, they compete for rewards. At the same time, players progress through the storyline using various in-game mechanics. You can read more about the DeFi aspect of the game [here](../MA_DeFi_Part/MA_DeFi_Part_en.md).
 
 
-![](images/img-2-1400.png)
+![](images/img-2.2x.png)
 
 Another key feature of the Genesis Alchemists is their exclusivity and the uniqueness of their artwork. Each character has been meticulously hand-drawn by our lead artist, a process that took several months of dedicated effort. No two characters in the game will have the same design — this applies not only to the Alchemists but also to other in-game characters like Repairmen and Gardeners. We’re confident that collectors will be eager to add these one-of-a-kind goblins to their collections.
 

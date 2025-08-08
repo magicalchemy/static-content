@@ -2,7 +2,7 @@
 ==================
 
 
-![](images/img-1-1400.jpeg)
+![](images/img-1.2x.jpeg)
 
 **Magic Alchemy** — это соревновательная **DeFi-игра** на собственном **DEX** движке с уникальным методом онбординга **Web2** в **Web3**.
 
@@ -15,7 +15,7 @@
 * Кол-во уникальных игроков: 4151
 
 
-![](images/img-2-1400.jpeg)
+![](images/img-2.2x.jpeg)
 
 * Кол-во сыгранных партий: 163235
 * Кол-во партий вничью: 357
@@ -24,11 +24,11 @@
 * DAU 1000+
 
 
-![](images/img-3-1400.jpeg)
+![](images/img-3.2x.jpeg)
 
 * Ретеншн D1–64%, D7–39%, D30–18% (нет платного входа в виде NFT или токенов)
 
 
-![](images/img-4-1400.jpeg)
+![](images/img-4.2x.jpeg)
 
 [Website](https://magicalchemy.org/) | [Twitter](https://twitter.com/magicalchemydao) | [Discord](https://discord.gg/MMdJ9zw6cc) | [Telegram](https://t.me/magicalchemychat) | [Gitbook](https://docs.magicalchemy.org/)

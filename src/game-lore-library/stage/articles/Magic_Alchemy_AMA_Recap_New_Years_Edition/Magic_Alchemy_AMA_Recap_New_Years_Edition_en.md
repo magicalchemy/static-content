@@ -5,7 +5,7 @@ Magic Alchemy AMA Recap (New Year’s Edition)
 Hello everyone! Here’s a quick summary of our third, festive AMA session. If you’re curious for more detailed answers, you can watch the [**full video**](https://www.youtube.com/watch?v=UuPkaIh4TaA) on YouTube.
 
 
-![](images/img-1-1400.png)
+![](images/img-1.2x.png)
 
 **00:05 — Starting the AMA: A Look Back at the Year**  
 Approximately a year ago, on December 12th, the alpha version of Magic Alchemy was launched. It featured the first card game mechanic and a single location — the Tavern. Players could earn NFT mugs after five victories. Many sold these mugs, while others held onto them, believing in the project.

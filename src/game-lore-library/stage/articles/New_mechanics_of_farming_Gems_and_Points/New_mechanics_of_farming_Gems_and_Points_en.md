@@ -9,7 +9,7 @@ As the marathon approaches, our team has decided to reveal new game mechanics th
 During the RAO (Ready Alchemist One) event, your main location will be the Workshop. You can learn more about the FAGR stage in our dedicated [article](../Post-Token_and_NFT_Marathon_Stages/Post-Token_and_NFT_Marathon_Stages_en.md) on the post-marathon stages.
 
 
-![](images/img-1-1400.png)
+![](images/img-1.2x.png)
 
 In short, in the Workshop, you will be able to stake your Alchemist, and in return, you will receive rewards in the form of POTION tokens. These tokens will come from the DAO reward pool and can only be used after the game ends. All information about the amount of POTION earned by the player during the RAO stage will be recorded in the NFT Alchemist’s metadata.
 
@@ -25,7 +25,7 @@ In the Workshop during the RAO stage, two additional sub-locations will appear: 
 In the Small Workshop, players with an NFT Alchemist can stake it, and by adding Gems and Points to the Alchemical Generator, they can begin to receive additional Gems and Points. The amount of Gems and Points received in this way will be quite generous. We are confident that players who take advantage of this mechanic will significantly improve their positions on the **Alchemania** and **Brew or Die** leaderboards.
 
 
-![](images/img-2-1400.png)
+![](images/img-2.2x.png)
 
 With the introduction of this new mechanic, we are giving players the opportunity to decide how to best utilize their Alchemist:
 

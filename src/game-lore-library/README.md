@@ -4,19 +4,50 @@
 
 Данный подпроект хранит статьи по лору игры и механикам в виде markdown-файлов, связанных через файл оглавления.
 
+## Быстрый старт: добавление новой статьи
+
+Эта инструкция описывает, как добавить новую статью в базу знаний игры.
+
+### 1. Создайте папку для новой статьи
+
+В директории `src/game-lore-library/stage/articles/` создайте новую папку с названием вашей статьи (без пробелов, используйте нижние подчеркивания).
+
+Пример: `src/game-lore-library/stage/articles/dragons_of_the_north/`
+
+### 2. Добавьте файлы статьи
+
+В созданной папке создайте файлы статей с расширением `.md`:
+- Основной файл на русском языке: `dragons_of_the_north_ru.md`
+- Если нужна английская версия: `dragons_of_the_north_en.md`
+
+### 3. Добавьте изображения
+
+Если в статье есть изображения:
+1. Создайте папку `images` внутри папки статьи
+2. Поместите изображения в эту папку в формате `.2x.png` или `.2x.jpg` 
+3. Пример пути: `dragons_of_the_north/images/dragon-fire.2x.png`
+
+### 4. Конвертируйте изображения в AVIF
+
+После добавления всех изображений запустите инструмент конвертации, чтобы создать AVIF-версии (подробная инструкция ниже в разделе "Конвертация изображений").
+
+### 5. Добавьте статью в оглавление
+
+Откройте файл `src/game-lore-library/stage/toc.json` и добавьте вашу статью в соответствующий раздел (WIKI или LORE) согласно формату описанному в разделе "Формат toc.json"
+
 ## Структура
 
 src/game-lore-library/
 ├── stage/
 │ ├── toc.json # оглавление статей
 │ └── articles/ # markdown-статьи
-│     ├── [Название_статьи]/ # отдельная директория для каждой статьи
-│     │   ├── [Название_статьи]_ru.md # файл статьи на русском
-│     │   ├── [Название_статьи]_en.md # файл статьи на английском (опционально)
-│     │   └── images/ # изображения для конкретной статьи
+│ ├── [Название_статьи]/ # отдельная директория для каждой статьи
+│ │ ├── [Название_статьи]*ru.md # файл статьи на русском
+│ │ ├── [Название*статьи]\_en.md # файл статьи на английском (опционально)
+│ │ └── images/ # изображения для конкретной статьи
 └── production/
-    ├── toc.json
-    └── articles/
+├── toc.json
+└── articles/
 
 ## Формат toc.json
 
@@ -24,12 +55,17 @@ src/game-lore-library/
 
 ### 1. Структура файла
 
-Файл представляет собой JSON-объект с двумя ключами "WIKI" и "LORE", значениями которых являются массивы статей и категорий.
+Файл представляет собой JSON-объект с двумя ключами "WIKI" и "LORE", значениями которых являются массивы статей и
+категорий.
 
 ```json
 {
-  "WIKI": [...],
-  "LORE": [...]
+  "WIKI": [
+    ...
+  ],
+  "LORE": [
+    ...
+  ]
 }
 ```
 
@@ -129,32 +165,193 @@ src/game-lore-library/
 - Каждая статья отображается с заголовком и контентом.
 - Картинки для каждой статьи доступны из папки `images` внутри директории статьи.
 
+## Форматы и требования к изображениям
+
+Для статей используются изображения в следующих форматах:
+
+- Изображения должны иметь формат `.2x.png`, `.2x.jpg`, `.2x.jpeg` или `.2x.avif`
+- Каждое изображение хранится в директории `images/` внутри директории статьи
+- Основной формат изображений для веб-страниц - AVIF, с PNG/JPG в качестве fallback
+
+## Работа со скриптами
+
+### Конвертация изображений в AVIF
+
+Для конвертации изображений в формат AVIF используется скрипт `convert_to_avif.sh`. Доступно два варианта использования:
+
+#### Вариант 1: Использование Docker (рекомендуется)
+
+Этот вариант позволяет запустить конвертацию без установки зависимостей на ваш компьютер и работает на любой операционной системе с установленным Docker.
+
+##### A. Использование обычных команд Docker
+
+1. Убедитесь, что у вас установлен Docker:
+
+   - [Установка Docker](https://docs.docker.com/get-docker/)
+
+2. Перейдите в директорию проекта и соберите имидж:
+
+   ```bash
+   cd src/game-lore-library
+   docker build -t avif-converter .
+   ```
+
+3. Запустите контейнер для нужного окружения:
+
+   ```bash
+   # Для обработки изображений в окружении stage
+   docker run --rm -v "$(pwd)/stage:/app/stage" avif-converter --environment stage
+   ```
+
+   ```bash
+   # Для обработки изображений в окружении production
+   docker run --rm -v "$(pwd)/production:/app/production" avif-converter --environment production
+   ```
+
+   Примечания:
+   - `--rm` удаляет контейнер после завершения работы
+   - `-v` монтирует локальную директорию статей в контейнер
+
+##### B. Использование Docker Compose
+
+1. Убедитесь, что у вас установлены Docker и Docker Compose:
+
+   - [Установка Docker](https://docs.docker.com/get-docker/)
+   - [Docker Compose](https://docs.docker.com/compose/install/)
+
+2. Перейдите в директорию проекта и запустите контейнер для нужного окружения:
+
+   ```bash
+   cd src/game-lore-library
+   ```
+
+   ```bash
+   # Для обработки изображений в окружении stage
+   docker-compose up --build avif-converter-stage
+   ```
+
+   ```bash
+   # ИЛИ для обработки изображений в окружении production
+   docker-compose up --build avif-converter-production
+   ```
+
+   ```bash
+   # ИЛИ для обработки изображений в обоих окружениях одновременно
+   docker-compose up --build
+   ```
+
+   При первом запуске будет собран образ и запущен контейнер для обработки изображений в выбранном окружении.
+
+#### Вариант 2: Локальный запуск
+
+Если вы предпочитаете запустить скрипт напрямую без использования Docker:
+
+1. Убедитесь, что у вас установлены необходимые зависимости (ImageMagick и libavif):
+
+   Для macOS:
+
+   ```bash
+   brew install imagemagick libavif
+   ```
+
+   Для Ubuntu/Debian:
+
+   ```bash
+   sudo apt-get install imagemagick libavif-bin
+   ```
+
+   Для Windows:
+
+   - Установите ImageMagick с официального сайта: https://imagemagick.org/script/download.php
+   - Для libavif можно использовать WSL или скомпилировать из исходников: https://github.com/AOMediaCodec/libavif
+
+2. Запустите скрипт для нужного окружения:
+
+```bash
+# Перейдите в директорию проекта если вы находитесь в другом каталоге
+   cd src/game-lore-library
+```
+
+```bash
+   chmod +x convert_to_avif.sh
+```
+
+```bash
+# Для обработки изображений в окружении stage (по умолчанию)
+./convert_to_avif.sh
+```
+
+### Что делает конвертер
+
+Конвертер автоматически:
+
+- Находит все картинки `.2x.png`, `.2x.jpg` или `.2x.jpeg` в папках статей
+- Создаёт несколько версий каждого изображения в формате AVIF:
+  - `.2x.avif` - полноразмерная версия
+  - `.1x.avif` - уменьшенная в два раза версия
+  - `.mobile.2x.avif` - версия для мобильных устройств (55% от оригинала)
+  - `.mobile.1x.avif` - уменьшенная версия для мобильных устройств
+- Сохраняет новые файлы рядом с оригиналами в той же папке
+- Не трогает оригинальные файлы
+- Пропускает уже созданные AVIF файлы (если нужно пересоздать их, сначала удалите старые файлы вручную)
+
+### Как запустить конвертацию изображений
+
+#### Самый простой способ (для Windows, Mac, Linux)
+
+1. Установите Docker Desktop на ваш компьютер:
+   - Скачайте и установите с сайта [Docker](https://www.docker.com/products/docker-desktop/)
+   - Запустите Docker Desktop после установки
+
+2. Откройте терминал или командную строку
+
+3. Перейдите в директорию game-lore-library:
+   ```bash
+   cd путь/до/проекта/src/game-lore-library
+   ```
+
+4. Выполните одну команду для конвертации всех изображений:
+   ```bash
+   docker build -t avif-converter . && docker run --rm -v "$(pwd)/stage:/app/stage" avif-converter --environment stage
+   ```
+
+5. Дождитесь завершения конвертации (это может занять несколько минут)
+
+6. Готово! Все необходимые AVIF-версии изображений были созданы
+
+Если у вас возникли проблемы, обратитесь к разработчикам для получения помощи.
+
 ## Работа с файлами
 
 1. Клонировать репозиторий:
 
-   ```bash
+```bash
+git clone https://github.com/magicalchemy/static-content.git
+cd static-content
+```
    git clone https://github.com/magicalchemy/static-content.git
    cd static-content
    ```
 
-2. Обновить статьи в `src/game-lore-library/stage/articles` и изображения в `src/game-lore-library/stage/images`.
+2. Обновить статьи в `src/game-lore-library/stage/articles` и изображения в директориях `images/` внутри каждой статьи.
 
 3. Обновить `src/game-lore-library/stage/toc.json`.
 
-4. Закоммитить изменения:
+4. При необходимости, конвертировать изображения в AVIF используя скрипт `convert_to_avif.sh`.
+
+5. Закоммитить изменения:
 
    ```bash
    git commit -m "update game lore articles"
    ```
 
-5. Залить изменения на GitHub:
+6. Залить изменения на GitHub:
 
    ```bash
    git push origin main
    ```
 
-6. Протестировать на stage через raw-ссылку:
+7. Протестировать на stage через raw-ссылку:
 
    ```
    https://raw.githubusercontent.com/magicalchemy/static-content/refs/heads/main/src/game-lore-library/stage/toc.json
@@ -162,25 +359,24 @@ src/game-lore-library/
 
    и на сайте https://stage.magicalchemy.org/world/library
 
-7. Если все хорошо, скопировать содержимое из `stage/` в `production/`:
+8. Если все хорошо, скопировать содержимое из `stage/` в `production/`:
 
    - Скопировать статьи из `stage/articles/` в `production/articles/`
-   - Скопировать изображения из `stage/images/` в `production/images/`
    - Скопировать `stage/toc.json` в `production/toc.json`
 
-8. Закоммитить изменения:
+9. Закоммитить изменения:
 
    ```bash
    git commit -m "update game lore articles in production"
    ```
 
-9. Залить изменения на GitHub:
+10. Залить изменения на GitHub:
 
-   ```bash
-   git push origin main
-   ```
+    ```bash
+    git push origin main
+    ```
 
-10. Протестировать на production через raw-ссылку:
+11. Протестировать на production через raw-ссылку:
     ```
     https://raw.githubusercontent.com/magicalchemy/static-content/refs/heads/main/src/game-lore-library/production/toc.json
     ```
