@@ -26,18 +26,18 @@
             "ru": "articles/alchemy-formulas-ru.md",
             "en": "articles/alchemy-formulas-en.md"
           }
+        },
+        {
+          "title": {
+            "ru": "Пример статьи",
+            "en": "Example Article"
+          },
+          "files": {
+            "ru": "articles/example-ru.md",
+            "en": "articles/example-en.md"
+          }
         }
       ]
-    },
-    {
-      "title": {
-        "ru": "Пример статьи",
-        "en": "Example Article"
-      },
-      "files": {
-        "ru": "articles/example-ru.md",
-        "en": "articles/example-en.md"
-      }
     }
   ],
   "LORE":[

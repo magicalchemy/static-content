@@ -35,22 +35,7 @@ src/game-lore-library/
 }
 ```
 
-### 2. Статья без категории
-
-```json
-{
-  "title": {
-    "ru": "Название статьи на русском",
-    "en": "Article title in English"
-  },
-  "files": {
-    "ru": "articles/filename-ru.md",
-    "en": "articles/filename-en.md"
-  }
-}
-```
-
-### 3. Категория со статьями
+### 2. Категория со статьями
 
 ```json
 {
@@ -95,18 +80,18 @@ src/game-lore-library/
             "ru": "articles/combat-ru.md",
             "en": "articles/combat-en.md"
           }
+        },
+        {
+          "title": {
+            "ru": "Пример статьи",
+            "en": "Example Article"
+          },
+          "files": {
+            "ru": "articles/example-ru.md",
+            "en": "articles/example-en.md"
+          }
         }
       ]
-    },
-    {
-      "title": {
-        "ru": "Пример статьи",
-        "en": "Example Article"
-      },
-      "files": {
-        "ru": "articles/example-ru.md",
-        "en": "articles/example-en.md"
-      }
     }
   ],
   "LORE": [
