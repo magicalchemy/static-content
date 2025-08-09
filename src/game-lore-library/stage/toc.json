@@ -1,215 +1,65 @@
 {
-  "WIKI":[
+  "WIKI": [
     {
       "title": {
-        "ru": "Механики",
-        "en": "Game Mechanics"
+        "ru": "Примеры",
+        "en": "Examples"
       },
       "items": [
         {
           "title": {
-            "ru": "Ребаланс Magic Towers",
-            "en": "Magic Towers Rebalance"
+            "ru": "Пример 1 — Полное покрытие",
+            "en": "Example 1 — Full coverage"
           },
           "files": {
-            "ru": "articles/magic_towers_rebalance/magic_towers_rebalance_ru.md"
+            "ru": "articles/example_1/example_1_ru.md",
+            "en": "articles/example_1/example_1_en.md"
           }
         },
         {
           "title": {
-            "ru": "Марафон токенов и NFT MA",
-            "en": "MA Token and NFT Marathon"
+            "ru": "Пример 2 — Только русская версия",
+            "en": "Example 2 — Russian only"
           },
           "files": {
-            "ru": "articles/ma_token_and_nft_marathon/ma_token_and_nft_marathon_ru.md"
+            "ru": "articles/example_2/example_2_ru.md"
           }
         },
         {
           "title": {
-            "ru": "Статистика по бете",
-            "en": "Beta Statistics"
+            "ru": "Пример 3 — Только английская версия",
+            "en": "Example 3 — English only"
           },
           "files": {
-            "ru": "articles/beta_statistics/beta_statistics_ru.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Новые механики фарминга Gems и Points",
-            "en": "New mechanics of farming Gems and Points"
-          },
-          "files": {
-            "en": "articles/new_mechanics_of_farming_gems_and_points/new_mechanics_of_farming_gems_and_points_en.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Новые механики стейкинга RUSK",
-            "en": "The new mechanics of staking RUSK"
-          },
-          "files": {
-            "en": "articles/the_new_mechanics_of_steaking_rusk/the_new_mechanics_of_steaking_rusk_en.md"
-          }
-        }
-      ]
-    },
-    {
-      "title": {
-        "ru": "Magic Alchemy Токеномика",
-        "en": "Magic Alchemy Tokenomics"
-      },
-      "items": [
-        {
-          "title": {
-            "ru": "Magic Alchemy Токеномика",
-            "en": "Magic Alchemy Tokenomics"
-          },
-          "files": {
-            "en": "articles/magic_alchemy_tokenomics/magic_alchemy_tokenomics_en.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "RUSK Токеномика",
-            "en": "RUSK Tokenomics"
-          },
-          "files": {
-            "en": "articles/rusk_tokenomics/rusk_tokenomics_en.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Magic Alchemy DeFi",
-            "en": "Magic Alchemy DeFi"
-          },
-          "files": {
-            "en": "articles/ma_defi_part/ma_defi_part_en.md"
+            "en": "articles/example_3/example_3_en.md"
           }
         }
       ]
     }
   ],
-  "LORE":[
+  "LORE": [
     {
       "title": {
-        "ru": "Мир игры",
-        "en": "Game World"
+        "ru": "Лор — Примеры",
+        "en": "Lore — Examples"
       },
       "items": [
         {
           "title": {
-            "ru": "О существах магических",
-            "en": "About Magical Creatures"
+            "ru": "Лор — Пример 1 (только RU)",
+            "en": "Lore — Example 1 (RU only)"
           },
           "files": {
-            "ru": "articles/about_magical_creatures/about_magical_creatures_ru.md"
+            "ru": "articles/lore_example_1/lore_example_1_ru.md"
           }
         },
         {
           "title": {
-            "ru": "О существах магических. Часть 2",
-            "en": "About Magical Creatures. Part 2"
+            "ru": "Лор — Пример 2 (только EN)",
+            "en": "Lore — Example 2 (EN only)"
           },
           "files": {
-            "ru": "articles/about_magical_creatures_part_2/about_magical_creatures_part_2_ru.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "О существах магических. Часть 3",
-            "en": "About Magical Creatures. Part 3"
-          },
-          "files": {
-            "ru": "articles/about_magical_creatures_part_3/about_magical_creatures_part_3_ru.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "О существах магических. Часть 4",
-            "en": "About Magical Creatures. Part 4"
-          },
-          "files": {
-            "ru": "articles/about_magical_creatures_part_4/about_magical_creatures_part_4_ru.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "О существах магических. Часть 5",
-            "en": "About Magical Creatures. Part 5"
-          },
-          "files": {
-            "ru": "articles/about_magical_creatures_part_5/about_magical_creatures_part_5_ru.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Страны мира ДжиДа. Часть 4",
-            "en": "Countries of the JiDa world. Part 4"
-          },
-          "files": {
-            "ru": "articles/jida_world_countries_part_4/jida_world_countries_part_4_ru.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Возвращение домой",
-            "en": "Homecoming"
-          },
-          "files": {
-            "ru": "articles/homecoming/homecoming_ru.md"
-          }
-        }
-      ]
-    },
-    {
-      "title": {
-        "ru": "AMA Сессии",
-        "en": "AMA Sessions"
-      },
-      "items": [
-        {
-          "title": {
-            "ru": "Magic Alchemy AMA Recap: Новогоднее издание",
-            "en": "Magic Alchemy AMA Recap: New Year's Edition"
-          },
-          "files": {
-            "en": "articles/magic_alchemy_ama_recap_new_years_edition/magic_alchemy_ama_recap_new_years_edition_en.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Вторая AMA сессия Magic Alchemy",
-            "en": "Second AMA Session Magic Alchemy"
-          },
-          "files": {
-            "en": "articles/second_ama_session_magic_alchemy/second_ama_session_magic_alchemy_en.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Четвертая сессия MA AMA, заключительная перед марафоном",
-            "en": "Fourth MA AMA session, final before the marathon"
-          },
-          "files": {
-            "en": "articles/fourth_ma_ama_session_final_before_marathon/fourth_ma_ama_session_final_before_marathon_en.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "Post-Token и NFT Marathon Stages",
-            "en": "Post-Token and NFT Marathon Stages"
-          },
-          "files": {
-            "en": "articles/post_token_and_nft_marathon_stages/post_token_and_nft_marathon_stages_en.md"
-          }
-        },
-        {
-          "title": {
-            "ru": "I Am Legend",
-            "en": "I Am Legend"
-          },
-          "files": {
-            "en": "articles/i_am_legend/i_am_legend_en.md"
+            "en": "articles/lore_example_2/lore_example_2_en.md"
           }
         }
       ]
