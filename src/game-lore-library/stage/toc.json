@@ -17,6 +17,15 @@
         },
         {
           "title": {
+            "ru": "Марафон токенов и NFT MA",
+            "en": "MA Token and NFT Marathon"
+          },
+          "files": {
+            "ru": "articles/Марафон_Токенов_и_NFT_MA/Марафон_Токенов_и_NFT_MA_ru.md"
+          }
+        },
+        {
+          "title": {
             "ru": "Статистика по бете",
             "en": "Beta Statistics"
           },
