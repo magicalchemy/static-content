@@ -1,0 +1,20 @@
+# Lightweight image with required tools to run normalize script once built
+FROM debian:bookworm-slim
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update -y \
+  && apt-get install -y --no-install-recommends \
+    bash \
+    git \
+    gawk \
+    sed \
+    ca-certificates \
+  && rm -rf /var/lib/apt/lists/*
+
+# Work with mounted repo
+WORKDIR /work
+
+# No entrypoint; run commands explicitly, e.g.:
+#   docker run --rm -it -v "$PWD:/work" -w /work ma-gl-normalize:latest \
+#     bash -lc 'bash src/game-lore-library/normalize_stage_article_names.sh && git status -s'

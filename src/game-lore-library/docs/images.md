@@ -9,12 +9,31 @@
 
 ## Конвертация (Docker — рекомендуется)
 
+### Быстрый запуск (через меню утилит)
+
+Рекомендуется использовать общее меню утилит — оно само соберёт образ и смонтирует каталоги корректно:
+
+```bash
+chmod +x ma-tools.sh
+./ma-tools.sh
+```
+
+Далее выберите пункт «Конвертация изображений в AVIF» и укажите окружение (stage/production).
+
+### Вручную через Docker
+
 ```bash
 cd src/game-lore-library
 docker build -t avif-converter .
 docker run --rm -v "$(pwd)/stage:/app/stage" avif-converter --environment stage
 # или для production
 # docker run --rm -v "$(pwd)/production:/app/production" avif-converter --environment production
+```
+
+Примечание: если вы уже собирали образ через меню (`ma-tools.sh`), он имеет тег `ma-gl-avif`. Можно использовать его вместо `avif-converter`:
+
+```bash
+docker run --rm -v "$(pwd)/stage:/app/stage" ma-gl-avif --environment stage
 ```
 
 ## Конвертация локально
