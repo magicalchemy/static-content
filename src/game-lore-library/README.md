@@ -36,6 +36,28 @@ chmod +x ma-tools.sh
 ./ma-tools.sh
 ```
 
+### Windows
+
+- __Установка Git Bash__
+  - Скачайте и установите «Git for Windows»: https://git-scm.com/downloads/win
+  - Во время установки оставьте включёнными опции «Git Bash» и «Git Bash Here» (контекстное меню Проводника).
+  - После установки откройте «Git Bash» через меню Пуск или правым кликом по папке → «Git Bash Here».
+
+- __Git Bash (рекомендуется)__
+  - Откройте Git Bash в корне репозитория и выполните команды выше без изменений.
+
+- __WSL__
+  - Убедитесь, что репозиторий доступен в `/mnt/c/...`
+  - Пример:
+    ```bash
+    cd /mnt/c/Users/<user>/WebstormProjects/MA-static-content/src/game-lore-library
+    chmod +x ma-tools.sh
+    ./ma-tools.sh
+    ```
+
+- __PowerShell/CMD__
+  - Непосредственно не подходят: `ma-tools.sh` — bash-скрипт. Используйте Git Bash или WSL.
+
 Доступные пункты:
 
 - Нормализация названий (snake_case)
