@@ -166,7 +166,7 @@ validate_toc() {
     validate_toc_structure "$toc_file" "$env_name"
     
     # Извлечение и проверка всех путей к файлам
-    local file_paths=$(jq -r '.WIKI + .LORE | .[] | .items[] | .files | to_entries[] | .value' "$toc_file")
+    local file_paths=$(jq -r '[.WIKI,.LORE] | .. | objects | select(has("files")) | .files | to_entries[] | .value' "$toc_file")
     
     for file_path in $file_paths; do
         ((total_entries++))
@@ -184,120 +184,118 @@ validate_toc_structure() {
     local toc_file=$1
     local env_name=$2
     
+    # Вспомогательная: рекурсивная проверка списка items
+    validate_items_recursive() {
+        local section=$1
+        local category_idx=$2
+        local path_prefix=$3
+        local length=$(jq -r ".$section[$category_idx].items | length" "$toc_file")
 
-    
-    # Проверка категорий WIKI и LORE
-    for section in "WIKI" "LORE"; do
-        # Проверка что категории являются массивами
-        if ! jq -e ".$section | type == \"array\"" "$toc_file" >/dev/null; then
-            add_structure_error "$env_name" "Секция $section должна быть массивом"
-            continue
-        fi
-        
-        # Проверка наличия title и items в каждой категории
-        local categories=$(jq -r ".$section | to_entries[] | .key" "$toc_file")
-        local category_count=$(jq -r ".$section | length" "$toc_file")
-        
-        for i in $(seq 0 $((category_count-1))); do
-            # Проверка наличия title и items в каждой категории
-            if ! jq -e ".$section[$i].title != null" "$toc_file" >/dev/null; then
-                add_structure_error "$env_name" "В секции $section[$i] отсутствует поле title"
-            elif ! jq -e ".$section[$i].title.ru != null" "$toc_file" >/dev/null || ! jq -e ".$section[$i].title.en != null" "$toc_file" >/dev/null; then
-                add_structure_error "$env_name" "В секции $section[$i].title должны быть поля ru и en"
+        for j in $(seq 0 $((length-1))); do
+            local base_path="$path_prefix.items[$j]"
+            local item_title_ru=$(jq -r ".$section[$category_idx].items[$j].title.ru // \"[Без названия]\"" "$toc_file")
+            local item_location="$base_path ($item_title_ru)"
+
+            # title.ru/en обязательны
+            if ! jq -e ".$section[$category_idx].items[$j].title != null" "$toc_file" >/dev/null; then
+                add_structure_error "$env_name" "В секции $item_location отсутствует поле title"
+            elif ! jq -e ".$section[$category_idx].items[$j].title.ru != null" "$toc_file" >/dev/null || ! jq -e ".$section[$category_idx].items[$j].title.en != null" "$toc_file" >/dev/null; then
+                add_structure_error "$env_name" "В секции $item_location поля title.ru и title.en обязательны"
             fi
-            
-            if ! jq -e ".$section[$i].items != null" "$toc_file" >/dev/null; then
-                add_structure_error "$env_name" "В секции $section[$i] отсутствует поле items"
-                continue
-            fi
-            
-            # Проверка элементов в категории
-            local items_count=$(jq -r ".$section[$i].items | length" "$toc_file")
-            
-            for j in $(seq 0 $((items_count-1))); do
-                # Получаем название статьи для более информативных сообщений
-                local item_title_ru=$(jq -r ".$section[$i].items[$j].title.ru // \"[Без названия]\"" "$toc_file")
-                local item_title_en=$(jq -r ".$section[$i].items[$j].title.en // \"[Untitled]\"" "$toc_file")
-                local item_location="$section[$i].items[$j] ($item_title_ru)"
-                
-                # Проверка наличия title и fields у элементов
-                if ! jq -e ".$section[$i].items[$j].title != null" "$toc_file" >/dev/null; then
-                    add_structure_error "$env_name" "В секции $item_location отсутствует поле title"
-                elif ! jq -e ".$section[$i].items[$j].title.ru != null" "$toc_file" >/dev/null || ! jq -e ".$section[$i].items[$j].title.en != null" "$toc_file" >/dev/null; then
-                    add_structure_error "$env_name" "В секции $item_location должны быть поля ru и en"
-                fi
-                
-                if ! jq -e ".$section[$i].items[$j].files != null" "$toc_file" >/dev/null; then
-                    add_structure_error "$env_name" "В секции $item_location отсутствует поле files"
-                    continue
-                fi
-                
-                # Проверка наличия русской и/или английской версии
-                local has_ru="false"
-                local has_en="false"
-                
-                if jq -e ".$section[$i].items[$j].files.ru != null" "$toc_file" >/dev/null 2>&1; then
-                    has_ru="true"
-                fi
-                
-                if jq -e ".$section[$i].items[$j].files.en != null" "$toc_file" >/dev/null 2>&1; then
-                    has_en="true"
-                fi
-                
 
+            local has_files=$(jq -e ".$section[$category_idx].items[$j].files != null" "$toc_file" >/dev/null; echo $?)
+            local has_items=$(jq -e ".$section[$category_idx].items[$j].items != null" "$toc_file" >/dev/null; echo $?)
 
-                if [[ "$has_ru" == "false" && "$has_en" == "false" ]]; then
-                    # Ошибка - нет ни русской, ни английской версии
+            if [[ "$has_files" -eq 0 ]]; then
+                # Элемент-статья
+                local has_ru=false
+                local has_en=false
+                if jq -e ".$section[$category_idx].items[$j].files.ru != null" "$toc_file" >/dev/null 2>&1; then has_ru=true; fi
+                if jq -e ".$section[$category_idx].items[$j].files.en != null" "$toc_file" >/dev/null 2>&1; then has_en=true; fi
+
+                if [[ "$has_ru" == false && "$has_en" == false ]]; then
                     add_structure_error "$env_name" "В секции $item_location отсутствуют файлы для обоих языков"
-                    continue
-                elif [[ "$has_ru" == "false" ]]; then
-                    # Предупреждение - нет русской версии
-                    add_warning_no_ru "$env_name" "$item_title_ru"
-
-                elif [[ "$has_en" == "false" ]]; then
-                    # Предупреждение - нет английской версии
-                    add_warning_no_en "$env_name" "$item_title_ru"
-
                 fi
-                
-                # Проверка путей к файлам (только если они существуют)
-                if [[ "$has_ru" == "true" ]]; then
-                    local file_ru=$(jq -r ".$section[$i].items[$j].files.ru" "$toc_file")
+
+                if [[ "$has_ru" == true ]]; then
+                    local file_ru=$(jq -r ".$section[$category_idx].items[$j].files.ru" "$toc_file")
                     if [[ ! "$file_ru" =~ ^articles/.+/.+\.md$ ]]; then
                         add_format_error "$env_name" "Неправильный формат пути к файлу ru: $file_ru. Должно быть articles/название_статьи/файл.md" "$item_location"
                     else
-                        # Проверка соответствия языка в названии файла
                         if [[ "$file_ru" =~ _en\.md$ ]]; then
                             add_format_error "$env_name" "Русская версия ссылается на английский файл: $file_ru" "$item_location"
                         elif [[ ! "$file_ru" =~ _ru\.md$ ]]; then
                             add_format_error "$env_name" "Файл русской версии должен заканчиваться на '_ru.md': $file_ru" "$item_location"
                         fi
                     fi
+                else
+                    add_warning_no_ru "$env_name" "$item_title_ru"
                 fi
-                
-                if [[ "$has_en" == "true" ]]; then
-                    local file_en=$(jq -r ".$section[$i].items[$j].files.en" "$toc_file")
+
+                if [[ "$has_en" == true ]]; then
+                    local file_en=$(jq -r ".$section[$category_idx].items[$j].files.en" "$toc_file")
                     if [[ ! "$file_en" =~ ^articles/.+/.+\.md$ ]]; then
                         add_format_error "$env_name" "Неправильный формат пути к файлу en: $file_en. Должно быть articles/название_статьи/файл.md" "$item_location"
                     else
-                        # Проверка соответствия языка в названии файла
                         if [[ "$file_en" =~ _ru\.md$ ]]; then
                             add_format_error "$env_name" "Английская версия ссылается на русский файл: $file_en" "$item_location"
                         elif [[ ! "$file_en" =~ _en\.md$ ]]; then
                             add_format_error "$env_name" "Файл английской версии должен заканчиваться на '_en.md': $file_en" "$item_location"
                         fi
                     fi
+                else
+                    add_warning_no_en "$env_name" "$item_title_ru"
                 fi
-                
-                # Проверка, что русская и английская версии не ссылаются на один файл
-                if [[ "$has_ru" == "true" && "$has_en" == "true" ]]; then
-                    local file_ru=$(jq -r ".$section[$i].items[$j].files.ru" "$toc_file")
-                    local file_en=$(jq -r ".$section[$i].items[$j].files.en" "$toc_file")
+
+                if [[ "$has_ru" == true && "$has_en" == true ]]; then
+                    local file_ru=$(jq -r ".$section[$category_idx].items[$j].files.ru" "$toc_file")
+                    local file_en=$(jq -r ".$section[$category_idx].items[$j].files.en" "$toc_file")
                     if [[ "$file_ru" == "$file_en" ]]; then
                         add_warning_same_file "$env_name" "$item_title_ru" "$file_ru"
                     fi
                 fi
-            done
+            elif [[ "$has_items" -eq 0 ]]; then
+                # Элемент-подкатегория (вложенная категория)
+                if ! jq -e ".$section[$category_idx].items[$j].items | type == \"array\"" "$toc_file" >/dev/null; then
+                    add_structure_error "$env_name" "В секции $item_location поле items должно быть массивом"
+                    continue
+                fi
+                # Рекурсивная проверка
+                validate_items_recursive "$section" "$category_idx" "$base_path"
+            else
+                # Некорректный элемент: ни files, ни items
+                add_structure_error "$env_name" "В секции $item_location должен быть либо блок files (статья), либо items (подкатегория)"
+            fi
+        done
+    }
+
+    # Проверка категорий WIKI и LORE
+    for section in "WIKI" "LORE"; do
+        if ! jq -e ".$section | type == \"array\"" "$toc_file" >/dev/null; then
+            add_structure_error "$env_name" "Секция $section должна быть массивом"
+            continue
+        fi
+
+        local category_count=$(jq -r ".$section | length" "$toc_file")
+        for i in $(seq 0 $((category_count-1))); do
+            if ! jq -e ".$section[$i].title != null" "$toc_file" >/dev/null; then
+                add_structure_error "$env_name" "В секции $section[$i] отсутствует поле title"
+            elif ! jq -e ".$section[$i].title.ru != null" "$toc_file" >/dev/null || ! jq -e ".$section[$i].title.en != null" "$toc_file" >/dev/null; then
+                add_structure_error "$env_name" "В секции $section[$i].title должны быть поля ru и en"
+            fi
+
+            if ! jq -e ".$section[$i].items != null" "$toc_file" >/dev/null; then
+                add_structure_error "$env_name" "В секции $section[$i] отсутствует поле items"
+                continue
+            fi
+
+            if ! jq -e ".$section[$i].items | type == \"array\"" "$toc_file" >/dev/null; then
+                add_structure_error "$env_name" "В секции $section[$i] поле items должно быть массивом"
+                continue
+            fi
+
+            # Рекурсивная проверка элементов категории (статьи и/или подкатегории)
+            validate_items_recursive "$section" "$i" "$section[$i]"
         done
     done
 }
