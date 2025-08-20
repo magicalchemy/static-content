@@ -50,9 +50,8 @@
             "en": "The emergence of Tara and the Dji’Da world creation"
           },
           "files": {
-            "ru": "1._The_emergence_of_Tara_and_the_Dji’Da_world_creation_ru.md",
-            "en": "1._The_emergence_of_Tara_and_the_Dji’Da_world_creation_en.md"
-
+            "ru": "articles/legendarium_1_2/1_the_emergence_of_tara_and_the_dji_da_world_creation_ru.md",
+            "en": "articles/legendarium_1_2/1_the_emergence_of_tara_and_the_dji_da_world_creation_en.md"
           }
         },
         {
@@ -61,287 +60,281 @@
             "en": "The appearance of mortal races"
           },
           "files": {
-            "ru": "2._The_appearance_of_mortal_races_ru.md",
-            "en": "2._The_appearance_of_mortal_races_en.md"
-            
+            "ru": "articles/legendarium_2_2/2_the_appearance_of_mortal_races_ru.md",
+            "en": "articles/legendarium_2_2/2_the_appearance_of_mortal_races_en.md"
           }
-          
         },
-        { 
+        {
           "title": {
             "ru": "Горн Душ и цикл перерождений",
             "en": "The Horn of Souls and the Cycle of Rebirth"
           },
           "files": {
-            "ru": "3._The_Horn_of_Souls_and_the_Cycle_of_Rebirth_ru.md",
-            "en": "3._The_Horn_of_Souls_and_the_Cycle_of_Rebirth_en.md"
-            
+            "ru": "articles/legendarium_3_2/3_the_horn_of_souls_and_the_cycle_of_rebirth_ru.md",
+            "en": "articles/legendarium_3_2/3_the_horn_of_souls_and_the_cycle_of_rebirth_en.md"
           }
         },
         {
-        "title": {
+          "title": {
             "ru": "Восстание Адомиона",
             "en": "Adomion’s Rebellion"
           },
           "files": {
-            "ru": "4._Adomion’s_Rebellion_ru.md",
-            "en": "4._Adomion’s_Rebellion_en.md"
-            
-          }  
+            "ru": "articles/legendarium_4_2/4_adomion_s_rebellion_ru.md",
+            "en": "articles/legendarium_4_2/4_adomion_s_rebellion_en.md"
+          }
         },
         {
-        "title":{
-          "ru": "Война с Безумным богом",
-          "en": "The War with a Mad God"
+          "title": {
+            "ru": "Война с Безумным богом",
+            "en": "The War with a Mad God"
+          },
+          "files": {
+            "ru": "articles/legendarium_5_2/5_the_war_with_a_mad_god_ru.md",
+            "en": "articles/legendarium_5_2/5_the_war_with_a_mad_god_en.md"
+          }
         },
-        "files": {
-          "ru": "5._The_War_with_a_Mad_God_ru.md",
-          "en": "5._The_War_with_a_Mad_ God_en.md"  
+        {
+          "title": {
+            "ru": "Тёмные Времена и Войны Выживших",
+            "en": "The Dark Ages and the Survivor Wars"
+          },
+          "files": {
+            "ru": "articles/legendarium_6_2/6_the_dark_ages_and_the_survivor_wars_ru.md",
+            "en": "articles/legendarium_6_2/6_the_dark_ages_and_the_survivor_wars_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Великое Пророчество Гоблинов",
+            "en": "The Great Goblin Prophecy"
+          },
+          "files": {
+            "ru": "articles/legendarium_7_2/the_great_goblin_prophecy_ru.md",
+            "en": "articles/legendarium_7_2/the_great_goblin_prophecy_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Страны континента Фарнакс",
+            "en": "Countries on the Farnax continent"
+          },
+          "files": {
+            "ru": "articles/countries_of_the_dji_da_world/countries_on_the_farnax_continent_ru.md",
+            "en": "articles/countries_of_the_dji_da_world/countries_on_the_farnax_continent_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Страны континента Кхела",
+            "en": "Countries on the Khela continent"
+          },
+          "files": {
+            "ru": "articles/countries_of_the_dji_da_world_2/countries_of_the_khela_continent_ru.md",
+            "en": "articles/countries_of_the_dji_da_world_2/countries_of_the_khela_continent_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Племена и структура общества гоблинов",
+            "en": "The tribes and structure of goblin society"
+          },
+          "files": {
+            "ru": "articles/the_tribes_and_structure_of_goblin_society_2/the_tribes_and_structure_of_goblin_society_ru.md",
+            "en": "articles/the_tribes_and_structure_of_goblin_society_2/the_tribes_and_structure_of_goblin_society_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История возникновения “Magic Towers”",
+            "en": "The history of Magic Towers"
+          },
+          "files": {
+            "ru": "articles/magic_tower_2/the_history_of_magic_towers_ru.md",
+            "en": "articles/magic_tower_2/the_history_of_magic_towers_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "О существах магических: Магидак",
+            "en": "Of Magical Creatures: Magidak"
+          },
+          "files": {
+            "ru": "articles/of_magical_creatures_1_2/magidak_ru.md",
+            "en": "articles/of_magical_creatures_1_2/magidak_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "О существах магических: Зубастик",
+            "en": "Of Magical Creatures: Fangster"
+          },
+          "files": {
+            "ru": "articles/of_magical_creatures_2_2/zybasik_ru.md",
+            "en": "articles/of_magical_creatures_2_2/zybasik_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "О существах магических: Ляплемур",
+            "en": "Of Magical Creatures: Ploplemur"
+          },
+          "files": {
+            "ru": "articles/of_magical_creatures_3_2/luaplemur_ru.md",
+            "en": "articles/of_magical_creatures_3_2/luaplemur_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "О существах магических: Бигачу",
+            "en": "Of Magical Creatures: Bigachu"
+          },
+          "files": {
+            "ru": "articles/of_magical_creatures_4_2/bigachu_ru.md",
+            "en": "articles/of_magical_creatures_4_2/bigachu_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "О существах магических: Гемодавр",
+            "en": "Of Magical Creatures: Gemosaur"
+          },
+          "files": {
+            "ru": "articles/of_magical_creatures_5_2/gemodavr_ru.md",
+            "en": "articles/of_magical_creatures_5_2/gemodavr_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История персонажей: Лилит",
+            "en": "Character history: Lilith"
+          },
+          "files": {
+            "ru": "articles/characters_1_2/lilit_ru.md",
+            "en": "articles/characters_1_2/lilit_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История персонажей: Багбир",
+            "en": "Character history: Багбир"
+          },
+          "files": {
+            "ru": "articles/characters_2_2/bagbir_ru.md",
+            "en": "articles/characters_2_2/bagbir_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История персонажей: Дазар и Улзар",
+            "en": "Character history: Dazar and Ulzar"
+          },
+          "files": {
+            "ru": "articles/characters_3_2/dazar_ulzar_ru.md",
+            "en": "articles/characters_3_2/dazar_ulzar_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История персонажей: Глоб",
+            "en": "Character history: Glob"
+          },
+          "files": {
+            "ru": "articles/characters_4_2/glob_ru.md",
+            "en": "articles/characters_4_2/glob_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История алхимических элементов. Часть 1",
+            "en": "History of the alchemical elements. Part I"
+          },
+          "files": {
+            "ru": "articles/alchemical_elements_1/alchemical_elements_1_ru.md",
+            "en": "articles/alchemical_elements_1/alchemical_elements_1_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История алхимических элементов. Часть 2",
+            "en": "History of the alchemical elements. Part II"
+          },
+          "files": {
+            "ru": "articles/alchemical_elements_2/alchemical_elements_2_ru.md",
+            "en": "articles/alchemical_elements_2/alchemical_elements_2_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Рунные квесты: Ищущий Истину",
+            "en": "Rune quests: Seeking the Truth"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_1_2/quest_1_ru.md",
+            "en": "articles/the_chronicles_of_echoron_1_2/quest_1_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Рунные квесты: Северные земли",
+            "en": "Rune quests: The Northern Lands"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_2_2/quest_2_ru.md",
+            "en": "articles/the_chronicles_of_echoron_2_2/quest_2_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Рунные квесты: Хозяин “Белого Единорога”",
+            "en": "Rune quests: The Owner of the “White Unicorn”"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_3_2/quest_3_ru.md",
+            "en": "articles/the_chronicles_of_echoron_3_2/quest_3_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Рунные квесты: Королева воров",
+            "en": "Rune quests: Queen of Thieves"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_4_2/quest_4_ru.md",
+            "en": "articles/the_chronicles_of_echoron_4_2/quest_4_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Рунные квесты: Врата Менделефа",
+            "en": "Rune quests: The Gates of Mendelef"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_5_2/quest_5_ru.md",
+            "en": "articles/the_chronicles_of_echoron_5_2/quest_5_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Обретение Эхорона: Мастер и подмастерье",
+            "en": "The Finding of Echoron: Master and apprentice"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_6_2/master_and_apprentice_ru.md",
+            "en": "articles/the_chronicles_of_echoron_6_2/master_and_apprentice_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Обретение Эхорона: Возвращение домой",
+            "en": "The Finding of Echoron: Homecoming"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_7_2/image/homecoming_ru.md",
+            "en": "articles/the_chronicles_of_echoron_7_2/image/homecoming_en.md"
+          }
         }
-        },
-        {
-        "title":{
-          "ru": "Тёмные Времена и Войны Выживших",
-          "en": "The Dark Ages and the Survivor Wars"
-        },
-        "files": {
-          "ru": "6._The_Dark_Ages_and_the_Survivor_Wars_ru.md",
-          "en": "6._The_Dark_Ages_and_the_Survivor_Wars_en.md"  
-        }  
-        },
-        {
-          "title":{
-          "ru": "Великое Пророчество Гоблинов",
-          "en": "The Great Goblin Prophecy"
-        },
-        "files": {
-          "ru": "THE GREAT GOBLIN PROPHECY_ru.md",
-          "en": "THE GREAT GOBLIN PROPHECY_en.md"  
-        }  
-        },
-        {
-         
-          "title":{
-          "ru": "Страны континента Фарнакс",
-          "en": "Countries on the Farnax continent"
-        },
-        "files": {
-          "ru": "Countries_on_the_Farnax_continent_ru.md",
-          "en": "Countries_on_the_Farnax_continent_en.md"  
-        }   
-        },
-        {
-         "title":{
-          "ru": "Страны континента Кхела",
-          "en": "Countries on the Khela continent"
-        },
-        "files": {
-          "ru": "Countries_of_the_Khela_continent_ru.md",
-          "en": "Countries_of_the_Khela_continent_en.md"  
-        }    
-        },
-        {
-         "title":{
-          "ru": "Племена и структура общества гоблинов",
-          "en": "The tribes and structure of goblin society"
-        },
-        "files": {
-          "ru": "The_tribes_and_structure_of_goblin_society_ru.md",
-          "en": "The_tribes_and_structure_of_goblin_society_en.md"  
-        }     
-        },
-        {
-         "title":{
-          "ru": "История возникновения “Magic Towers”",
-          "en": "The history of Magic Towers"
-        },
-        "files": {
-          "ru": "The_history_of_magic_towers_ru.md",
-          "en": "The_history_of_magic_towers_en.md"  
-        }    
-        },
-        {
-         "title":{
-          "ru": "О существах магических: Магидак",
-          "en": "Of Magical Creatures: Magidak"
-        },
-        "files": {
-          "ru": "magidak_ru.md",
-          "en": "magidak_en.md"  
-        }   
-        },
-        {
-         "title":{
-          "ru": "О существах магических: Зубастик",
-          "en": "Of Magical Creatures: Fangster"
-        },
-        "files": {
-          "ru": "zybasik_ru.md",
-          "en": "zybasik_en.md"  
-        }    
-        },
-        {
-           "title":{
-          "ru": "О существах магических: Ляплемур",
-          "en": "Of Magical Creatures: Ploplemur"
-        },
-        "files": {
-          "ru": "luaplemur_ru.md",
-          "en": "luaplemur_en.md"  
-        }  
-        },
-        {
-           "title":{
-          "ru": "О существах магических: Бигачу",
-          "en": "Of Magical Creatures: Bigachu"
-        },
-        "files": {
-          "ru": "bigachu_ru.md",
-          "en": "bigachu_en.md"  
-        }  
-        },
-        {
-           "title":{
-          "ru": "О существах магических: Гемодавр",
-          "en": "Of Magical Creatures: Gemosaur"
-        },
-        "files": {
-          "ru": "gemodavr.ru.md",
-          "en": "gemodavr.en.md"  
-        }  
-        },
-      {
-       "title":{
-          "ru": "История персонажей: Лилит",
-          "en": "Character history: Lilith"
-        },
-        "files": {
-          "ru": "lilit_ru.md",
-          "en": "lilit_en.md"  
-        }   
-      },
-      {
-       "title":{
-          "ru": "История персонажей: Багбир",
-          "en": "Character history: Багбир"
-        },
-        "files": {
-          "ru": "bagbir_ru.md",
-          "en": "bagbir_en.md"  
-        }   
-      },
-      {
-       "title":{
-          "ru": "История персонажей: Дазар и Улзар",
-          "en": "Character history: Dazar and Ulzar"
-        },
-        "files": {
-          "ru": "dazar_ulzar_ru.md",
-          "en": "dazar_ulzar_en.md"  
-        }    
-      },
-      {
-        "title":{
-          "ru": "История персонажей: Глоб",
-          "en": "Character history: Glob"
-        },
-        "files": {
-          "ru": "Glob_ru.md",
-          "en": "Glob_en.md"  
-        }     
-      },
-      {
-        "title":{
-          "ru": "История алхимических элементов. Часть 1",
-          "en": "History of the alchemical elements. Part I"
-        },
-        "files": {
-          "ru": "ALCHEMICAL_ELEMENTS_1_ru.md",
-          "en": "ALCHEMICAL_ELEMENTS_1_en.md"  
-        }     
-      },
-      {
-        "title":{
-          "ru": "История алхимических элементов. Часть 2",
-          "en": "History of the alchemical elements. Part II"
-        },
-        "files": {
-          "ru": "ALCHEMICAL_ELEMENTS_2_ru.md",
-          "en": "ALCHEMICAL_ELEMENTS_2_en.md"  
-        }      
-      },
-      {
-      "title":{
-          "ru": "Рунные квесты: Ищущий Истину",
-          "en": "Rune quests: Seeking the Truth"
-        },
-        "files": {
-          "ru": "Quest_1_ru.md",
-          "en": "Quest_1_en.md"  
-        }      
-      },  
-      {
-       "title":{
-          "ru": "Рунные квесты: Северные земли",
-          "en": "Rune quests: The Northern Lands"
-        },
-        "files": {
-          "ru": "Quest_2_ru.md",
-          "en": "Quest_2_en.md"  
-        }      
-      },
-      {
-        "title":{
-          "ru": "Рунные квесты: Хозяин “Белого Единорога”",
-          "en": "Rune quests: The Owner of the “White Unicorn”"
-        },
-        "files": {
-          "ru": "Quest_3_ru.md",
-          "en": "Quest_3_en.md"  
-        }     
-      },
-      {
-        "title":{
-          "ru": "Рунные квесты: Королева воров",
-          "en": "Rune quests: Queen of Thieves"
-        },
-        "files": {
-          "ru": "Quest_4_ru.md",
-          "en": "Quest_4_en.md"  
-        }
-      },
-      {
-       "title":{
-          "ru": "Рунные квесты: Врата Менделефа",
-          "en": "Rune quests: The Gates of Mendelef"
-        },
-        "files": {
-          "ru": "Quest_5_ru.md",
-          "en": "Quest_5_en.md" 
-        } 
-      },
-    {
-      "title":{
-          "ru": "Обретение Эхорона: Мастер и подмастерье",
-          "en": "The Finding of Echoron: Master and apprentice"
-        },
-        "files": {
-          "ru": "master_and_apprentice_ru.md",
-          "en": "master_and_apprentice_en.md"  
-        }
-      },
-      {
-       "title":{
-          "ru": "Обретение Эхорона: Возвращение домой",
-          "en": "The Finding of Echoron: Homecoming"
-        },
-        "files": {
-          "ru": "homecoming_ru.md",
-          "en": "homecoming_en.md" 
-        }  
-    }      ]
+      ]
     }
-    
   ]
 }
-
