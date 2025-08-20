@@ -11,7 +11,7 @@ The dwarves retreated into the deep depths of the mountains and shut themselves 
 And if the elves and dwarves fenced off the world, the people conquered all the old lands. People have built new states on the ruins of ancient kingdoms, endlessly fighting among themselves for power, power, and wealth.
 
 
-![](8settlers.2x.jpg)
+![](images/8settlers.2x.jpg)
 *Refugees in search of a new home*
 
 The children of Mundo, the Orcs, were the strongest warriors of the old world. Rage and stubbornness always burned in their hearts. It was this belief in their power and superiority that was one of the reasons why the Orc lords decided that they were destined to be the new masters of the world.

@@ -10,7 +10,7 @@ There probably isn’t a goblin who doesn’t know the rules of the game of Towe
 
 A deck and a sheet of parchment for note-taking are sufficient to play Towers. However, there are sets for the game that are authentic works of magical art. Wooden towers and walls are built by themselves, and beautiful flashes and sounds accompany the movements of the cards.
 
-![](taverna.2x.png)
+![](images/taverna.2x.png)
 
 The only place in the world where such Towers sets are made is the Bizarre Magic Academy, and the price for them can be as high as twenty golden coins. Possessing such a set is considered a luxury among goblins, so many people dream of it.
 
@@ -22,4 +22,4 @@ Such heated games and passions the world of Dji’Da had never known before. Mor
 
 The first champion of the Magic Towers was Master Dazar, a darhan of the Zuun Mercat tribe. He had long been known among alchemists and artisans, but after winning the tournament, the entire goblin nation spoke his name with deep respect.
 
-![](darar.2x.png)
+![](images/darar.2x.png)

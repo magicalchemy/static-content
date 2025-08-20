@@ -17,7 +17,7 @@ Yueve was the fourth to create. He decided to endow his children equally with al
 And the most important thing he gave the people, his children, was the freedom of choice and the will to decide how they should live and serve their God. And while the elves were tied to the forests, the dwarves to the mountains, and the orcs to the desire to stay powerful, all the children of Yueve were deprived of all these bonds.
 
 
-![](3Mendelef.2x.jpg)
+![](images/3Mendelef.2x.jpg)
 *The Talent of alchemy, given by Mendelef* 
 
 Goblins were the last to enter the world of Dji’Da. Mendelef, the custodian of all knowledge and lord of alchemy, has long conducted research and experiments with magic and this world’s original elements of matter, resulting in his children being created.

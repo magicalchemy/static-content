@@ -4,7 +4,7 @@ This information on newfound magical beings is compiled from the few surviving a
 
 ## Fangster
 
-![](zybastik.2x.png)
+![](images/zybastik.2x.png)
 
 If you are a Future Fangster owner, you should not be frightened by its formidable mouth full of razor-sharp teeth. It isn’t easy to find a creature more kind and docile. Fangsters are extraordinarily docile and can be wonderfully trained. They are very attached to their owners.
 

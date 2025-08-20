@@ -10,7 +10,7 @@ Every year for seven years, Dazar visited Hirgad with his caravan and continued 
 Dazar traveled the world for years, offering his services to all the goblin tribes. Alchemists lined up for him, needing to repair and craft various instruments.
 
 And now, in his old age, he rides his workshop wagon through all the continent’s lands. Dazar trains talented young goblins in blacksmithing and looks for someone who could be a worthy darhan to replace him.
-![](darar.2x.png)
+![](images/darar.2x.png)
 
 ## Ulzar — a young goblin apprentice
 
@@ -27,4 +27,4 @@ So when the time came for the old darhan to return to his homeland in the Seleng
 After many years, Ulzar is the master-darhan’s most able apprentice.
 
 Dazar has become a true father figure to the young man, and Ulzar dreams of becoming a great darhan like his teacher.
-![](ulzar.2x.jpg)
+![](images/ulzar.2x.jpg)

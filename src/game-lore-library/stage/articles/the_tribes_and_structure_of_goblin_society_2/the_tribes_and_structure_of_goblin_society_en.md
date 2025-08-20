@@ -21,7 +21,7 @@ Buhlag members grow produce, raise livestock, and pick the necessary ingredients
 
 This group is responsible for the economic life of the goblin tribe. Blacksmiths, builders, tailors, and other craftsmen are members of this buhlag. The darhans, masters of making and repairing alchemical objects, occupy a particularly honorable place in this buhlag. Only experienced smiths become darhans. The most skillful darhans come from the Zuun Merkat tribe. They travel with trade caravans in their workshop wagons. Every goblin settlement has a job for them to mend alchemical tools.
 
-![](darar.2x.png)
+![](images/darar.2x.png)
 
 ### Traders
 
@@ -29,7 +29,7 @@ Goblin traders play an important role in tribal life. They keep in touch and tra
 
 The most respected buhlag is located in the kingdom of Ankorlan. The local goblins ask to be called the Trade Guild, like humans. The Trade Guild created and ran the Goblin Bank, known far beyond the kingdom’s borders.
 
-![](trader.2x.png)
+![](images/trader.2x.png)
 
 ### Alchemists
 
@@ -43,7 +43,7 @@ Among goblins, thousands of years ago, there was a group responsible for protect
 
 Protecting trade caravans from brigands and ensuring order in goblin settlements is the sentinels’ concern. It was among the sentinels that the Order of Truth Seekers arose, whose members devoted their lives to service in the name of the Great Prophecy and the search for ancient goblin artifacts.
 
-![](stragi.2x.png)
+![](images/stragi.2x.png)
 
 ## Goblin Tribes
 ### The Lonely Moon Tribe
@@ -52,7 +52,7 @@ They are representatives of the northern lands of the continent of Farnax. They 
 
 A particularly revered buhlag in this tribe are the sentinels. The constant danger and threats from the proximity of the lands of the Northern Orcish Horde have made the Lone Moon tribe the most militant and courageous goblins in Dji’Da. The Lone Moon is the only goblin tribe that sent its sentinels to the Three Swords War. It also supplied many field hospitals with restorative potions and other healing elixirs.
 
-![](lonley.2x.png)
+![](images/lonley.2x.png)
 
 ### The Forest Goblin Tribe
 
@@ -60,7 +60,7 @@ These are the goblins who found their shelter in the forests of Adrienne. They s
 
 This fact makes the forest goblins the most numerous of all the tribes. Elves have become a reliable source of protection and prosperity for the forest goblin tribe. The unique magical plants growing in these forests serve as excellent raw materials for elixirs. And there is no better beauty product on the entire continent than the herbal elixirs of the wood goblins. The court ladies of all the kingdoms and princedoms are ready to lay out mountains of gold for the opportunity to use them.
 
-![](forest.2x.png)
+![](images/forest.2x.png)
 
 ### The Vala’as Hina Tribe
 
@@ -68,7 +68,7 @@ A tribe of goblins settled in the kingdom of Ankorlan. In its capital, Gabar, go
 
 After this tragedy, it was decided to move the area where the goblins might live outside the city walls, closer to the river Lostme. The magic academy of Ankorlan and the goblin alchemists’ guild have long cooperated in matters of magic and alchemy research. Free entrance to the academy is always open to goblin alchemists. Also in the capital is the main building of the Bank of Goblins. It is a financial institution widely known outside Ankorlan and has a lot of branches in many countries.
 
-![](vaalashina.2x.png)
+![](images/vaalashina.2x.png)
 
 ### The Zuun Merkat Tribe
 
@@ -79,4 +79,4 @@ The settlements are inhabited mainly by women, children, and older people. Most 
 The traders and artisans of the tribe return to the Seleng Mountains only in late autumn, where they spend the winter with their families. They share remarkable stories of adventures, new lands they have seen, and prosperous trade deals. In winter, the alchemists of the tribe brew elixirs for trade from the ingredients the men bring back from their expeditions, and the artisans make new items for sale. As spring arrives, the men again embark on trading expeditions in search of fresh magical ingredients that the goblin people do not know yet.
 
 
-![](zuunmerkat.2x.png)
+![](images/zuunmerkat.2x.png)

@@ -1,6 +1,6 @@
 # Paid games on $RUSK
 
-![](12.2x.jpg)
+![](images/12.2x.jpg)
 
 Hey everyone! The wait is over—we’ve officially launched paid games. And not just for money, but for rusks! Yes, now you can visit the Fallen Moon Tavern, grab a hearty stout from Bagbir, and challenge your opponent for $RUSK, our already legendary meme token.
 

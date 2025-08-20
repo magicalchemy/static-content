@@ -2,7 +2,7 @@
 
 A workshop wagon pulled by a mossy yak rolled slowly along the dusty road leading to the foot of the Seleng Mountains. This yak, a rare breed bred by the goblins of the Zuun Mercat tribe, was the pride and possession of the wagon master. Though much smaller than the wild mountain yaks of the foothills, he was as hardy and more peaceful. He was easy to care for and had often helped Dazar on his long journeys.
 
-![](wagon1.2x.jpg)
+![](images/wagon1.2x.jpg)
 
   – Ulzar, Coaly seems to sense we're getting closer to home. Look how its nostrils are flaring. That's right, little one; we'll be home soon, – Dazar said to his apprentice and foster son, sitting on the box. 
 
@@ -22,7 +22,7 @@ Each new darhan must make all the tools for his future workshop-carriage with hi
 
 But Ulzar was no longer listening to his father. He stomped happily inside the wagon and hummed a cheerful song. Dazar grumbled paternally at his apprentice, who, as usual, had not listened to his long instructions. He would have been glad to give in to his son's cheerful mood, but his inner uneasiness about the reasons for the urgent gathering of the entire tribe prevented him from doing so.  
 
-![](wagon2.2x.jpg)
+![](images/wagon2.2x.jpg)
 
 The dusty road to the foothills of the Seleng Mountains continued to wind ahead of the workshop wagon on which the two darhan masters were traveling to meet their fate. 
 

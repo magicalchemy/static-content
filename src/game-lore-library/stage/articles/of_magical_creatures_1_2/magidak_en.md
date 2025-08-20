@@ -1,9 +1,10 @@
-# Of Magical Creatures. Part I  
-  This information on newfound magical beings is compiled from the few surviving ancient records and supplemented by the research of Vitalius, a member of the Supreme Magical Council of the Academy of Ankorlan, and scholars of the Order of Truth Seekers. The ancient chronicles do not specify for what purposes magical creatures were kept. However, it is undeniable that they were all handheld familiars of the magicians and alchemists of the past.
+# Of Magical Creatures. Part I
+
+This information on newfound magical beings is compiled from the few surviving ancient records and supplemented by the research of Vitalius, a member of the Supreme Magical Council of the Academy of Ankorlan, and scholars of the Order of Truth Seekers. The ancient chronicles do not specify for what purposes magical creatures were kept. However, it is undeniable that they were all handheld familiars of the magicians and alchemists of the past.
 
 ## Magidak
 
-![](magidak.2x.png)
+![](images/magidak.2x.png)
 
 This fantastic animal lived in the forests of a now-extinct island in the southern part of the Sea of Oblivion. It is not known whether it was a bird or a mammal. Some are inclined to believe that magidaks result from the experiments of the great alchemists of the past.
 

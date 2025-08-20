@@ -1,7 +1,7 @@
 # Lilith’s Story
 ## Part I. Childhood
 
-![](lilit_1.2x.jpg)
+![](images/lilit_1.2x.jpg)
 
 
 Lilith didn’t know her parents. She was left as an infant at the gates of the monastery of St. Onydia, near the capital of the Theocracy of Leria, the city of Belstal. Lilith, like many other abandoned children, became a pupil of the orphanage at the monastery.
@@ -14,7 +14,7 @@ Lilith’s main goal was to get the pendant as her parents’ only testimony and
 
 ## Part II. Adolescence
 
-![](lilit_3.2x.jpg)
+![](images/lilit_3.2x.jpg)
 
 Lilith was able to carry out her plan. She broke into the Mother Superior’s study and stole her parents’ pendant from the chest, a small gold medallion with a milk-colored stone in the middle with a heron carved. The work on the stone was so beautifully and skillfully done that if you looked closely, you could see the heron’s feathers.
 
@@ -30,7 +30,7 @@ One day, Lilith decided to steal a purse from an older man walking down the stre
 
  ## Part III. Youth
  
-![](lilit_2.2x.jpg)
+![](images/lilit_2.2x.jpg)
    
   The old man’s name was Clatius. He told Lilith that in his youth he had been a soldier in the White Legion and had fought in many wars and campaigns in the name of the faith and the Holy Throne. He had served honorably and faithfully for twenty years in the Legion and had risen to the rank of tenth officer before retiring.
 

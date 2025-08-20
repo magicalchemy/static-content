@@ -1,4 +1,4 @@
-![](Map.2x.png)
+![](images/Map.2x.png)
 # Countries on the Farnax continent
 
 ## Twilight Wastes
@@ -9,7 +9,7 @@ A lifeless area where storms and thunderstorms rage constantly, and the air is p
 
 Numerous attempts to investigate the phenomenon, like the island itself, have come to nothing. No one can answer as to who used to live on the island and what was once here. All we know is that the Twilight Wastes were formed by a massive magical cataclysm at the end of the Golden Age.
 
-![](wasteland.2x.png)
+![](images/wasteland.2x.png)
 
 ## Northern Horde
 Orcs of the northern reaches. Mad and fierce children of the ancient god Mundo. Orcs regularly raid and campaign against their southern neighbors. The purpose of their entire life is war and enslavement of other nations as well as of their kind.
@@ -31,7 +31,7 @@ The Bayan’Gol dwarves still remember that day in tears and dream of returning 
 
 People live freely within the kingdom, renting land and paying taxes to the Mountain Kingdom.
 
-![](bayangol.2x.png)
+![](images/bayangol.2x.png)
 
 ## The Kingdom of Sandorn
 A nation of people who have held back the raids of the Northern orcs for centuries. Brave and skilled warriors, descendants of an ancient Golden Age kingdom. Faithful allies of the dwarves of the Mountain Throne.
@@ -47,7 +47,7 @@ They are experienced and skilled seafarers, fearlessly venturing into the waters
 
 The people of Dornkun are brave warriors and skilled traders. Time and again, merchant ships from all over the world return to the capital of Karrun for the valuable furs favored by the court ladies of Bizaria and Rado and for the precious bones highly prized in The Dudzhun Empire. The Principality of Dornkun is the only place where the rare bones of the sea leviathans that live off the coast of the Twilight Wastes are harvested.
 
-![](dornkun.2x.png)
+![](images/dornkun.2x.png)
 
 ## The Principality of Sidonia
 The state of the people, which was formed from the association of small principalities on the Beishan plain more than four hundred years ago.
@@ -63,7 +63,7 @@ Venturia’s land is highly fertile, so the country is not short of food supplie
 
 The waterway of the Narva River is the country’s main trade artery. Hundreds of merchant ships sail up and down it every day, carrying overseas goods and all sorts of curiosities for the wealthy houses of Venturia.
 
-![](4Ventyriya.2x.png)
+![](images/4Ventyriya.2x.png)
 
 ## Adriennel
 The state of the High Elves, a people whose members live up to five hundred years. It is said that they possess the few remnants of knowledge from the Golden Age that have survived to this day. And the ancient magic that fills the elven forests is a guarantee of strength and security.
@@ -78,14 +78,14 @@ The elves are careful not to make contact with other Dji’Da countries and do n
 
 The elven army has only left their forests a few times in the new history. The last time this happened was quite recently, about fifty years ago. The threat of a great invasion by the Orcs of the Northern Horde forced the Elves of Adriennel to join the Alliance of the Human and Dwarven Armies in the War of the Three Swords.
 
-![](1Adrienel.2x.png)
+![](images/1Adrienel.2x.png)
 
 ## Bizaria
 A nation of people in the south of the Farnax continent. It is home to the largest and oldest academy of magic on the entire continent, founded at the dawn of the New Age more than three thousand years ago. The magical academy, located in the capital city of Myrwuth, is known throughout the world for its huge library with a collection of unique ancient scrolls and books. The greatest mages in the history of Farnax are from the Academy of Bizaria.
 
 Nominally the country is ruled by the King of Bizaria, but everyone knows that the Council, headed by the Archmage of the Order of Elemental Mages, is actually in charge. The wizards of the Order made a significant contribution to the victory of the War of Three Swords. Some mages even say that it should more properly be called the War of the Staff and the Three Swords.
 
-![](2Bizzariya.2x.png)
+![](images/2Bizzariya.2x.png)
 
 ## The Grand Duchy of Rado
 Rado lies to the east of the state of Bizaria, on the coast of the Sea of Tears. Known for its traders and seafarers. Possesses the strongest and largest merchant and naval fleet on the continent. The navy is the pride and strength of the Rado state.
@@ -96,4 +96,4 @@ During the War of Three Swords, Aldo Mado, Grand Duke of Rado, provided the Alli
 
 Grand Duke Aldo personally led the movement of troops and took part in the battle in the northern lands of Sandorn. To the great sorrow of his people, he did not return from that campaign. On the way back Duke Aldo, after drinking too much century-old dwarven brandy, fell overboard the flagship Golden Eagle drunk and drowned.
 
-![](3Rado.2x.png)
+![](images/3Rado.2x.png)

@@ -1,6 +1,6 @@
 # History of the alchemical elements. Part I
 
-![](3Mendelef.2x.jpg)
+![](images/3Mendelef.2x.jpg)
 
 ### Aurorite — the element representing light and colors.
 When the world of Djii’Da was created, Yueve was the one who gave it the most important thing — light. Then, all the Tara saw the beauty of the heaven they had created. They laughed and felt the happiness of the moment of the world’s birth. Driven by sincere and warm feelings, Yuewe wanted to express this moment.

@@ -1,4 +1,4 @@
-![](Map.2x.png)
+![](images/Map.2x.png)
 # Countries of the Khela continent
 ## The Dudzhun Empire
 Its convenient geographical location, climate, and abundant nature created favorable conditions for the development of the largest and strongest state on the continent. Dudzhun abounds with vast plains of rice paddies and endless steppes where countless herds of horses and sheep graze. People settled freely over vast areas of the Great Southern Plain.
@@ -9,7 +9,7 @@ The history of the Dudzhun Empire is full of controversy, military conflicts, pa
 
 Only the current Dao dynasty has managed to keep power in its hands for over six hundred years. The reigning Emperor Leo Paul the Seventh rules the state with an iron hand from his Amber Palace. His authority extends unchallenged throughout the Empire.
 
-![](6Dudzhun.2x.png)
+![](images/6Dudzhun.2x.png)
 
 ## The Kingdom of Erteland
 It is a kingdom in the east of the Khela continent. As the chronicles indicate, the first people to discover the continent of Khela at the dawn of the New Age landed on these lands. The kingdom’s nobles consider themselves direct descendants of those early settlers, and the Merakith royal dynasty is the oldest on the continent.
@@ -33,7 +33,7 @@ Piyen stripped all his children of their titles and became a novice in the Monas
 
 All people can get along peacefully in Leria. The main condition is to be an obedient follower of the Church and to believe in the One Sun God. And for those who do not share the ideas of the Church, there is always room in the dungeons of the Order of the Inquisition.
 
-![](7Leria.2x.png)
+![](images/7Leria.2x.png)
 
 ## Ankorlan
 The country is named after its capital. In the northern part of the continent is the oldest and greatest fortress, the Ankorlan Fortress.
@@ -57,7 +57,7 @@ Freelance team rates are the highest on the continent. However, if you need to r
 
 The main thing is that you should always have a ringing coin with you to pay for their services. Everyone knows there is nothing less permanent in this world than a freelance team not getting paid on time.
 
-![](5invia.2x.png)
+![](images/5invia.2x.png)
 
 ## The Kingdom of Aferia
 The Kingdom of Aferia looks out over the Sea of Storms, wedged between the states of Invia and Mitremar, and shares southern borders with the Balkh Khanate. In the whole continent, only the royal house of Aferia is allowed to trade with the elves of Mitremar. The fact is that a distant ancestor of the reigning Queen Taishet don Parlank the Fifth helped the elves during the Great Drought.
@@ -77,7 +77,7 @@ Like the elves of Adriennel, the forest elves are strict about maintaining their
 
 For its part, the kingdom of Mitremar has never attempted to invade neighboring lands, always remaining only within the boundaries of its forests. Over many generations, people have become accustomed to this way of life, so nowadays, they only send trade and diplomatic missions to the evergreen forests of Mitremar.
 
-![](8mitremar.2x.png)
+![](images/8mitremar.2x.png)
 
 ## The Kingdom of Hada-Nor
 During the Wars of the Survivors, the dwarves of the Khela continent took refuge in the mountains of Koldania. In this impregnable chain of mountains, they created an underground kingdom with Cormard as its capital. Their subterranean domain extends many miles into the depths of the mountains.
@@ -89,7 +89,7 @@ After the end of those wars, the dwarves established peaceful trading relations 
 The products of Hada-Nor mountain masters are highly valued all over the world. And while the quality and durability of the products of Bayan’Gol dwarves are not inferior to their eastern brothers, the dwarves of Hada-Nor surpass the dwarves of Bayan’Gol by a head. Even the simplest kitchen knife created by the smiths of the Iron Throne looks like a real work of art.
 Now, on the Iron Throne sits and rules King Ganund the Wide, a member of the ancient royal dwarven family of Hada-Nor.
 
-![](9Hadanor.2x.png)
+![](images/9Hadanor.2x.png)
 
 ## The Balkh Khanate
 These lands’ mountains were rich in minerals, and the valleys were fertile. Since ancient times, the first settlers who came to Balkh were provided with clay, stone, metals, and other living necessities.
@@ -109,7 +109,7 @@ The wealth of Eastern Balkh has long been based on agriculture, horse breeding, 
 
 Trade caravans crossed the sands of the hot deserts to bring spices, precious timber, silk, amber, and other goods from the Dudzhun Empire to Balkh. From the Emirate, the best horse breeds in Khela were herded into the Empire, and the most valuable Lanian marble, jade, lapis lazuli, alabaster, and carpets known far beyond the borders of Balkh were also exported.
 
-![](11Balchya.2x.jpg)
+![](images/11Balchya.2x.jpg)
 
 ## The Hidden Valley of Echoron
 The land that was in the valley hidden by the Castle Mountains. For thousands of years, no mortal knew of Echoron’s existence.
@@ -118,4 +118,4 @@ The mountains rise for miles in the air. Bottomless abysses, endless labyrinths 
 
 Only recently, one of the goblin search parties found a way into this valley among the underground caves. They discovered the abandoned ruins of an ancient Golden Age goblin city there.
 
-![](10Echoron.2x.png)
+![](images/10Echoron.2x.png)

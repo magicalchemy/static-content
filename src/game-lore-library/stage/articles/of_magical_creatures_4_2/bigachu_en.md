@@ -4,7 +4,7 @@ This information on newfound magical beings is compiled from the few surviving a
 
 ## Bigachu
 
-![](bigachu.2x.png)
+![](images/bigachu.2x.png)
 
 In the myths of the people living in the territory of the modern Dudzhun Empire, there is a reference to a magical creature called Bigachu, who dwells high in the sky and commands lightning and thunder. According to surviving images in ancient written sources, this creature resembles a bear with two twisted horns on its head.
 

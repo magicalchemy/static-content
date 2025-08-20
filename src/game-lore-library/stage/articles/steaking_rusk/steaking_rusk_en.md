@@ -2,9 +2,9 @@
 
 Welcome, Alchemists!
 
-In this article, we want to reveal all the new game mechanics that will take place during the “Ready Alchemist One” stage. As you know from [the article](src/game-lore-library/stage/articles/PAP/PAP_en.md) about the stages following the NFT and POTION token Marathon, this stage will begin after the “Flask Transmutation” and “Soul Infusion” phases. By that time, players will already have NFT Alchemists in their hands, and all activities will take place in the game location known as the “Workshop.”
+In this article, we want to reveal all the new game mechanics that will take place during the “Ready Alchemist One” stage. As you know from [the article](../pap_2/pap_en.md) about the stages following the NFT and POTION token Marathon, this stage will begin after the “Flask Transmutation” and “Soul Infusion” phases. By that time, players will already have NFT Alchemists in their hands, and all activities will take place in the game location known as the “Workshop.”
 
-![](1.2x.jpg)
+![](images/1.2x.jpg)
 
 The Workshop will feature two new sub-locations: the Small Workshop and the Experimental Lab, each with its own unique game mechanics.
 
@@ -12,18 +12,18 @@ In the Workshop, players will need to stake their NFT Alchemist. Throughout the 
 
 In the Small Workshop, players with an NFT Alchemist can stake it and, by adding Gems and Points to the Alchemical Generator, start earning additional Gems and Points. Players who take advantage of this mechanic will significantly improve their standing on the Alchemania and Brew or Die leaderboards.
 
-![](2.2x.jpg)
+![](images/2.2x.jpg)
 
 Meanwhile, in the Experimental Lab, players will have the opportunity to stake their meme-tokens, $RUSK.
 
 ## Our Community Meme-Token $RUSK
-When we launched our [meme-token $RUSK](src/game-lore-library/stage/articles/tokenomics_rusk/tokenomics_rusk_en.md) in November, we immediately stated that it was a way to reward our warm community for their support and belief in our game. “Rusk” is a people’s meme, and here’s why:
+When we launched our [meme-token $RUSK](../tokenomics_rusk/tokenomics_rusk_en.md) in November, we immediately stated that it was a way to reward our warm community for their support and belief in our game. “Rusk” is a people’s meme, and here’s why:
 
 1. **Most of the tokens are in the community’s hands**. We immediately distributed 70% of the rusks and will distribute another 10% during the Marathon. An additional 10% of the emission was allocated to the liquidity pool along with a 10k POL grant received from POLYGON. This way, we decided to give our grant back to our community.
 
 The remaining 10% is held by Justor for tournament prizes or other marketing activities.
 
-![](3.2x.jpg)
+![](images/3.2x.jpg)
 
 2. **The ‘Rusk’ meme originated from our warm chat** as a response to the constant messages of “When drop?” Our close-knit gaming community created this meme-token and contributed to our decision to launch paid card games using rusks.
 
@@ -40,7 +40,7 @@ For this reason, we have once again decided to reward our wonderful gaming commu
 ## New Game Mechanic: $RUSK Staking
 In the new Experimental Lab sub-location, players who own an NFT Alchemist must stake it along with their meme-tokens $RUSK in the Magical Transformer. In return, they will receive POTION tokens from the DAO reward pool. All these rewards will also be recorded in the metadata of the NFT Alchemist staked in the Experimental Shop.
 
-![](4.2x.jpg)
+![](images/4.2x.jpg)
 
 The reward pool for staking the meme-token $RUSK is 200,000 POTION. These tokens belong to the DAO and can only be used after the game ends. The staking process will continue even after the game’s launch.
 

@@ -1,6 +1,6 @@
 # History of the alchemical elements. Part 2
 
-![](3Mendelef.2x.jpg)
+![](images/3Mendelef.2x.jpg)
 
 ### Sanctum — the element of soul and inner strength.
 Ancient dwarven lore says that during the Wars of the Survivors, one of the dwarven clans took refuge in the cave of the Iron Mountains to escape an army of maddened Children of Mundo. The cave’s vaults were so small that the massive orcs could not get in. When the dwarves traveled deep into the cave, it appeared open to the sky. Millions of stars reflected in the eyes of the survivors, who took it as a favor from the gods.

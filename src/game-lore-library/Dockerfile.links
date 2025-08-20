@@ -1,0 +1,19 @@
+FROM ubuntu:22.04
+
+# Нужны стандартные утилиты: grep (с -P), sed, awk, find, coreutils (realpath), bash
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+      grep \
+      sed \
+      gawk \
+      findutils \
+      coreutils \
+      ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY check_md_links.sh /app/check_md_links.sh
+RUN chmod +x /app/check_md_links.sh || true
+
+ENTRYPOINT ["/bin/bash","-lc","/app/check_md_links.sh"]

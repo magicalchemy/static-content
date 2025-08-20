@@ -34,7 +34,7 @@ Initially, we focused on giving back and building a strong community, and now we
 Now, let’s dive into the mechanics of the Token and NFT auction.
 
 ## The POTION Token Auction
-![](marafon_en.2x.jpg)
+![](images/marafon_en.2x.jpg)
 
 A total of **500,000 POTION tokens** and **100,000,000 $RUSK** will be distributed through the Token and NFT Marathon. The Marathon will last **42 hours**, meaning approximately **11,904 POTION tokens** will be sold each hour, with an additional **2.38 million $RUSK** allocated as a bonus (not sold).
 
@@ -59,7 +59,7 @@ For his $100 bid, Onotole will receive approximately **76 POTION** tokens and **
 To make things simpler, all key details are displayed, including the USDT amount you’ve bid. This ensures you can make well-informed decisions during the bidding process.
 
 ## NFT Auction
-![](marafon2.2x.png)
+![](images/marafon2.2x.png)
 
 Simultaneously with the public sale of POTION tokens, an auction will be held for distributing Mendelef NFT Flasks. This is part of the same auction as the token sale. Players placing bids in this auction can not only earn tokens but also have a chance to acquire a primary character — the Goblin Alchemist. Only by owning this character will players be able to participate in the core DeFi component of Magic Alchemy.
 
@@ -94,7 +94,7 @@ For example, if there are 500 participants in a particular hour of the Marathon,
 * **Rare Flasks** (Next ~22% — 30 rare alchemist embryos)
 * **Common Flasks** (Remaining participants — 50 common alchemist embryos)
 
-![](marafon_en3.2x.jpg)
+![](images/marafon_en3.2x.jpg)
 
 This unique structure creates an exciting competitive environment, encouraging players to strategize and enhance their experience while vying for some of the rarest NFTs in Magic Alchemy.
 
@@ -106,7 +106,7 @@ The exact methodology for distributing alchemist embryos depends on the number o
 
 All participants in the Auction (Alchemy Mint) will receive an NFT Mendelef Flask.
 
-![](marafon_en4.2x.jpg)
+![](images/marafon_en4.2x.jpg)
 
 Following the Alchemy Mint, we’ll enter the Transmutation of Flasks stage. Here, Mendelef Flasks will transform, revealing either an alchemist embryo or merely parts of goblin anatomy. **It’s at this point players will finally learn what’s hidden inside their flask** — but more on that in the future!
 
@@ -140,11 +140,11 @@ We want to share the value and utility of our Alchemists. As mentioned earlier, 
 
 The primary value of Alchemists lies in the fact that **only their owners can participate in the core DeFi mechanics of Magic Alchemy**. We position ourselves as a gamified DEX platform, and it seems we’ve succeeded in creating a new gaming genre — **LP2Play**.
 
-![](marafon_en5.2x.jpg)
+![](images/marafon_en5.2x.jpg)
 
 In short, the essence of this genre lies in players adding liquidity to the **cauldron (pool)** in the form of game potions (in-game tokens). By “brewing” these potions, they compete for rewards. At the same time, players progress through the storyline using various in-game mechanics. You can read more about the DeFi aspect of the game **here**.
 
-![](marafon_en6.2x.jpg)
+![](images/marafon_en6.2x.jpg)
 
 Another key feature of the Genesis Alchemists is their exclusivity and the uniqueness of their artwork. Each character has been meticulously hand-drawn by our lead artist, a process that took several months of dedicated effort. No two characters in the game will have the same design — this applies not only to the Alchemists but also to other in-game characters like Repairmen and Gardeners. We’re confident that collectors will be eager to add these one-of-a-kind goblins to their collections.
 

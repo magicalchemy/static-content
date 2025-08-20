@@ -1,6 +1,6 @@
 # Glob’s Story
 
-![](Glob.2x.jpg)
+![](images/Glob.2x.jpg)
 
 Glob is a goblin of the Alchemist buhlag who has devoted his life to studying astrology’s mystical, magical art. Ancient magicians and scientists have long suggested a direct connection between the movement of the celestial bodies and many of the events of the world of Dji’Da.
 

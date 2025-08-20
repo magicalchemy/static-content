@@ -4,7 +4,7 @@ This information on newfound magical beings is compiled from the few surviving a
 
 ## Ploplemur
 
-![](lyaplemur.2x.png)
+![](images/lyaplemur.2x.png)
 
 Unfortunately, the original name of the third magical animal I had a chance to study was not preserved in the ancient chronicles, so I took the liberty of giving it the name Ploplemur. These creatures resemble lemurs from a southern island that I had the opportunity to visit on a research expedition. Like lemurs, they can crawl on absolutely any surface. The first part of the name came to my mind because of the highly unusual sounds they make: plop-plop.
 

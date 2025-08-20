@@ -11,7 +11,7 @@ For hundreds of years, Adomion’s servants secretly collected corpses from ceme
 The strongest and most formidable warriors of Adomion’s army were monsters sewn from the mutilated bodies and souls of orcs and animated by the dark magic of a mad god. They inspired disgust and horror in all who encountered them on the battlefield.
 
 
-![](7monstr.2x.png)
+![](images/7monstr.2x.png)
 *Adomion’s Monster*
 
 The first to fall were the countries on the southernmost continent called Jarah. There was the entrance to Adomion’s underground kingdom, and from there, the first destructive wave of the undead came. Numernia was the last kingdom on Jarah to be destroyed. The mages of the kingdom, realizing that the country could no longer be saved, invoked a firestorm on their lands, turning them into a scorched wasteland.
@@ -37,5 +37,5 @@ Thus ended the most terrible and tragic period in the history of Dji’Da. The w
 Terrible cataclysms and earthquakes caused by gigantic amounts of magic during the war shook the world of Dji’Da. The shape of the continents had changed, and where yesterday there was the sea, today there were mountains. And conversely, vast areas of land have sunk to the seabed. Countless pieces of knowledge and art were irrevocably lost.
 
 
-![](6endgoldenera.2x.jpg)
+![](images/6endgoldenera.2x.jpg)
 *Consequences of the war with Adomion*

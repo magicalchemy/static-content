@@ -1,0 +1,68 @@
+{
+  "WIKI": [
+    {
+      "title": {
+        "ru": "Примеры",
+        "en": "Examples"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Пример 1 — Полное покрытие",
+            "en": "Example 1 — Full coverage"
+          },
+          "files": {
+            "ru": "articles/example_1/example_1_ru.md",
+            "en": "articles/example_1/example_1_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Пример 2 — Только русская версия",
+            "en": "Example 2 — Russian only"
+          },
+          "files": {
+            "ru": "articles/example_2/example_2_ru.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Пример 3 — Только английская версия",
+            "en": "Example 3 — English only"
+          },
+          "files": {
+            "en": "articles/example_3/example_3_en.md"
+          }
+        }
+      ]
+    }
+  ],
+  "LORE": [
+    {
+      "title": {
+        "ru": "Лор — Примеры",
+        "en": "Lore — Examples"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Лор — Пример 1 (только RU)",
+            "en": "Lore — Example 1 (RU only)"
+          },
+          "files": {
+            "ru": "articles/lore_example_1/lore_example_1_ru.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Лор — Пример 2 (только EN)",
+            "en": "Lore — Example 2 (EN only)"
+          },
+          "files": {
+            "en": "articles/lore_example_2/lore_example_2_en.md"
+          }
+        }
+      ]
+    }
+  ]
+}

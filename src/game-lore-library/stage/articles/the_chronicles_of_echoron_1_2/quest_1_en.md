@@ -3,7 +3,7 @@ A small figure wrapped in a hooded cloak approached the large mansion on the hil
 
 Gorl left the lands of his native tribe for the first time and looked at the unfamiliar scenery and buildings with great curiosity. The Order's mission took him to the most remote and northern lands, the Duchy of Dornkun, the capital city of Karrun. 
 
-![](quest1.2x.png)
+![](images/quest1.2x.png)
 
 So Gorl stood in front of the mansion of one of the principality's most influential and prosperous merchants. Sven Thorvalson, the mansion's owner, contacted the Truth Seekers and asked them to help him with a case.
 
@@ -16,7 +16,7 @@ It was due to the influence of his grandfather, who was also a Seekers member. B
 
 Gorl spent many years studying the history, languages, and culture of all the races of the G'da world under the tutelage of the Order until he was accepted as a member of the Seekers of Truth. And so, on behalf of the Council of the Order, he arrived here.
 
-![](quest2.2x.png)
+![](images/quest2.2x.png)
 
 Gorl was led to the merchant's private office, where Sven Thorvalson himself was waiting for him. He was an older, heavyset man dressed in a sumptuous, gold-embroidered gown. He sat at the massive, ornate table and looked intently at Gorl.
 
@@ -33,14 +33,14 @@ As a reward for your help, I will give you an artifact that belonged to the alch
  
 – I am willing to try and help you. May I see the box, please? – Gorl carefully took it from Sven's hands and scrutinized it from all sides. 
 
-![](quest3.2x.png)
+![](images/quest3.2x.png)
 
 The box was a masterpiece of dwarven art. It was made of dark mithril, and each side was inscribed with a ligature of dwarven patterns inlaid with gems. 
 The lid was decorated with gnome runes, and beneath them was the lock with rotating discs on which letters and pictograms were inscribed.
 
 – Master Sven, I know why it didn't work out for you. It uses the language of an ancient human kingdom that disappeared during the Survivor Wars. The cipher itself is not complicated, and you just have to pick up the letters from the human alphabet and match them with the runes of the gnomes. The folded word will be the cipher to the lock.
 
-![](quest4.2x.png)
+![](images/quest4.2x.png)
 
 Gorl typed a cipher on the lock. Inside was something wrapped in oiled parchment. Sven Thorvalson jumped up from the table and snatched the box from Gorl's hands with uncharacteristic agility.
 
@@ -52,4 +52,4 @@ No doubt it was one of his people's relics. Touching the plate caused a slight t
 
 Putting the plate in his pocket, Gorl said farewell to Sven Thorvalson and left the merchant's office.
 
-![](quest5.2x.png)
+![](images/quest5.2x.png)

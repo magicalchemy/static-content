@@ -8,7 +8,7 @@ Three months ago, one of the Seekers' informants reported that a similar artifac
 The Council of the Order knew that it was impossible to obtain the Rune of the Elements from the treasury without the written permission of the Lord Pontiff. Alas, the chance of getting this permission was less than the chance of finding a virgin in Greer's harbor brothel, so a different course of action was required. 
 
 The Council turned to those who sometimes did the delicate orders for the Truth Seekers - the Thieves' Guild.  
-![](quest41.2x.png)
+![](images/quest41.2x.png)
 After a while, the Guild claimed they had the artifact. Gorl, as a trusted member of the Council, was instructed to make the exchange.
 
 The goblin went to the meeting. His carriage stopped at the main entrance to Château de Monsin. The manor's owner, Baroness Sonja De Monsin, was one of the wealthiest noblewomen in the Kingdom of Erteland. 
@@ -30,7 +30,7 @@ There was an iron will and a strong character in those eyes. Gorl felt uncomfort
 Obtaining it was much more complex than we had hoped, not to mention that the Holy See began a search for those involved in the theft. In Leria, my colleagues suffer oppression and losses from the church's actions. The Holy Fathers are not keen on having a burglar infiltrate their main cathedral. 
 
 I need to know the truth. Why did the goblins need this thing? Your answer will determine whether I give it to you or not. 
-![](quest42.2x.png)
+![](images/quest42.2x.png)
 – My lady, but what about your honor and your word? We made an agreement. If I walk away with nothing, word will spread quickly that the Guild is not fulfilling its contract. 
 
 – "If" you leave, you're right to point it out. It's not safe for anyone to travel alone, including goblins. It is said that bandits often attack travelers in these parts. 

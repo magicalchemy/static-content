@@ -4,7 +4,7 @@ This information on newfound magical beings is compiled from the few surviving a
 
 ## Gemosaur
 
-![](gemodavr.2x.png)
+![](images/gemodavr.2x.png)
 
 The last of the discovered familiars is quite remarkable. In appearance, it reminds me of a species of rodent found in the forests of the western lands of the Triumvirate of Venturia. Only Gemosaurs are more extensive and have a magical peculiarity inherent in all other familiars.
 

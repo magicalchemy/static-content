@@ -1,7 +1,7 @@
 # Bagbir’s Story. 
 ## Part I. Heir to the family business
 
-![](bagbir1.2x.png)
+![](images/bagbir1.2x.png)
 
 Bagbir was born into a family of hereditary brewers. The Bushybeard clan is one of the six that formed the kingdom of Hada-Nor in the mountains of Coldania at the dawn of a new age in dark times.
 
@@ -17,7 +17,7 @@ From then on, he greatly desired to learn as much as possible about the outside 
 
 ## Part II. The outside world
 
-![](bagbir2.2x.png)
+![](images/bagbir2.2x.png)
 
 Bagbir decided the easiest way to see the world on the surface again was to take a job with the trade guild. He gave up his inheritance of the family brewery and devoted his life entirely to fulfilling his dream.
 
@@ -31,7 +31,7 @@ For several years, he traveled all over the continent of Khela. The dwarf ventur
 
 ## Part III. Life among humans
 
-![](bagbir3.2x.jpg)
+![](images/bagbir3.2x.jpg)
 
 Traveling through Khela, Bagbir visited every possible kingdom and country. He dreamed of going to the eastern continent of Farnax, but he could not get there. The reason was that the sight of the boundless expanse of the sea inspired great awe and fear in the true representative of the dwarven people born in the depths of the mountains. The mere thought of sailing on a ship in the middle of the sea for weeks made Bagbir sick.
 

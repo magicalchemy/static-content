@@ -91,6 +91,27 @@ run_convert_avif() {
     "$image_tag" -e "$env"
 }
 
+run_check_links() {
+  local image_tag="ma-gl-links"
+  build_if_missing "$image_tag" "$GL_DIR/Dockerfile.links" "$GL_DIR"
+  local env; env=$(ask_environment "both" true)
+  local verbose_flag=""
+  local fix_flag=""
+  read -r -p "Verbose output? [y/N]: " ans || true
+  case "$ans" in
+    y|Y|yes|YES|Yes) verbose_flag="-v" ;;
+  esac
+  read -r -p "Apply auto-fixes (rename image->images, rewrite links)? [y/N]: " ans || true
+  case "$ans" in
+    y|Y|yes|YES|Yes) fix_flag="-f" ;;
+  esac
+  echo -e "${BOLD}Running markdown links validator...${NC} (env=$env)"
+  docker run --rm -it \
+    -v "$GL_DIR:/app" \
+    --entrypoint bash \
+    "$image_tag" -lc "bash /app/check_md_links.sh -e $env ${verbose_flag} ${fix_flag}"
+}
+
 main_menu() {
   need_docker
   while true; do
@@ -99,12 +120,14 @@ main_menu() {
     echo "1) Normalize article/file names (snake_case)"
     echo "2) Validate toc.json and files"
     echo "3) Convert images to AVIF"
+    echo "4) Validate markdown links"
     echo "q) Quit"
     read -r -p "Choose an option: " choice || true
     case "$choice" in
       1) run_normalize ;;
       2) run_validate ;;
       3) run_convert_avif ;;
+      4) run_check_links ;;
       q|Q) exit 0 ;;
       *) echo "Unknown option" ;;
     esac
