@@ -1,0 +1,60 @@
+name: Validate Game Lore Library
+
+on:
+  pull_request:
+    paths:
+      - 'src/game-lore-library/**'
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'src/game-lore-library/**'
+
+jobs:
+  validate:
+    name: Validate toc.json and markdown links
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: src/game-lore-library
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Validate toc.json (both envs)
+        run: |
+          npm run validate:toc
+
+      - name: Validate markdown links (both envs)
+        run: |
+          npm run validate:links
+
+      - name: Check normalization (snake_case, lang suffixes)
+        id: norm
+        run: |
+          # Run Node normalization to see if it would change anything
+          npm run normalize
+          # If there are changes, fail with a helpful message
+          if ! git diff --quiet; then
+            echo "::group::Normalization diff"
+            git --no-pager diff -- src/game-lore-library/stage | sed -n '1,400p'
+            echo "::endgroup::"
+            echo "There are files that need normalization (snake_case and/or _ru/_en)." >&2
+            echo "Run the 'Auto-fix Game Lore Library' workflow to auto-apply safe fixes, or use Git Bash/WSL and run ma-tools.sh (option 1)." >&2
+            exit 1
+          fi
+
+      - name: Restore working tree (no changes should persist)
+        if: always()
+        run: |
+          git checkout -- . || true

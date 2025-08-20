@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://magicalchemy.example/schema/game-lore/toc.schema.json",
+  "title": "Game Lore Library TOC",
+  "type": "object",
+  "required": ["WIKI", "LORE"],
+  "additionalProperties": false,
+  "properties": {
+    "WIKI": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/node" }
+    },
+    "LORE": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/node" }
+    }
+  },
+  "$defs": {
+    "title": {
+      "type": "object",
+      "required": ["ru", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "ru": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 }
+      }
+    },
+    "articleFiles": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ru": {
+          "type": "string",
+          "pattern": "^articles/.+/.+_ru\\.md$"
+        },
+        "en": {
+          "type": "string",
+          "pattern": "^articles/.+/.+_en\\.md$"
+        }
+      },
+      "anyOf": [
+        { "required": ["ru"] },
+        { "required": ["en"] }
+      ]
+    },
+    "node": {
+      "type": "object",
+      "required": ["title"],
+      "additionalProperties": false,
+      "properties": {
+        "title": { "$ref": "#/$defs/title" },
+        "items": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/node" }
+        },
+        "files": { "$ref": "#/$defs/articleFiles" }
+      },
+      "oneOf": [
+        { "required": ["items"], "not": { "required": ["files"] } },
+        { "required": ["files"], "not": { "required": ["items"] } }
+      ]
+    }
+  }
+}

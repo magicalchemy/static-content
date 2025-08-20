@@ -1,0 +1,78 @@
+name: Auto-fix Game Lore Library
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: "Environment to target (stage|production|both)"
+        default: "both"
+        required: true
+        type: choice
+        options:
+          - stage
+          - production
+          - both
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  autofix:
+    name: Normalize and auto-fix links, then open PR
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: src/game-lore-library
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Run normalization (stage only)
+        run: |
+          npm run normalize
+
+      - name: Auto-fix markdown links and paths
+        run: |
+          npm run validate:links -- --fix -e "${{ github.event.inputs.environment }}"
+
+      - name: Validate toc.json after fixes
+        run: |
+          npm run validate:toc || true
+
+      - name: Convert images to AVIF
+        run: |
+          npm run images:avif -- -e "${{ github.event.inputs.environment }}"
+
+      - name: Create Pull Request with changes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(game-lore): normalize names and auto-fix markdown links"
+          title: "Auto-fix: normalize names and markdown links"
+          body: |
+            This PR was created automatically by the "Auto-fix Game Lore Library" workflow.
+            - Normalized article and asset names to snake_case
+            - Updated stage toc.json accordingly (if needed)
+            - Auto-fixed common markdown link issues (images/, anchors, absolute-to-relative)
+
+            Please review the changes. If something looks off, feel free to push further edits to this branch.
+          branch: ci/autofix-game-lore-${{ github.run_id }}
+          delete-branch: true
+          base: ${{ github.ref_name }}
+          add-paths: |
+            src/game-lore-library/**
+          signoff: true
+          labels: |
+            autofix
+            game-lore

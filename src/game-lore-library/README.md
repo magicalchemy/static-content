@@ -4,8 +4,7 @@
 
 - Директория статей: `src/game-lore-library/<env>/articles/`
 - Оглавление: `src/game-lore-library/<env>/toc.json`
-- Конвертация изображений: `convert_to_avif.sh`
-- Валидация оглавления и файлов: `validate_toc.sh`
+- Локальные инструменты (Node.js): см. раздел «Локальные команды (Node.js)» ниже
 
 Для начала работы перейдите к разделу [«Быстрый старт»](docs/quickstart.md).
 
@@ -27,42 +26,37 @@
 - [Ссылки и якоря в статьях](docs/links.md)
 - [Нормализация названий статей (snake_case)](docs/normalization.md)
 
-## Утилиты (Docker-меню)
+## Локальные команды (Node.js)
 
-Для удобного запуска служебных скриптов используйте меню:
+Рекомендуемый способ работы (Windows/macOS/Linux) — через Node.js без Docker:
 
 ```bash
 cd src/game-lore-library
-chmod +x ma-tools.sh
-./ma-tools.sh
+npm ci
+
+# Валидация оглавления (stage и production)
+npm run validate:toc
+
+# Проверка ссылок (без изменения файлов)
+npm run validate:links
+
+# Автопочинка ссылок/якорей
+npm run fix:links
+
+# Нормализация имён файлов и папок статей (stage)
+npm run normalize
+
+# Конвертация изображений в AVIF
+npm run images:avif        # оба окружения
+# npm run images:avif:stage
+# npm run images:avif:production
 ```
 
-### Windows
+## Установка Node.js и запуск из VS Code
 
-- __Установка Git Bash__
-  - Скачайте и установите «Git for Windows»: https://git-scm.com/downloads/win
-  - Во время установки оставьте включёнными опции «Git Bash» и «Git Bash Here» (контекстное меню Проводника).
-  - После установки откройте «Git Bash» через меню Пуск или правым кликом по папке → «Git Bash Here».
-
-- __Git Bash (рекомендуется)__
-  - Откройте Git Bash в корне репозитория и выполните команды выше без изменений.
-
-- __WSL__
-  - Убедитесь, что репозиторий доступен в `/mnt/c/...`
-  - Пример:
-    ```bash
-    cd /mnt/c/Users/<user>/WebstormProjects/MA-static-content/src/game-lore-library
-    chmod +x ma-tools.sh
-    ./ma-tools.sh
-    ```
-
-- __PowerShell/CMD__
-  - Непосредственно не подходят: `ma-tools.sh` — bash-скрипт. Используйте Git Bash или WSL.
-
-Доступные пункты:
-
-- Нормализация названий (snake_case)
-- Валидация toc.json
-- Конвертация изображений в AVIF
-
-Каждый пункт автоматически соберёт/переиспользует нужный Docker-образ и выполнит команду с корректным монтированием каталогов.
+- Установите Node.js LTS: https://nodejs.org (выберите LTS)
+- Откройте репозиторий в VS Code (или другом редакторе)
+- В VS Code:
+  - Откройте вкладку «NPM Scripts» (вкладка Explorer → раздел NPM Scripts)
+  - Запускайте нужные команды кликом: `validate:toc`, `validate:links`, `fix:links`, `normalize`, `images:avif`
+  - Либо откройте встроенный терминал (View → Terminal) и выполните команды из раздела выше

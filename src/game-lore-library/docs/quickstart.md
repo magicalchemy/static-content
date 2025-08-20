@@ -49,6 +49,12 @@ cd static-content
 
 После добавления всех изображений запустите инструмент конвертации, чтобы создать AVIF-версии (см. [Конвертация изображений](images.md)).
 
+```bash
+cd src/game-lore-library
+npm ci
+npm run images:avif:stage
+```
+
 ### 5. Добавьте статью в оглавление
 
 Откройте `src/game-lore-library/stage/toc.json` и добавьте вашу статью в соответствующий раздел (WIKI или LORE)
@@ -59,34 +65,20 @@ cd static-content
 
 ### 6. Проверка и публикация
 
-- Запустите валидацию `toc.json` (см. [Валидация toc.json](validation.md)):
+- Рекомендуемый способ — npm-скрипты (см. [Валидация toc.json](validation.md)):
 
 ```bash
 cd src/game-lore-library
-```
+npm ci
 
-```bash
-docker build -t toc-validator -f Dockerfile.validator .
-```
+# Проверка toc.json (оба окружения)
+npm run validate:toc
 
-```bash
-# Проверка обоих окружений
-docker run --rm -v "$(pwd):/app" toc-validator
-```
+# Проверка ссылок/якорей
+npm run validate:links
 
-```bash
-# Только stage
-docker run --rm -v "$(pwd):/app" toc-validator -e stage
-```
-
-```bash
-# Только production
-docker run --rm -v "$(pwd):/app" toc-validator -e production
-```
-
-```bash
-# Подробный вывод
-docker run --rm -v "$(pwd):/app" toc-validator -v
+# При необходимости автопочинка ссылок/якорей
+npm run fix:links
 ```
 
 - Протестируйте на stage, по raw-ссылке, и на сайте:

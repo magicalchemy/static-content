@@ -7,11 +7,16 @@
   - Превью: откройте `.md` → «Open Preview to the Side»
     - Windows/Linux: Ctrl+Shift+V
     - macOS: ⌘⇧V
-- **MacDown** (macOS) — **бесплатно, open‑source**.
-  - Сайт: https://macdown.uranusjr.com
-- **PanWriter** (Windows/macOS/Linux) — **бесплатно**. Минималистичный Markdown‑редактор с превью.
-  - Сайт: https://panwriter.com
-- **ghostwriter** (Windows/Linux; macOS — сборка вручную) — **бесплатно, open‑source**. Фокус‑режим для текста.
-  - Сайт: https://ghostwriter.kde.org
-- **MarkText** (Windows/macOS/Linux) — **бесплатно, open‑source**. Очень простой, есть живое превью.
-  - Репозиторий: https://github.com/marktext/marktext
+
+## Запуск npm‑скриптов в VS Code
+
+- Откройте папку репозитория в VS Code.
+- В боковой панели откройте «NPM Scripts» (Explorer → NPM Scripts).
+- Запускайте нужные команды двойным кликом: `validate:toc`, `validate:links`, `fix:links`, `normalize`, `images:avif`.
+- Альтернатива: встроенный терминал (View → Terminal):
+
+```bash
+cd src/game-lore-library
+npm ci
+npm run validate:toc
+```

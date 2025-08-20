@@ -1,0 +1,11 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "src/game-lore-library/stage/toc.json",
+        "src/game-lore-library/production/toc.json"
+      ],
+      "url": "./src/game-lore-library/toc.schema.json"
+    }
+  ]
+}
