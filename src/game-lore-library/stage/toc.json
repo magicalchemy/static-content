@@ -60,6 +60,26 @@
     },
     {
       "title": {
+        "ru": "НФТ КОЛЛЕКЦИИ MAGIC ALCHEMY",
+        "en": "NFT COLLECTION MAGIC ALCHEMY"
+      },
+      "files": {
+        "ru": "articles/nft_2/nft_ru.md",
+        "en": "articles/nft_2/nft_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Фандрайз",
+        "en": "Fundraising"
+      },
+      "files": {
+        "ru": "articles/fundraise/fund_ru.md",
+        "en": "articles/fundraise/fund_en.md"
+      }
+    },
+    {
+      "title": {
         "ru": "Мем-токен $RUSK сухарики",
         "en": "Mem-token $RUSK"
       },
@@ -105,16 +125,7 @@
         }
       ]
     },
-    {
-      "title": {
-        "ru": "НФТ КОЛЛЕКЦИИ MAGIC ALCHEMY",
-        "en": "NFT COLLECTION MAGIC ALCHEMY"
-      },
-      "files": {
-        "ru": "articles/nft_2/nft_ru.md",
-        "en": "articles/nft_2/nft_en.md"
-      }
-    },
+
     {
       "title": {
         "ru": "Карточная игра Magic Towers",
@@ -141,6 +152,36 @@
           }
         }
       ]
+    },
+    {
+      "title": {
+        "ru": "Мерч, который не купить",
+        "en": "Merch You Can’t Buy"
+    },
+    "files": {
+        "ru": "articles/merch/merch_ru.md",
+        "en": "articles/merch/merch_en.md"
+      }
+  },
+  {
+      "title": {
+        "ru": "Внутренняя кухня Magic Alchemy: май 2024",
+        "en": "Behind the Scenes of Magic Alchemy: May 2024"
+      },
+      "files": {
+        "ru": "articles/kuxnya_may/kyxnya_ru.md",
+        "en": "articles/kuxnya_may/kyxnya_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Внутренняя кухня Magic Alchemy: октябрь 2024",
+        "en": "Behind the Scenes of Magic Alchemy: October 2024"
+      },
+      "files": {
+        "ru": "articles/kuxnya_october/kuxna_2_ru.md",
+        "en": "articles/kuxnya_october/kuxna_2_en.md"
+      }
     }
   ],
   "LORE": [
@@ -345,7 +386,7 @@
             {
               "title": {
                 "ru": "Багбир",
-                "en": "Багбир"
+                "en": "Bagbir"
               },
               "files": {
                 "ru": "articles/characters_2_2/bagbir_ru.md",

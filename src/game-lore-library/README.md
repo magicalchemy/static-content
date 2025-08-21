@@ -33,19 +33,24 @@
 ```bash
 cd src/game-lore-library
 npm ci
-
+```
+```bash
 # Валидация оглавления (stage и production)
 npm run validate:toc
-
+```
+```bash
 # Проверка ссылок (без изменения файлов)
 npm run validate:links
-
+```
+```bash
 # Автопочинка ссылок/якорей
 npm run fix:links
-
+```
+```bash
 # Нормализация имён файлов и папок статей (stage)
 npm run normalize
-
+```
+```bash
 # Конвертация изображений в AVIF
 npm run images:avif        # оба окружения
 # npm run images:avif:stage

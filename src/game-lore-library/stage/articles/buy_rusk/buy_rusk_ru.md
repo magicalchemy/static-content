@@ -2,7 +2,7 @@
 
 ![](images/1.2x.jpg)
 
-https://t.me/NIKITIN_live23/191
+Смотреть обучающее видео можно тут: https://t.me/NIKITIN_live23/191
 
 Ссылка на DEX тут:
 
