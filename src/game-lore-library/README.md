@@ -13,7 +13,7 @@
 - Фронтенд импортирует `toc.json`, загружает статьи и изображения через raw-ссылки.
 - Каждая статья отображается с заголовком и контентом.
 - Картинки для каждой статьи доступны из папки `images` внутри директории статьи.
- - Оглавление `toc.json` поддерживает вложенные категории (элементы `items` могут содержать подкатегории с собственными `items` или статьи с `files`). См. раздел «Вложенные категории» в [Формат toc.json](docs/toc_format.md).
+- Оглавление `toc.json` поддерживает вложенные категории (элементы `items` могут содержать подкатегории с собственными `items` или статьи с `files`). См. раздел «Вложенные категории» в [Формат toc.json](docs/toc_format.md).
 
 ## Документация
 
@@ -34,27 +34,42 @@
 cd src/game-lore-library
 npm ci
 ```
+
 ```bash
 # Валидация оглавления (stage и production)
 npm run validate:toc
 ```
+
 ```bash
 # Проверка ссылок (без изменения файлов)
 npm run validate:links
 ```
+
+```bash
+# Проверка структуры каталогов и нейминга (stage по умолчанию)
+npm run validate:structure
+```
+
 ```bash
 # Автопочинка ссылок/якорей
 npm run fix:links
 ```
+
 ```bash
 # Нормализация имён файлов и папок статей (stage)
 npm run normalize
 ```
+
 ```bash
 # Конвертация изображений в AVIF
-npm run images:avif        # оба окружения
-# npm run images:avif:stage
-# npm run images:avif:production
+npm run images:avif        # оба окружения (обёртка над tools/images-avif.mjs)
+# npm run images:avif:stage  # только stage
+# npm run images:avif:production  # только production
+
+# Примеры тонкой настройки
+# Качество/усилие, принудительная перегенерация и подробные логи
+node tools/images-avif.mjs -e stage -q 60 -E 6 -f -v
+node tools/images-avif.mjs -e both -f -v   # обработать оба окружения; отсутствующее окружение будет пропущено
 ```
 
 ## Установка Node.js и запуск из VS Code

@@ -6,6 +6,7 @@
   "scripts": {
     "validate:toc": "node tools/validate-toc.mjs",
     "validate:links": "node tools/validate-links.mjs",
+    "validate:structure": "node tools/validate-structure.mjs",
     "normalize": "node tools/normalize.mjs",
     "fix:links": "node tools/validate-links.mjs --fix -e both",
     "images:avif": "node tools/images-avif.mjs -e both",
