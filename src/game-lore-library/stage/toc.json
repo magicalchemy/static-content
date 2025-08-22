@@ -107,7 +107,7 @@
         {
           "title": {
             "ru": "Стейкинг $RUSK",
-            "en": "Steaking $RUSK"
+            "en": "Staking $RUSK"
           },
           "files": {
             "ru": "articles/steaking_rusk/steaking_rusk_ru.md",
@@ -165,8 +165,8 @@
   },
   {
       "title": {
-        "ru": "Внутренняя кухня Magic Alchemy: май 2024",
-        "en": "Behind the Scenes of Magic Alchemy: May 2024"
+        "ru": "Внутренняя кухня MA: май 2024",
+        "en": "Behind the Scenes of MA: May 2024"
       },
       "files": {
         "ru": "articles/kuxnya_may/kyxnya_ru.md",
@@ -175,8 +175,8 @@
     },
     {
       "title": {
-        "ru": "Внутренняя кухня Magic Alchemy: октябрь 2024",
-        "en": "Behind the Scenes of Magic Alchemy: October 2024"
+        "ru": "Внутренняя кухня MA: октябрь 2024",
+        "en": "Behind the Scenes of MA: October 2024"
       },
       "files": {
         "ru": "articles/kuxnya_october/kuxna_2_ru.md",
