@@ -9,6 +9,8 @@ The great alchemists of past ages tried in vain to unravel the prophecy’s secr
 
 And yet, for centuries, the goblins continued their search. With special care, they gathered everything that might be connected to the time when the great masters of alchemy lived and created in Dji`Da.
 
+![](flusk1.2x.jpg)
+
 Hundreds of ancient artifacts were collected: scrolls and books in forgotten tongues, magical crystals, and relics whose purpose had long been swallowed by the abyss of time.
 But the most mysterious finds were the ancient flasks, each containing a strange, glowing substance. Every flask was unique; no two were ever the same. Neither magic nor brute force could open them, and the nature of their contents remained beyond the understanding of even the wisest alchemists.
 

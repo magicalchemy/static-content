@@ -1,63 +1,63 @@
 # НФТ коллекции Magic Alchemy на element.market
 
+![](Nftcollection.2x.png)
 ### Колбы Менделефа
 
-![](images/flusk1.2x.jpg)
+![](flusk1.2x.jpg)
 
 https://element.market/collections/magic-alchemy-mendelef-flask
 
 
 ### Колбы с эмбрионами
 
-![](images/embrio.2x.jpg)
+![](embrio.2x.jpg)
 
 https://element.market/collections/magic-alchemy-embryo-flask
 
 ### Агли бульоны
 
-![](images/ugly.2x.jpg)
+![](ugly.2x.jpg)
 
 https://element.market/collections/magic-alchemy-ugly-broth
 
 ### Генезисные алхимики
 
-
-![](images/alchemist.2x.jpg)
+![](1alchemist.2x.jpg)
 
 https://element.market/collections/magic-alchemy-genesis-goblin-alchemist
 
 ### Гоблин-ремонтник из племени Зуун Меркат
 
-![](images/zuun.2x.png)
+![](1zuun.2x.png)
 
 https://element.market/collections/magic-alchemy-zuun-merkat-repairman
 
 ### Гоблин-ремонтник из племени Ваал`аc Хина
 
-![](images/vala.2x.png)
+![](1vala.2x.png)
 
 https://element.market/collections/magic-alchemy-vala-as-hina-repairman
 
 ### Гоблин-ремонтник из племени Одинокой Луны
 
-![](images/moon.2x.jpg)
 
-https://element.market/collections/magic-alchemy-lonely-moon-repairman
+![](1moon.2x.jpg)
+
 
 ### Мастерские-повозки
 
-![](images/wagon.2x.jpg)
+![](1wagon.2x.jpg)
 
 https://element.market/collections/magic-alchemy-workshop-wagon
 
 ### Магические фамильяры
 
-![](images/pet.2x.jpg)
+![](1pet.2x.jpg)
 
 https://element.market/collections/magic-alchemy-magic-familiar
 
 ### Кружки
 
-![](images/mug.2x.jpg)
+![](1mug.2x.jpg)
 
 https://element.market/collections/magic-alchemy-alpha-mug

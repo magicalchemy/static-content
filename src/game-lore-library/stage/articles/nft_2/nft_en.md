@@ -1,63 +1,65 @@
 # NFT collection Magic Alchemy on element.market
 
+![](Nftcollection.2x.png)
+
 ### Mendelef Flask
 
-![](images/flusk1.2x.jpg)
+![](flusk1.2x.jpg)
 
 https://element.market/collections/magic-alchemy-mendelef-flask
 
 
 ### Embryo Flask
 
-![](images/embrio.2x.jpg)
+![](embrio.2x.jpg)
 
 https://element.market/collections/magic-alchemy-embryo-flask
 
 ### Ugly Broth
 
-![](images/ugly.2x.jpg)
+![](ugly.2x.jpg)
 
 https://element.market/collections/magic-alchemy-ugly-broth
 
 ### Genesis Goblin Alchemist
 
 
-![](images/alchemist.2x.jpg)
+![](1alchemist.2x.jpg)
 
 https://element.market/collections/magic-alchemy-genesis-goblin-alchemist
 
 ### Zuun Merkat Repairman
 
-![](images/zuun.2x.png)
+![](1zuun.2x.png)
 
 https://element.market/collections/magic-alchemy-zuun-merkat-repairman
 
 ### Vala'as Hina Repairman
 
-![](images/vala.2x.png)
+![](1vala.2x.png)
 
 https://element.market/collections/magic-alchemy-vala-as-hina-repairman
 
 ### Lonely Moon Repairman
 
-![](images/moon.2x.jpg)
+![](1moon.2x.jpg)
 
 https://element.market/collections/magic-alchemy-lonely-moon-repairman
 
 ### Workshop Wagon
 
-![](images/wagon.2x.jpg)
+![](1wagon.2x.jpg)
 
 https://element.market/collections/magic-alchemy-workshop-wagon
 
 ### Magic Familiar
 
-![](images/pet.2x.jpg)
+![](1pet.2x.jpg)
 
 https://element.market/collections/magic-alchemy-magic-familiar
 
 ### Alpha Mug
 
-![](images/mug.2x.jpg)
+![](1mug.2x.jpg)
 
 https://element.market/collections/magic-alchemy-alpha-mug

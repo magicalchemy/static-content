@@ -3,7 +3,7 @@
 Thousands of years have passed since the creation of the first generation of the children of the gods. The elves achieved incredible heights in the art of magic, the dwarves created their greatest treasures, and the goblins made their most powerful potions. Humans and Orcs developed and populated all the continents on both sides of the Great Ocean. It was a Golden Era in the history of Dji’Da.
 
 
-![](images/4cityelfs.2x.jpg)
+![](elftown.2x.png)
 **A city of elves in the Golden Era*
 
 All the nations respected and trusted Adomion because they knew he was the guardian of souls and bore the burden of a critical mission. And so, over thousands of years of cycles, the souls of mortals were born and died, and the elder gods gradually grew weaker and weaker. It was at that moment that Adomion set in motion his plan to exterminate all the children of Tara.
@@ -13,7 +13,7 @@ One day, Adomion bet with the great goblin alchemists that they could not make a
 Years of experiments and the rarest magical ingredients were wasted, but the potion could not be created. The magic and matter of Dji’Da’s world could not interact with the nature of the gods. And when the alchemists were already desperate to make it, they suddenly realized that for the potion to work on a god, it must contain their particle — the blood of a god.
 
 
-![](images/5adomion.2x.png)
+![](5adomion.2x.png)
 *Adomion, guardian of the Horn of Souls*
 
 With this knowledge they came to Adomion. He despised the very idea that a god could spill his own blood for mortals, but he agreed to give the alchemists what they wanted. He filled the chalice with his blood and handed it to the goblins.
