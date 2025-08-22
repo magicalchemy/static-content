@@ -107,8 +107,13 @@ async function runForEnv(env, opts) {
       const m = name.match(/^(.*)\.2x\.(png|jpg|jpeg)$/i);
       if (!m) continue;
 
-      // derive base (without .2x.ext)
-      const base = m[1];
+      // derive base (without .2x.ext) and normalize accidental mobile suffix variations
+      let base = m[1];
+      // If source name already contains a trailing `_mobile` or `-mobile`,
+      // strip it to avoid duplicated or underscore/mobile variants in outputs.
+      // We will append standardized `.mobile` part below when needed.
+      const hadMobileSuffix = /(?:[_-]mobile)$/i.test(base);
+      if (hadMobileSuffix) base = base.replace(/(?:[_-]mobile)$/i, '');
       // read original size once
       let meta;
       try {

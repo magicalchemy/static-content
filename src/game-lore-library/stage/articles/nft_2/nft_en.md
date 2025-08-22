@@ -30,19 +30,19 @@ https://element.market/collections/magic-alchemy-genesis-goblin-alchemist
 
 ### Zuun Merkat Repairman
 
-![](images/1zuun.2x.png)
+![](images/zuunmerkat.2x.png)
 
 https://element.market/collections/magic-alchemy-zuun-merkat-repairman
 
 ### Vala'as Hina Repairman
 
-![](images/1vala.2x.png)
+![](images/vaalashina.2x.png)
 
 https://element.market/collections/magic-alchemy-vala-as-hina-repairman
 
 ### Lonely Moon Repairman
 
-![](images/1moon.2x.jpg)
+![](images/lonley.2x.png)
 
 https://element.market/collections/magic-alchemy-lonely-moon-repairman
 
