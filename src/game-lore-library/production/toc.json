@@ -1,0 +1,557 @@
+{
+  "WIKI": [
+    {
+      "title": {
+        "ru": "Что такое Magic Alchemy?",
+        "en": "What is Magic Alchemy?"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Что такое Magic Alchemy?",
+            "en": "What is Magic Alchemy?"
+          },
+          "files": {
+            "ru": "articles/ma/ma_ru.md",
+            "en": "articles/ma/ma_en.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Игровые механики",
+        "en": "Game mechanics"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Марафон NFT и токенов POTION",
+            "en": "Marathon NFT and POTION tokens"
+          },
+          "files": {
+            "ru": "articles/marafon_2/marafon_ru.md",
+            "en": "articles/marafon_2/marafon_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Этапы после Марафона NFT и токенов POTION",
+            "en": "Post-Token and NFT Marathon Stages"
+          },
+          "files": {
+            "ru": "articles/pap_2/pap_ru.md",
+            "en": "articles/pap_2/pap_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Механика фарминга Гемов и Поинтов",
+            "en": "Mechanics of farming Gems and Points"
+          },
+          "files": {
+            "ru": "articles/farm_gem_2/farmgem_ru.md",
+            "en": "articles/farm_gem_2/farmgem_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Главная Defi часть Magic Alchemy",
+            "en": "Main Defi part Magic Alchemy"
+          },
+          "files": {
+            "ru": "articles/defi_2/defi_ru.md",
+            "en": "articles/defi_2/defi_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Токеномика Magic Alchemy ",
+            "en": "Magic Alchemy Tokenomics"
+          },
+          "files": {
+            "ru": "articles/tokenomics_2/tokenomics_ru.md",
+            "en": "articles/tokenomics_2/tokenomics_en.md"
+          }
+        }
+      ]
+    },
+
+    {
+      "title": {
+        "ru": "Все NFT коллекции (ссылки)",
+        "en": "All NFT Collections (links)"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "NFT коллекции Magic Alchemy",
+            "en": "NFT collections Magic Alchemy"
+          },
+          "files": {
+            "ru": "articles/nft_2/nft_ru.md",
+            "en": "articles/nft_2/nft_en.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Фандрайз",
+        "en": "Fundraising"
+      },
+      "files": {
+        "ru": "articles/fundraise/fund_ru.md",
+        "en": "articles/fundraise/fund_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Мем-токен $RUSK сухарики",
+        "en": "Mem-token $RUSK"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Токеномика $RUSK",
+            "en": "Tokenomics $RUSK"
+          },
+          "files": {
+            "ru": "articles/tokenomics_rusk/tokenomics_rusk_ru.md",
+            "en": "articles/tokenomics_rusk/tokenomics_rusk_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Платные игры на $RUSK",
+            "en": "Paid games on $RUSK"
+          },
+          "files": {
+            "ru": "articles/paid_game_rusk/igrenarusk_ru.md",
+            "en": "articles/paid_game_rusk/igrenarusk_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Стейкинг $RUSK",
+            "en": "Staking $RUSK"
+          },
+          "files": {
+            "ru": "articles/steaking_rusk/steaking_rusk_ru.md",
+            "en": "articles/steaking_rusk/steaking_rusk_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": " Видео инструкция как купить/продать сухарики",
+            "en": "Video tutorial on how to buy/sell rusk — Russian only"
+          },
+          "files": {
+            "ru": "articles/buy_rusk/buy_rusk_ru.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Карточная игра Magic Towers",
+        "en": "Magic Towers card game"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Обзор всех карт Magic Towers",
+            "en": "Overview of all cards Magic Towers"
+          },
+          "files": {
+            "ru": "articles/cards/cards_ru.md",
+            "en": "articles/cards/cards_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Гайд по игре в Башни",
+            "en": "Guide to playing Towers — Russian only"
+          },
+          "files": {
+            "ru": "articles/guide_cards/guide_cards_ru.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Мерч, который не купить",
+        "en": "Merch You Can’t Buy"
+      },
+      "files": {
+        "ru": "articles/merch/merch_ru.md",
+        "en": "articles/merch/merch_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Внутренняя кухня MA: май 2024",
+        "en": "Behind the Scenes of MA: May 2024"
+      },
+      "files": {
+        "ru": "articles/kuxnya_may/kyxnya_ru.md",
+        "en": "articles/kuxnya_may/kyxnya_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Внутренняя кухня MA: октябрь 2024",
+        "en": "Behind the Scenes of MA: October 2024"
+      },
+      "files": {
+        "ru": "articles/kuxnya_october/kuxna_2_ru.md",
+        "en": "articles/kuxnya_october/kuxna_2_en.md"
+      }
+    }
+  ],
+  "LORE": [
+    {
+      "title": {
+        "ru": "Архив Ордена искателей истины: Мир игры",
+        "en": "Archive of the Order of Truthseekers: The World of the Game"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Легендариум",
+            "en": "Legendarium"
+          },
+          "items": [
+            {
+              "title": {
+                "ru": "Появление Тара и создание мира Джи`Да",
+                "en": "The emergence of Tara and the Dji’Da world creation"
+              },
+              "files": {
+                "ru": "articles/legendarium_1_2/1_the_emergence_of_tara_and_the_dji_da_world_creation_ru.md",
+                "en": "articles/legendarium_1_2/1_the_emergence_of_tara_and_the_dji_da_world_creation_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Появление смертных рас",
+                "en": "The appearance of mortal races"
+              },
+              "files": {
+                "ru": "articles/legendarium_2_2/2_the_appearance_of_mortal_races_ru.md",
+                "en": "articles/legendarium_2_2/2_the_appearance_of_mortal_races_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Горн Душ и цикл перерождений",
+                "en": "The Horn of Souls and the Cycle of Rebirth"
+              },
+              "files": {
+                "ru": "articles/legendarium_3_2/3_the_horn_of_souls_and_the_cycle_of_rebirth_ru.md",
+                "en": "articles/legendarium_3_2/3_the_horn_of_souls_and_the_cycle_of_rebirth_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Восстание Адомиона",
+                "en": "Adomion’s Rebellion"
+              },
+              "files": {
+                "ru": "articles/legendarium_4_2/4_adomion_s_rebellion_ru.md",
+                "en": "articles/legendarium_4_2/4_adomion_s_rebellion_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Война с Безумным богом",
+                "en": "The War with a Mad God"
+              },
+              "files": {
+                "ru": "articles/legendarium_5_2/5_the_war_with_a_mad_god_ru.md",
+                "en": "articles/legendarium_5_2/5_the_war_with_a_mad_god_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Тёмные Времена и Войны Выживших",
+                "en": "The Dark Ages and the Survivor Wars"
+              },
+              "files": {
+                "ru": "articles/legendarium_6_2/6_the_dark_ages_and_the_survivor_wars_ru.md",
+                "en": "articles/legendarium_6_2/6_the_dark_ages_and_the_survivor_wars_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Великое Пророчество Гоблинов",
+                "en": "The Great Goblin Prophecy"
+              },
+              "files": {
+                "ru": "articles/legendarium_7_2/the_great_goblin_prophecy_ru.md",
+                "en": "articles/legendarium_7_2/the_great_goblin_prophecy_en.md"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Страны континента Фарнакс",
+            "en": "Countries on the Farnax continent"
+          },
+          "files": {
+            "ru": "articles/countries_of_the_dji_da_world/countries_on_the_farnax_continent_ru.md",
+            "en": "articles/countries_of_the_dji_da_world/countries_on_the_farnax_continent_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Страны континента Кхела",
+            "en": "Countries on the Khela continent"
+          },
+          "files": {
+            "ru": "articles/countries_of_the_dji_da_world_2/countries_of_the_khela_continent_ru.md",
+            "en": "articles/countries_of_the_dji_da_world_2/countries_of_the_khela_continent_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Племена и структура общества гоблинов",
+            "en": "The tribes and structure of goblin society"
+          },
+          "files": {
+            "ru": "articles/the_tribes_and_structure_of_goblin_society_2/the_tribes_and_structure_of_goblin_society_ru.md",
+            "en": "articles/the_tribes_and_structure_of_goblin_society_2/the_tribes_and_structure_of_goblin_society_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История возникновения “Magic Towers”",
+            "en": "The history of Magic Towers"
+          },
+          "files": {
+            "ru": "articles/magic_tower_2/the_history_of_magic_towers_ru.md",
+            "en": "articles/magic_tower_2/the_history_of_magic_towers_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "О существах магических",
+            "en": "Of Magical Creatures"
+          },
+          "items": [
+            {
+              "title": {
+                "ru": "Магидак",
+                "en": "Magidak"
+              },
+              "files": {
+                "ru": "articles/of_magical_creatures_1_2/magidak_ru.md",
+                "en": "articles/of_magical_creatures_1_2/magidak_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Зубастик",
+                "en": "Fangster"
+              },
+              "files": {
+                "ru": "articles/of_magical_creatures_2_2/zybasik_ru.md",
+                "en": "articles/of_magical_creatures_2_2/zybasik_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Ляплемур",
+                "en": "Ploplemur"
+              },
+              "files": {
+                "ru": "articles/of_magical_creatures_3_2/luaplemur_ru.md",
+                "en": "articles/of_magical_creatures_3_2/luaplemur_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Бигачу",
+                "en": "Bigachu"
+              },
+              "files": {
+                "ru": "articles/of_magical_creatures_4_2/bigachu_ru.md",
+                "en": "articles/of_magical_creatures_4_2/bigachu_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Гемодавр",
+                "en": "Gemosaur"
+              },
+              "files": {
+                "ru": "articles/of_magical_creatures_5_2/gemodavr_ru.md",
+                "en": "articles/of_magical_creatures_5_2/gemodavr_en.md"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "История персонажей",
+            "en": "Character history"
+          },
+          "items": [
+            {
+              "title": {
+                "ru": "Лилит",
+                "en": "Lilith"
+              },
+              "files": {
+                "ru": "articles/characters_1_2/lilit_ru.md",
+                "en": "articles/characters_1_2/lilit_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Багбир",
+                "en": "Bagbir"
+              },
+              "files": {
+                "ru": "articles/characters_2_2/bagbir_ru.md",
+                "en": "articles/characters_2_2/bagbir_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Дазар и Улзар",
+                "en": "Dazar and Ulzar"
+              },
+              "files": {
+                "ru": "articles/characters_3_2/dazar_ulzar_ru.md",
+                "en": "articles/characters_3_2/dazar_ulzar_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глоб",
+                "en": "Glob"
+              },
+              "files": {
+                "ru": "articles/characters_4_2/glob_ru.md",
+                "en": "articles/characters_4_2/glob_en.md"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "История алхимических элементов. Часть 1",
+            "en": "History of the alchemical elements. Part I"
+          },
+          "files": {
+            "ru": "articles/alchemical_elements_1/alchemical_elements_1_ru.md",
+            "en": "articles/alchemical_elements_1/alchemical_elements_1_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "История алхимических элементов. Часть 2",
+            "en": "History of the alchemical elements. Part II"
+          },
+          "files": {
+            "ru": "articles/alchemical_elements_2/alchemical_elements_2_ru.md",
+            "en": "articles/alchemical_elements_2/alchemical_elements_2_en.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Хроники Эхорона",
+        "en": "The Chronicles of Echoron"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Жизнеописание великого деяния магистра Горла ДаНарга по поиску древней родины детей Менделефа",
+            "en": "The biography of the great deeds of Master Gorla DaNarga in search of the ancient homeland of Mendeleev's children"
+          },
+          "items": [
+            {
+              "title": {
+                "ru": "Рунные квесты: Ищущий Истину",
+                "en": "Rune quests: Seeking the Truth"
+              },
+              "files": {
+                "ru": "articles/the_chronicles_of_echoron_1_2/quest_1_ru.md",
+                "en": "articles/the_chronicles_of_echoron_1_2/quest_1_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Рунные квесты: Северные земли",
+                "en": "Rune quests: The Northern Lands"
+              },
+              "files": {
+                "ru": "articles/the_chronicles_of_echoron_2_2/quest_2_ru.md",
+                "en": "articles/the_chronicles_of_echoron_2_2/quest_2_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Рунные квесты: Хозяин “Белого Единорога”",
+                "en": "Rune quests: The Owner of the “White Unicorn”"
+              },
+              "files": {
+                "ru": "articles/the_chronicles_of_echoron_3_2/quest_3_ru.md",
+                "en": "articles/the_chronicles_of_echoron_3_2/quest_3_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Рунные квесты: Королева воров",
+                "en": "Rune quests: Queen of Thieves"
+              },
+              "files": {
+                "ru": "articles/the_chronicles_of_echoron_4_2/quest_4_ru.md",
+                "en": "articles/the_chronicles_of_echoron_4_2/quest_4_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Рунные квесты: Врата Менделефа",
+                "en": "Rune quests: The Gates of Mendelef"
+              },
+              "files": {
+                "ru": "articles/the_chronicles_of_echoron_5_2/quest_5_ru.md",
+                "en": "articles/the_chronicles_of_echoron_5_2/quest_5_en.md"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "ru": "Обретение Эхорона: Мастер и подмастерье",
+            "en": "The Finding of Echoron: Master and apprentice"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_6_2/master_and_apprentice_ru.md",
+            "en": "articles/the_chronicles_of_echoron_6_2/master_and_apprentice_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Обретение Эхорона: Возвращение домой",
+            "en": "The Finding of Echoron: Homecoming"
+          },
+          "files": {
+            "ru": "articles/the_chronicles_of_echoron_7_2/homecoming_ru.md",
+            "en": "articles/the_chronicles_of_echoron_7_2/homecoming_en.md"
+          }
+        }
+      ]
+    }
+  ],
+  "MYSTERIOUS_NOTE": {
+    "ru": "articles/mysterious_note/note_ru.md",
+    "en": "articles/mysterious_note/note_en.md"
+  }
+}
