@@ -42,6 +42,8 @@ https://element.market/collections/magic-alchemy-vala-as-hina-repairman
 
 ![](images/1moon.2x.jpg)
 
+https://element.market/collections/magic-alchemy-lonely-moon-repairman
+
 ### Мастерские-повозки
 
 ![](images/1wagon.2x.jpg)
