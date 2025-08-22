@@ -1,6 +1,6 @@
 # Overview of all cards Magic Towers
 
-![](cards1.2x.png)
+![](images/cards1.2x.png)
 
 Complete Magic Towers Card Library — available at the link:
 👉 https://magicalchemy.org/world/dev/cards
