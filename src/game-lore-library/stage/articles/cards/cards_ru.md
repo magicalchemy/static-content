@@ -1,8 +1,7 @@
 # Обзор всех карт Magic Towers
-![](images/cards.2x.jpg)
+![](cards.2x.jpg)
 
-Полная библиотека карт Magic Towers — доступна по ссылке:
-👉 [https://magicalchemy.org/world/dev/cards](https://magicalchemy.org/world/dev/cards)
+Полная библиотека карт Magic Towers — доступна [тут.](https://magicalchemy.org/world/dev/cards)
 
 Здесь вы найдёте все боевые карты из игры, включая:
 
