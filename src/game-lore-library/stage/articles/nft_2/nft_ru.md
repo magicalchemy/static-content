@@ -1,12 +1,12 @@
 # НФТ коллекции Magic Alchemy на element.market
 
-![](images/Nftcollection.2x.png)
+![](images/nftcollection.2x.png)
+
 ### Колбы Менделефа
 
 ![](images/flusk1.2x.jpg)
 
 https://element.market/collections/magic-alchemy-mendelef-flask
-
 
 ### Колбы с эмбрионами
 
@@ -40,9 +40,7 @@ https://element.market/collections/magic-alchemy-vala-as-hina-repairman
 
 ### Гоблин-ремонтник из племени Одинокой Луны
 
-
 ![](images/1moon.2x.jpg)
-
 
 ### Мастерские-повозки
 

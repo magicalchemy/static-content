@@ -1,5 +1,5 @@
 # What is Magic Alchemy?
-![](ma.2x.png)
+![](images/ma.2x.png)
 
 ## Introduction
 The centralized gaming industry has conditioned users to settle for the final product—the game itself—while developers and publishers reap all the economic benefits. Players have no control over their investments or influence within the system they actively participate in. This is why decentralized infrastructure projects such as the Metaverse, DeFi, NFTs, and Decentralized Autonomous Organizations (DAOs) are increasingly shaping the evolution of the gaming industry.

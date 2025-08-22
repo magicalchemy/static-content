@@ -1,5 +1,5 @@
 # Обзор всех карт Magic Towers
-![](cards.2x.jpg)
+![](images/cards.2x.jpg)
 
 Полная библиотека карт Magic Towers — доступна [тут.](https://magicalchemy.org/world/dev/cards)
 

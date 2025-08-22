@@ -76,15 +76,24 @@
         }
       ]
     },
+
     {
       "title": {
-        "ru": "НФТ КОЛЛЕКЦИИ MAGIC ALCHEMY",
-        "en": "NFT COLLECTION MAGIC ALCHEMY"
+        "ru": "Все NFT коллекции (ссылки)",
+        "en": "All NFT Collections (links)"
       },
-      "files": {
-        "ru": "articles/nft_2/nft_ru.md",
-        "en": "articles/nft_2/nft_en.md"
-      }
+      "items": [
+        {
+          "title": {
+            "ru": "NFT коллекции Magic Alchemy",
+            "en": "NFT collections Magic Alchemy"
+          },
+          "files": {
+            "ru": "articles/nft_2/nft_ru.md",
+            "en": "articles/nft_2/nft_en.md"
+          }
+        }
+      ]
     },
     {
       "title": {

@@ -1,4 +1,4 @@
-import { readdirSync, statSync, utimesSync, mkdirSync, writeFileSync } from 'node:fs';
+import { readdirSync, statSync, utimesSync, mkdirSync, writeFileSync, unlinkSync } from 'node:fs';
 import { resolve, dirname, extname, basename } from 'node:path';
 import sharp from 'sharp';
 
@@ -80,6 +80,22 @@ async function runForEnv(env, opts) {
     if (opts.verbose) {
       console.log(`  [${env}] Статья: ${adir.replace(envRoot + '/', '')}`);
     }
+
+    // If force mode is enabled, remove all existing .avif files in this images directory
+    if (opts.force) {
+      const toRemove = readdirSync(imagesDir, { withFileTypes: true })
+        .filter(e => e.isFile() && e.name.toLowerCase().endsWith('.avif'))
+        .map(e => resolve(imagesDir, e.name));
+      for (const f of toRemove) {
+        try {
+          unlinkSync(f);
+          if (opts.verbose) console.log(`    cleanup: removed ${f.replace(imagesDir + '/', '')}`);
+        } catch (e) {
+          console.error(`    cleanup: failed to remove ${f}: ${e.message}`);
+        }
+      }
+    }
+
     const entries = readdirSync(imagesDir, { withFileTypes: true });
     for (const e of entries) {
       if (!e.isFile()) continue;

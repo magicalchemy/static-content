@@ -1,6 +1,6 @@
 # NFT collection Magic Alchemy on element.market
 
-![](images/Nftcollection.2x.png)
+![](images/nftcollection.2x.png)
 
 ### Mendelef Flask
 

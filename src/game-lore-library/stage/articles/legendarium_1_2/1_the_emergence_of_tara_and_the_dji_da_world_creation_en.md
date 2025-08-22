@@ -9,7 +9,7 @@ Yueve decided to go to the farthest part of the known Universe. Nothing could pr
 
 They are destined to give life to new creatures with intelligence and will, which will be the true design of Tara’s appearance in the Universe. The word was received enthusiastically, and many decided to follow this path…Many, but not all. Some Tara went beyond the boundaries of the Universe and plunged into deep meditation, searching for what they thought was their true purpose.  
 
-![](images/Ueve.2x.png)
+![](images/ueve.2x.png)
 *Yueve meditates at the edge of the universe*  
 
 All the rest of the older and younger Tara followed Yueve and created Dji’Da, the place that would become home for their children. They made the sky, the earth, the oceans, the stars, the sun, and the moon and called this place their abode. And it was beautiful: green boundless forests stretched across the lands, high mountains touched the sky, and deep seas washed the continents’ shores. Life raged on land, water, and in the sky, and the voices of amazing creatures filled the world. And Tara rejoiced at the fruits of their labor. Each of them found something to give to this world.
