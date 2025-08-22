@@ -1,6 +1,22 @@
 {
   "WIKI": [
     {
+      "title":{
+  "ru": "Что такое Magic Alchemy?",
+  "en": "What is Magic Alchemy?"
+},
+      "items": [
+        {
+          "title": {
+            "ru": "Что такое Magic Alchemy?",
+            "en": "What is Magic Alchemy?"
+          },
+          "files": {
+            "ru": "articles/ma/ma_ru.md",
+            "en": "articles/ma/ma_en.md"
+          }
+        }
+      ],
       "title": {
         "ru": "Игровые механики",
         "en": "Game mechanics"
