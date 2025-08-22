@@ -6,7 +6,7 @@ The gods were bound to their heirs by the Flame, and it was a subtle bond betwee
 
 So that the cycle of life would not cease when it happened, the gods decided to create a space in the depths of the world — the land of Pardesa, where the souls of all the dead would gather and wait for a new rebirth.
 
-![](taralooks.2x.png)
+![](images/taralooks.2x.png)
 *The elder Tara look upon the world of Dji’Da*
 
 The gods appointed the youngest brother, Adomion, to be the guardian of this land. He was entrusted to initiate the cycle of rebirth with the help of the Horn of Souls, the artifact his older brothers had been working on. As they pass through the Horn, the souls of all mortals will be cleansed of the memories and anxieties of their past lives and reborn clean and innocent again.

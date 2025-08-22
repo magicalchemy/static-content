@@ -13,7 +13,8 @@
     "LORE": {
       "type": "array",
       "items": { "$ref": "#/$defs/node" }
-    }
+    },
+    "MYSTERIOUS_LEAF": { "$ref": "#/$defs/articleFiles" }
   },
   "$defs": {
     "title": {

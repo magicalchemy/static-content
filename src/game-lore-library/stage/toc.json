@@ -157,13 +157,13 @@
       "title": {
         "ru": "Мерч, который не купить",
         "en": "Merch You Can’t Buy"
-    },
-    "files": {
+      },
+      "files": {
         "ru": "articles/merch/merch_ru.md",
         "en": "articles/merch/merch_en.md"
       }
-  },
-  {
+    },
+    {
       "title": {
         "ru": "Внутренняя кухня MA: май 2024",
         "en": "Behind the Scenes of MA: May 2024"
@@ -523,5 +523,9 @@
         }
       ]
     }
-  ]
+  ],
+  "MYSTERIOUS_LEAF": {
+    "ru": "articles/mysterious_leaf/leaf_ru.md",
+    "en": "articles/mysterious_leaf/leaf_en.md"
+  }
 }
