@@ -20,9 +20,9 @@
 }
 ```
 
-## Опциональный «Таинственный листок» (`MYSTERIOUS_LEAF`) {#опциональный-таинственный-листок-mysterious_leaf}
+## Опциональный «Таинственный листок» (`MYSTERIOUS_NOTE`) {#опциональный-таинственный-листок-mysterious_leaf}
 
-- В корне `toc.json` может присутствовать дополнительный ключ `MYSTERIOUS_LEAF`.
+- В корне `toc.json` может присутствовать дополнительный ключ `MYSTERIOUS_NOTE`.
 - Его значение — объект того же формата, что и `files` у статьи: допустимы языковые ключи `ru` и/или `en`.
 - Поле опционально: если его нет — это не ошибка. Если есть — пути должны соответствовать правилам файлов статей.
 
@@ -32,14 +32,14 @@
 {
   "WIKI": [],
   "LORE": [],
-  "MYSTERIOUS_LEAF": {
-    "ru": "articles/legendarium_1_2/1_the_emergence_of_tara_and_the_dji_da_world_creation_ru.md",
-    "en": "articles/legendarium_1_2/1_the_emergence_of_tara_and_the_dji_da_world_creation_en.md"
+  "MYSTERIOUS_NOTE": {
+    "ru": "articles/MYSTERIOUS_NOTE/note_ru.md",
+    "en": "articles/MYSTERIOUS_NOTE/note_en.md"
   }
 }
 ```
 
-Правила для `MYSTERIOUS_LEAF`:
+Правила для `MYSTERIOUS_NOTE`:
 
 - Разрешены только существующие языковые ключи (`ru`/`en`), как и для обычных `files`.
 - Пути обязаны быть валидными и соответствовать суффиксам `_ru.md`/`_en.md`.

@@ -524,8 +524,8 @@
       ]
     }
   ],
-  "MYSTERIOUS_LEAF": {
-    "ru": "articles/mysterious_leaf/leaf_ru.md",
-    "en": "articles/mysterious_leaf/leaf_en.md"
+  "MYSTERIOUS_NOTE": {
+    "ru": "articles/mysterious_leaf/note_ru.md",
+    "en": "articles/mysterious_leaf/note_en.md"
   }
 }
