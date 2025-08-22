@@ -17,6 +17,7 @@ There are thousands of fantasy games where the core mechanic revolves around com
 
 In 2020, the crypto space saw the emergence of Goblinswap—one of the first gamified DEX games incorporating NFT staking.
 Built on the modular Nuls blockchain, which operated on a Proof of Credit (PoC) consensus protocol, Goblinswap was relatively unknown in 2023, much like it was in 2020. However, during its development, the creators chose Nuls for its speed and low transaction costs.
+
 This game later served as a prototype for Magic Alchemy.
 
 Despite its potential, Goblinswap had several flaws: the absence of a fully developed marketplace (which led players to create an unofficial “black market for ore”), an unintuitive interface, and, most critically, a lack of continued development. As a result, the game ceased to exist just a few months after its launch.
