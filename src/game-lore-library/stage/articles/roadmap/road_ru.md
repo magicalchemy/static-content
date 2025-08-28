@@ -2,16 +2,14 @@
 
 ![](1.2x.png)
 
-- Team Formation 
-- Development and discussion of the game idea 
-- Starting to work out the game design document 
-- Working through the concept of the NFT alchemists 
-- Working out the concept of basic game mechanics 
-- Research of existing blockchains, selection of smart contracts development stack 
-
-Adoption of the tokenomics architecture concept 
-
-Developing the concept of a game world setting
+- Формирование команды
+- Разработка и обсуждение идеи игры
+- Начало работы над документом по игровому дизайну (GDD)
+- Проработка концепции NFT-алхимиков
+- Разработка концепции базовых игровых механик
+- Исследование существующих блокчейнов, выбор стека для разработки смарт-контрактов
+- Принятие концепции архитектуры токеномики
+- Разработка концепции сеттинга игрового мира
 
 ![](2.2x.png)
 
