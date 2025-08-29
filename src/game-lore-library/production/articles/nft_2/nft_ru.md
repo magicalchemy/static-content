@@ -1,6 +1,6 @@
 # НФТ коллекции Magic Alchemy на element.market
 
-![](images/nftcollection.2x.png)
+![](images/nftcollections.2x.png)
 
 ### Колбы Менделефа
 

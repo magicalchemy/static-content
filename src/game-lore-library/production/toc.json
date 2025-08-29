@@ -20,6 +20,26 @@
     },
     {
       "title": {
+        "ru": "Дорожная карта",
+        "en": "Roadmap"
+      },
+      "files": {
+        "ru": "articles/roadmap/road_ru.md",
+        "en": "articles/roadmap/road_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Все NFT коллекции (ссылки)",
+        "en": "All NFT Collections (links)"
+      },
+      "files": {
+        "ru": "articles/nft_2/nft_ru.md",
+        "en": "articles/nft_2/nft_en.md"
+      }
+    },
+    {
+      "title": {
         "ru": "Игровые механики",
         "en": "Game mechanics"
       },
@@ -66,6 +86,16 @@
         },
         {
           "title": {
+            "ru": "FreeToPlay часть Magic Alchemy",
+            "en": "FreeToPlay part Magic Alchemy"
+          },
+          "files": {
+            "ru": "articles/free2play/free2play_ru.md",
+            "en": "articles/free2play/free2play_en.md"
+          }
+        },
+        {
+          "title": {
             "ru": "Токеномика Magic Alchemy ",
             "en": "Magic Alchemy Tokenomics"
           },
@@ -76,24 +106,15 @@
         }
       ]
     },
-
     {
       "title": {
-        "ru": "Все NFT коллекции (ссылки)",
-        "en": "All NFT Collections (links)"
+        "ru": "Проблемы Web3 токеномики",
+        "en": "Challenges of Web3 Tokenomics"
       },
-      "items": [
-        {
-          "title": {
-            "ru": "NFT коллекции Magic Alchemy",
-            "en": "NFT collections Magic Alchemy"
-          },
-          "files": {
-            "ru": "articles/nft_2/nft_ru.md",
-            "en": "articles/nft_2/nft_en.md"
-          }
-        }
-      ]
+      "files": {
+        "ru": "articles/problem_web3/problems_web3_ru.md",
+        "en": "articles/problem_web3/problems_web3_en.md"
+      }
     },
     {
       "title": {
@@ -103,6 +124,134 @@
       "files": {
         "ru": "articles/fundraise/fund_ru.md",
         "en": "articles/fundraise/fund_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Игровые персонажи",
+        "en": "Game characters"
+      },
+      "files": {
+        "ru": "articles/characters_wiki/characters_ru.md",
+        "en": "articles/characters_wiki/characters_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Игровые локации",
+        "en": "Game locations"
+      },
+      "items": [
+        {
+          "title": {
+            "ru": "Банк гоблинов",
+            "en": "Goblin Bank"
+          },
+          "files": {
+            "ru": "articles/goblin_bank/bank_ru.md",
+            "en": "articles/goblin_bank/bank_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Лавка гоблина",
+            "en": "Goblin Shop"
+          },
+          "files": {
+            "ru": "articles/goblin_shop/goblin_shop_ru.md",
+            "en": "articles/goblin_shop/goblin_shop_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Комната гоблина",
+            "en": "Goblin Chamber "
+          },
+          "files": {
+            "ru": "articles/goblin_room/room_ru.md",
+            "en": "articles/goblin_room/room_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Зона сбора",
+            "en": "Extraction zone"
+          },
+          "files": {
+            "ru": "articles/zona/garden_ru.md",
+            "en": "articles/zona/garden_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Зал старейшин",
+            "en": "The Hall of Elders"
+          },
+          "files": {
+            "ru": "articles/hall/hall_ru.md",
+            "en": "articles/hall/hall_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Мастерская",
+            "en": "Workshop"
+          },
+          "files": {
+            "ru": "articles/workshop/workshop_ru.md",
+            "en": "articles/workshop/workshop_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Лаборатория",
+            "en": "The Laboratory"
+          },
+          "files": {
+            "ru": "articles/lab/lab_ru.md",
+            "en": "articles/lab/lab_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Таверна Fallen Moon",
+            "en": "Fallen Moon Tavern"
+          },
+          "files": {
+            "ru": "articles/taverna/taverna_ru.md",
+            "en": "articles/taverna/taverna_en.md"
+          }
+        },
+        {
+          "title": {
+            "ru": "Базар и Маркетплейс",
+            "en": "Bazaar and Marketplace"
+          },
+          "files": {
+            "ru": "articles/bazar/bazar_ru.md",
+            "en": "articles/bazar/bazar_en.md"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "ru": "Экономический Движок MA",
+        "en": "MA Economic Engine"
+      },
+      "files": {
+        "ru": "articles/gem/gem_ru.md",
+        "en": "articles/gem/gem_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "Сообщество",
+        "en": "The MA Community"
+      },
+      "files": {
+        "ru": "articles/community/communuty_ru.md",
+        "en": "articles/community/communuty_en.md"
       }
     },
     {
