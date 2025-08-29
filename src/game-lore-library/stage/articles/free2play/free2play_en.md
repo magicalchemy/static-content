@@ -2,7 +2,7 @@
 
 In the main DeFi game mode, alchemist players can use alchemical tools — boosters. Their use shortens the brewing time of elixirs, which, in turn, speeds up the game progress of those players. Therefore, those aiming for top positions in individual and guild leaderboards are highly motivated to use boosters.
 
-![](1.2x.png)
+![](images/1.2x.png)
 
 However, alchemical tools have durability points and break after a certain number of uses. Once broken, an alchemist player can either purchase a new tool (booster) or use spare parts to restore the durability of the existing one.
 

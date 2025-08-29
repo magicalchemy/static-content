@@ -1,6 +1,6 @@
 # The Laboratory
 
-![](lab.2x.png)
+![](images/lab.2x.png)
 
 Before you stands the alchemist’s table, dominated, of course, by a bubbling cauldron at its center. Surrounding it are neatly arranged a mortar and pestle, various flasks, bellows, retorts, alchemical handbooks, and the recipe you’ll be following to brew your potion.
 

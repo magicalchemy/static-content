@@ -2,7 +2,7 @@
 
 The Goblin Bank was established by the Goblin Trade Guild, headquartered in the kingdom of Ankorlan, though its reputation extends far beyond its borders.
 
-![](defi6.2x.png)
+![](images/defi6.2x.png)
 
 From a gameplay perspective, the Goblin Bank serves as the primary Liquidity Pool.
 If you’re not interested in actively playing, you can provide liquidity to the Goblin Bank and earn passive income. 

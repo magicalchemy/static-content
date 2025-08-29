@@ -1,7 +1,7 @@
 # Challenges of Web3 Tokenomics
 The crypto industry continues to grow, but there are still significant challenges that must be addressed before cryptocurrency becomes an integral part of everyday life.
 
-![](1.2x.jpg)
+![](images/1.2x.jpg)
 
 ### Key Issues
 🔹 New User Challenges – Beginners need guidance to navigate decentralized exchanges (DEXs).

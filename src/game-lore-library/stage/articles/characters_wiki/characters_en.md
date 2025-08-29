@@ -2,7 +2,7 @@
 
 ## Genesis Alchemist
 
-![](1.2x.png)
+![](images/1.2x.png)
 
 - Core Gameplay (DeFi )
 - Main Character.
@@ -10,7 +10,7 @@
 
 ## Basic Alchemist
 
-![](2.2x.png)
+![](images/2.2x.png)
 
 - Core Gameplay (DeFi ) Main Character.
 - An unlimited supply (quantity depends on New Players).
@@ -18,7 +18,7 @@
 
 ## RepairMan
 
-![](3.2x.png)
+![](images/3.2x.png)
 
 - F2P gameplay Main Character.
 - Free NFT Character.
@@ -28,7 +28,7 @@
 
 ## Plodder
 
-![](4.2x.png)
+![](images/4.2x.png)
 
 - Core Gameplay Subsidiary Character.
 - An unlimited supply.

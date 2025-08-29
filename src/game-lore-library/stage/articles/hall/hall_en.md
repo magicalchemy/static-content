@@ -1,5 +1,5 @@
 # The Hall of Elders
-![](hall.2x.png)
+![](images/hall.2x.png)
 
 *"The surviving Capitol building in the central square of the ancient capital of Echoron had been chosen as a meeting place for the elders of all the goblin tribes. The Artisans buhlag cleaned up the interior as best they could, and a council of goblin tribes was held there for the first time in millennia..."*
 

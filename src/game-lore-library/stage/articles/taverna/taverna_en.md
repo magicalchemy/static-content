@@ -2,7 +2,7 @@
 
 Who in Echoron Valley hasn’t heard of Fallen Moon, the most renowned establishment in the entire region? Whether you're looking for a game of cards, an engaging conversation with Lilith, or the latest juicy rumors—this is the place to be.
 
-![](taverna.2x.png)
+![](images/taverna.2x.png)
 
 However, the full-release version of the game will offer even more. Every NPC in the tavern will serve as a source of daily and basic quests related to alchemy, potion crafting, and ingredient gathering.
 

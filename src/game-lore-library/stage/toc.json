@@ -18,7 +18,7 @@
         }
       ]
     },
- {
+    {
       "title": {
         "ru": "Дорожная карта",
         "en": "Roadmap"
@@ -28,17 +28,16 @@
         "en": "articles/roadmap/road_en.md"
       }
     },
- {
+    {
       "title": {
         "ru": "Все NFT коллекции (ссылки)",
         "en": "All NFT Collections (links)"
       },
-       "files": {
-            "ru": "articles/nft_2/nft_ru.md",
-            "en": "articles/nft_2/nft_en.md"
-          }
-        },
-    
+      "files": {
+        "ru": "articles/nft_2/nft_ru.md",
+        "en": "articles/nft_2/nft_en.md"
+      }
+    },
     {
       "title": {
         "ru": "Игровые механики",
@@ -85,7 +84,7 @@
             "en": "articles/defi_2/defi_en.md"
           }
         },
-{
+        {
           "title": {
             "ru": "FreeToPlay часть Magic Alchemy",
             "en": "FreeToPlay part Magic Alchemy"
@@ -94,7 +93,7 @@
             "ru": "articles/free2play/free2play_ru.md",
             "en": "articles/free2play/free2play_en.md"
           }
-        },        
+        },
         {
           "title": {
             "ru": "Токеномика Magic Alchemy ",
@@ -107,7 +106,7 @@
         }
       ]
     },
-     {
+    {
       "title": {
         "ru": "Проблемы Web3 токеномики",
         "en": "Challenges of Web3 Tokenomics"
@@ -117,7 +116,7 @@
         "en": "articles/problem_web3/problems_web3_en.md"
       }
     },
-       {
+    {
       "title": {
         "ru": "Фандрайз",
         "en": "Fundraising"
@@ -127,7 +126,7 @@
         "en": "articles/fundraise/fund_en.md"
       }
     },
- {
+    {
       "title": {
         "ru": "Игровые персонажи",
         "en": "Game characters"
@@ -137,7 +136,7 @@
         "en": "articles/characters_wiki/characters_en.md"
       }
     },
- {
+    {
       "title": {
         "ru": "Игровые локации",
         "en": "Game locations"
@@ -180,7 +179,7 @@
           },
           "files": {
             "ru": "articles/zona/garden_ru.md",
-             "en": "articles/zona/garden_en.md"
+            "en": "articles/zona/garden_en.md"
           }
         },
         {
@@ -190,7 +189,7 @@
           },
           "files": {
             "ru": "articles/hall/hall_ru.md",
-             "en": "articles/hall/hall_en.md"
+            "en": "articles/hall/hall_en.md"
           }
         },
         {
@@ -200,17 +199,17 @@
           },
           "files": {
             "ru": "articles/workshop/workshop_ru.md",
-             "en": "articles/workshop/workshop_en.md"
+            "en": "articles/workshop/workshop_en.md"
           }
         },
-          {
+        {
           "title": {
             "ru": "Лаборатория",
             "en": "The Laboratory"
           },
           "files": {
             "ru": "articles/lab/lab_ru.md",
-             "en": "articles/lab/lab_en.md"
+            "en": "articles/lab/lab_en.md"
           }
         },
         {
@@ -219,21 +218,20 @@
             "en": "Fallen Moon Tavern"
           },
           "files": {
-            "ru": "articles/taverna/taverna_en.md",
-             "en": "articles/taverna/taverna_en.md"
+            "ru": "articles/taverna/taverna_ru.md",
+            "en": "articles/taverna/taverna_en.md"
           }
         },
-       {
+        {
           "title": {
             "ru": "Базар и Маркетплейс",
             "en": "Bazaar and Marketplace"
           },
           "files": {
             "ru": "articles/bazar/bazar_ru.md",
-             "en": "articles/bazar/bazar_en.md"
+            "en": "articles/bazar/bazar_en.md"
           }
-        },
-
+        }
       ]
     },
     {
@@ -241,21 +239,21 @@
         "ru": "Экономический Движок MA",
         "en": "MA Economic Engine"
       },
-       "files": {
-            "ru": "articles/gem/gem_ru.md",
-            "en": "articles/gem/gem_en.md"
-          }
-        },
-{
+      "files": {
+        "ru": "articles/gem/gem_ru.md",
+        "en": "articles/gem/gem_en.md"
+      }
+    },
+    {
       "title": {
         "ru": "Сообщество",
         "en": "The MA Community"
       },
-       "files": {
-            "ru": "articles/community/communuty_ru.md",
-            "en": "articles/community/communuty_en.md"
-          }
-        },
+      "files": {
+        "ru": "articles/community/communuty_ru.md",
+        "en": "articles/community/communuty_en.md"
+      }
+    },
     {
       "title": {
         "ru": "Мем-токен $RUSK сухарики",

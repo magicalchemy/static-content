@@ -9,7 +9,7 @@ Yueve decided to go to the farthest part of the known Universe. Nothing could pr
 
 They are destined to give life to new creatures with intelligence and will, which will be the true design of Tara’s appearance in the Universe. The word was received enthusiastically, and many decided to follow this path…Many, but not all. Some Tara went beyond the boundaries of the Universe and plunged into deep meditation, searching for what they thought was their true purpose.  
 
-![](images/ueve-good.2x.png)
+![](images/ueve_good.2x.png)
 
 *Yueve meditates at the edge of the universe*  
 

@@ -1,12 +1,13 @@
 # Extraction Zone
-![](cad.2x.png)
 
-*"A gigantic stone building with stained glass windows was the pride of the Pickers buhlag. They set up a greenhouse in no time for their rarest plants. And that meant that the alchemists of Echoron Valley would soon have some much-needed alchemical ingredients..."*
+![](images/cad.2x.png)
+
+_"A gigantic stone building with stained glass windows was the pride of the Pickers buhlag. They set up a greenhouse in no time for their rarest plants. And that meant that the alchemists of Echoron Valley would soon have some much-needed alchemical ingredients..."_
 
 Every alchemist needs a place to cultivate ingredients for their potions. Our game features 10 Extraction Zones, each unlocking with the meta-level of your NFT Alchemist. Some of these zones include:
 
 - Twilight Forest
-- Abandoned Mine 
+- Abandoned Mine
 - Swindler’s Swamp
 - Desert of Sandworms
 

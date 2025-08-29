@@ -87,9 +87,10 @@ The dwarves of Hada-Nor do not like to leave their domain and have little intere
 After the end of those wars, the dwarves established peaceful trading relations with the people of the Kingdom of Erteland — to the mutual benefit of both sides. And it is mainly due to trade with Hada-Nor that the kingdom of Earteland has become so prosperous.
 
 The products of Hada-Nor mountain masters are highly valued all over the world. And while the quality and durability of the products of Bayan’Gol dwarves are not inferior to their eastern brothers, the dwarves of Hada-Nor surpass the dwarves of Bayan’Gol by a head. Even the simplest kitchen knife created by the smiths of the Iron Throne looks like a real work of art.
+
 Now, on the Iron Throne sits and rules King Ganund the Wide, a member of the ancient royal dwarven family of Hada-Nor.
 
-![](images/hadanor-kingdoms.2x.png)
+![](images/hadanor_kingdoms.2x.png)
 
 ## The Balkh Khanate
 These lands’ mountains were rich in minerals, and the valleys were fertile. Since ancient times, the first settlers who came to Balkh were provided with clay, stone, metals, and other living necessities.

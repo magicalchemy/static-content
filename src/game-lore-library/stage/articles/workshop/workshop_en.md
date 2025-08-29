@@ -1,5 +1,5 @@
 # Workshop
-![](workshop.2x.png)
+![](images/workshop.2x.png)
 
 *"In the center of the room, a potion was simmering over a low flame in a large bronze cauldron. The Forest Goblin alchemist watched the fire closely and stirred the potion strictly clockwise at certain times. And, Tara forbid, he stirs it counterclockwise. Then a week's work would be wasted."*
 

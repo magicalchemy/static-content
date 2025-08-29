@@ -1,5 +1,5 @@
 # The MA Community
-![](comm.2x.jpg)
+![](images/comm.2x.jpg)
 
 We believe that our **community**—the players who have supported our game—is our **greatest asset**. Thanks to you, we’ve gained confidence in our vision and approach to creating Magic Alchemy. Many of your ideas and suggestions have influenced our development process. In a way, our **close-knit community has become a co-author of this game**.
 

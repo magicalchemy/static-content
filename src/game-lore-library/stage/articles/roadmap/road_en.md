@@ -1,6 +1,6 @@
 # Roadmap Magic Alchemy
 
-![](1.2x.png)
+![](images/1.2x.png)
 
 - Team Formation 
 - Development and discussion of the game idea 
@@ -11,7 +11,7 @@
 - Adoption of the tokenomics architecture concept 
 - Developing the concept of a game world setting
 
-![](2.2x.png)
+![](images/2.2x.png)
 
 - Basic implementation of DeFi MagicAlchemy protocol
 -Development of wireframe locations with DeFi mechanics 
@@ -23,7 +23,7 @@
 - Creation of a map and description of Dji'Da world countries 
 - Writing the World Legendarium
 
-![](3.2x.png)
+![](images/3.2x.png)
 
 - mplementing the frontend for DeFi 
 - Location development and rendering 
@@ -36,7 +36,7 @@
 - Description of goblin society structure and its tribes 
 - All the lore quests for the marketing phase
 
-![](4.2x.png)
+![](images/4.2x.png)
 
 - Video content production 
 - Marketplace UX/UI development 
@@ -50,7 +50,7 @@
 - Free-mint implementation: modification and revision of marketing quests 
 - Lore texts, game characters and their backgrounds for Free-to-Play
 
-![](5.2x.png)
+![](images/5.2x.png)
 
 - Expanding the team 
 - Backend architecture design 
@@ -68,7 +68,7 @@
 - Drawing arts for the lore and marketing 
 - Extending the game's lore, preparing texts to describe the game mechanics
 
-![](6.2x.png)
+![](images/6.2x.png)
 
 - Card game backend implementation 
 - Frontend architecture refactoring
@@ -84,19 +84,19 @@
 - Creating the main game story 
 - Preparing texts for all game quests
 
-![](7.2x.png)
+![](images/7.2x.png)
 
 - Implementation and release of a card game frontend
 - Writing all in-game dialogues
 - Creating the background of all game characters 
 - Review and final editing of all literary texts
 
-![](8.2x.png)
+![](images/8.2x.png)
 
 - ALPHA version of the card game release
 - NFT Mugs mint 
 
-![](9.2x.png)
+![](images/9.2x.png)
 
 - The First Card Tournament
 - The release of the BETA version of the card game
@@ -108,7 +108,7 @@
 - Introduction of a rating system for players and achievements
 - Working on the balance of the card game, introducing new cards
 
-![](10.2x.png)
+![](images/10.2x.png)
 
 - The release of the new game stage RepairMan FreeMint
 - Organization of the second major card tournament
@@ -117,7 +117,7 @@
 - A new rebalance of the card game
 - The launch of a new game stage "Brew or Die".
 
-![](11.2x.png)
+![](images/11.2x.png)
 
 - Optimization of the game on mobile devices
 - Development and release of the new game stage "Alcemania"
@@ -125,7 +125,7 @@
 - Launch of the "Alchemania Cards Tournament"
 - Launch of the ambassador and marketing program
 
-![](12.2x.png)
+![](images/12.2x.png)
 
 - Introduction of the "Rune Quests" storyline
 - Launch of the meme coin "RUSK"
@@ -134,13 +134,13 @@
 - Launch of a grand giveaway to celebrate the anniversary of the Fallen Moon tavern
 - Publication of Magic Alchemy's tokenomics for public access
 
-![](13.2x.png)
+![](images/13.2x.png)
 
 - Launch of Soulbound NFT minting
 - Third-party audit and validation of smart contracts
 - Launch of the "Glob's Prophecy" event
 
-![](14.2x.png)
+![](images/14.2x.png)
 - Launch of the main game phase — "Token & NFT Marathon", featuring a dual auction for main game characters and the POTION token
 - Conclusion of the Great Anniversary Lottery
 - Release of the second limited-edition merch collection from Magic Alchemy — "Elixir of Madness"
@@ -148,7 +148,7 @@
 - First DAO vote on how to allocate Warchest funds across lending protocols
 - Card game "Towers" rebalance and introduction of the new mechanic: "Return Formula"
 
-![](15.2x.png)
+![](images/15.2x.png)
 
 - Start of the "Ready, Alchemist one!" phase — a staking mechanic for Alchemists, allowing players to earn additional rewards in POTION
 - Opening of the in-game NFT marketplace
