@@ -357,6 +357,16 @@
         "ru": "articles/kuxnya_october/kuxna_2_ru.md",
         "en": "articles/kuxnya_october/kuxna_2_en.md"
       }
+    },
+    {
+      "title": {
+        "ru": "Легендарный турнир в Magic Towers ",
+        "en": "Legendary Tournament in Magic Towers"
+      },
+      "files": {
+        "ru": "articles/legent_tornament/tornament_ru.md",
+        "en": "articles/legent_tornament/tornament_en.md"
+      }
     }
   ],
   "LORE": [

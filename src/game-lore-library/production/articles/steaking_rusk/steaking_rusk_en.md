@@ -42,7 +42,7 @@ In the new Experimental Lab sub-location, players who own an NFT Alchemist must 
 
 ![](images/4.2x.jpg)
 
-The reward pool for staking the meme-token $RUSK is 200,000 POTION. These tokens belong to the DAO and can only be used after the game ends. The staking process will continue even after the game’s launch.
+The reward pool for staking the meme-token $RUSK is 320,000 POTION. These tokens belong to the DAO and can only be used after the game ends. The staking process will continue even after the game’s launch.
 
 The only limitation is the maximum number of rusks that can be staked per wallet — 1 million $RUSK meme-tokens. This restriction ensures that large rusk holders do not have an overwhelming advantage over other meme-token holders.
 
