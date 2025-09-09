@@ -37,7 +37,7 @@ Here, we’d like to quote our CEO, Mamkina:
 
 For this reason, we have once again decided to reward our wonderful gaming community. **From now on, all holders of the meme-token $RUSK will receive tokens from all our future gaming and non-gaming projects**. How do you like that, Elon Musk?
 
-## New Game Mechanic: $RUSK Staking
+## New Game Mechanic: $RUSK Staking {#rusk-staking}
 In the new Experimental Lab sub-location, players who own an NFT Alchemist must stake it along with their meme-tokens $RUSK in the Magical Transformer. In return, they will receive POTION tokens from the DAO reward pool. All these rewards will also be recorded in the metadata of the NFT Alchemist staked in the Experimental Shop.
 
 ![](images/4.2x.jpg)
