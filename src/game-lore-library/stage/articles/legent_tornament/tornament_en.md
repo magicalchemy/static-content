@@ -1,4 +1,4 @@
-![](1.2x.jpg)
+![](images/1.2x.jpg)
 🏆 Legendary Tournament in Magic Towers 🏆
 
 Alchemists, it’s time to make history! 
