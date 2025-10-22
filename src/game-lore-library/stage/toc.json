@@ -106,16 +106,6 @@
         }
       ]
     },
-     {
-      "title": {
-        "ru": "Премаркет токенов POTION",
-        "en": "POTION Token Pre-market"
-      },
-      "files": {
-        "ru": "articles/premarket/premarket_ru.md",
-        "en": "articles/premarket/premarket_en.md"
-      }
-    },
     {
       "title": {
         "ru": "Проблемы Web3 токеномики",
