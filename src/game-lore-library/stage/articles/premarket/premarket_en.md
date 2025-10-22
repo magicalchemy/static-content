@@ -6,7 +6,7 @@ We are confidently moving toward the main event for all of us — the release of
 
 That’s why the next important step in building this ecosystem is the launch of the **POTION** token pre-market before the game release. We want to give our players the opportunity to take their first steps in trading and learn the basic principles of how exchanges work.
 
-![](1.2x.jpg)
+![](images/1.2x.jpg)
 ## The Pre-Market – Your First Alchemical Experiment in Trading
 Our pre-market will function only until the TGE (Token Generation Event) and will operate as a derivatives market. Let’s break down this financial term.
 
@@ -40,7 +40,7 @@ All trades are recorded, and only at TGE will all POTION tokens automatically tr
 
 💡 **Remember**: this is a derivatives market. Sellers receive their USDT immediately, while buyers receive only the right to ownership of the tokens, which they can claim after TGE.
 
-![](2.2x.png)
+![](images/2.2x.png)
 
 Pre-Market Dashboard. In addition to creating buy/sell offers, players will be able to:
 * View their transaction history,
