@@ -6,13 +6,13 @@ We are confidently moving toward the main event for all of us — the release of
 
 That’s why the next important step in building this ecosystem is the launch of the **POTION** token pre-market before the game release. We want to give our players the opportunity to take their first steps in trading and learn the basic principles of how exchanges work.
 
-![](images/1.2x.jpg)
+![](1.2x.jpg)
 ## The Pre-Market – Your First Alchemical Experiment in Trading
 Our pre-market will function only until the TGE (Token Generation Event) and will operate as a derivatives market. Let’s break down this financial term.
 
 ***A derivative** is a financial contract that determines the future price of a cryptocurrency, security, commodity, or service. The subject of such a contract is called the underlying asset. Buyers and sellers of derivatives don’t own the underlying asset — they trade the right to execute the contract.*
 
-In our case, the underlying asset will be the POTION token, and the contract is the right to transfer the POTION token from seller to buyer. On the pre-market, sellers and buyers will trade the right of ownership of POTION tokens that they earned for participating in the NFT & POTION Marathon and will receive upon the game’s release (TGE).
+In our case, the underlying asset will be the POTION token, and the contract is the right to transfer the POTION token from seller to buyer. On the Pre-Market, sellers and buyers will be able to trade ownership rights only to those POTION tokens that they received for participating in the NFT Marathon, and which will become available at the game’s release (TGE).
 
 Trading on the pre-market will be conducted in USDT. Players will need to make a deposit into a special smart contract. The mechanics will be identical to the “Rusk Bank” system.
 
@@ -40,7 +40,7 @@ All trades are recorded, and only at TGE will all POTION tokens automatically tr
 
 💡 **Remember**: this is a derivatives market. Sellers receive their USDT immediately, while buyers receive only the right to ownership of the tokens, which they can claim after TGE.
 
-![](images/2.2x.png)
+![](2.2x.png)
 
 Pre-Market Dashboard. In addition to creating buy/sell offers, players will be able to:
 * View their transaction history,
@@ -98,4 +98,4 @@ At first glance, the 10% pre-market commission might seem high for sellers but w
 
 We are confident that implementing such advanced mechanics — inspired by the latest innovations in the crypto space — makes our game stronger, more sustainable, and more attractive to new players.
 
-May the blessing of Mendeleev be with us all…
+May the blessing of Mendelef be with us all…
