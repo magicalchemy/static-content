@@ -640,6 +640,16 @@
       "items": [
         {
           "title": {
+            "ru": "Хронология Джи’Да",
+            "en": "Chronology of Dji’Da"
+          },
+          "files": {
+            "ru": "articles/hronologya/hronologya_ru.md",
+            "en": "articles/hronologya/hronologya_en.md"
+          }
+        },
+        {
+          "title": {
             "ru": "Жизнеописание великого деяния магистра Горла ДаНарга по поиску древней родины детей Менделефа",
             "en": "The biography of the great deeds of Master Gorla DaNarga in search of the ancient homeland of Mendeleev's children"
           },
