@@ -40,7 +40,7 @@
 - **960–965 N.A.** — The Great Droughts and the Hunger Wars.  
 - **late 10th century N.A.** — The collapse of Iskander’s Empire.  
 - **11th century N.A.** — The creation of Telu, a self-governing body in the settlement of Barar.  
-- **1150s N.A.** — The Zuun Mercat goblins established settlements in the Seleng Mountains.  
+- **1150s N.A.** — The Zuun Merkat goblins established settlements in the Seleng Mountains.  
 - **12th century N.A.** — The elves of Adriennel destroyed the capital of Norwen.  
 - **1454 N.A.** — The founding of the Kingdom of Sandorn.  
 - **second half of the 15th century N.A.** — Dwarves built fortresses on the border of the Northern Mountains.  
@@ -61,7 +61,7 @@
 - **2840s N.A.** — Harlun the Wrathful unified Sidonia.  
 - **3110 N.A.** — Fire in Gabar’s district; relocation of goblins beyond city walls.  
 - **3132 N.A.** — Leria became a theocracy under the Holy See.  
-- **3244 N.A.** — Rebellion in Balkhia; start of the civil war.  
+- **3244 N.A.** — Rebellion in Balkh; start of the civil war.  
 - **3246 N.A.** — Formation of the Emirate of Eastern Balkh.  
 - **3308 N.A.** — The Vala’as Hina Trade Guild founded the first Goblin Bank.  
 - **3416 N.A.** — Invasion of the Northern Horde; the War of the Three Swords began.  
