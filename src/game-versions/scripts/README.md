@@ -7,7 +7,7 @@
 ### Использование
 
 ```bash
-node scripts/add-version-simple.js
+node src/game-versions/scripts/add-version-simple.js
 ```
 
 ### Что делает скрипт:
@@ -55,3 +55,20 @@ Next steps:
 - Уникальность версии (не существует ли уже)
 - Формат даты (YYYY-MM-DD)
 - Тип обновления (feature/fix/update)
+
+## Change Version Script
+
+Скрипт для изменения существующей версии, например при корректировке номера релиза.
+
+### Использование
+
+```bash
+node src/game-versions/scripts/change-version.js
+```
+
+### Что делает скрипт
+
+1. Запрашивает текущий номер версии и проверяет наличие соответствующей директории и записи в `updates.json`
+2. Запрашивает новый номер версии и проверяет, что он уникален
+3. Переименовывает директорию внутри `src/game-versions/stage/versions`
+4. Обновляет номер версии в `src/game-versions/stage/updates.json`

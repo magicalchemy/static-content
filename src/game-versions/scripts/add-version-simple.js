@@ -9,7 +9,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-const STAGE_DIR = path.join(__dirname, '../src/game-versions/stage');
+const STAGE_DIR = path.join(__dirname, '..', 'stage');
 const VERSIONS_DIR = path.join(STAGE_DIR, 'versions');
 const UPDATES_JSON = path.join(STAGE_DIR, 'updates.json');
 
