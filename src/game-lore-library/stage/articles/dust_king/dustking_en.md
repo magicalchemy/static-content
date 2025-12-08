@@ -1,7 +1,7 @@
 # PvE Event: “The Dusty King”
-![](images/kingEN.2x.png)
+![](images/king_en.2x.png)
 
-*“Dark times are coming. The mad god Adomion, enemy of all living things, seeks once again to return to this world. His servants, those who survived have been hiding for millennia in the most distant and shadowed corners of Dji’Da, ever since their master fell into slumber under the power of the Divine Elixir. But his strength is awakening, and his followers have already emerged from their hiding places. For now, they are but formless wraiths, yet they already hunt mortals, stealing their souls to regain their power.*
+*Dark times are coming. The mad god Adomion, enemy of all living things, seeks once again to return to this world. His servants, those who survived have been hiding for millennia in the most distant and shadowed corners of Dji’Da, ever since their master fell into slumber under the power of the Divine Elixir. But his strength is awakening, and his followers have already emerged from their hiding places. For now, they are but formless wraiths, yet they already hunt mortals, stealing their souls to regain their power.*
 
 *One of their vessels became the Dust King. His greed made him an easy prey. Madness took hold of him the King attacked everyone nearby, muttering strange words. At first, everyone thought he had simply overused magic dust, but soon it became clear: darkness had taken root within him. And only a sacred goblin ritual can drive it out.*
 
@@ -27,15 +27,15 @@ All these items can be purchased with USDT. Each use grants instant rewards **a 
 
 Additionally, you can purchase a damage boost for **10,000 $RUSK**, active for **24 hours**, providing **+20% extra damage**. 
 
-For example, a player activates a damage boost. If they deal 8,500 damage, the boost adds an additional 1,700 damage. As a result, the total damage equals 10,200. Thus, with the boost, the player can earn more rewards while actually dealing less damage.
+For example, a player activates a damage boost. If they deal 8,500 damages, the boost adds an additional 1,700 damages. As a result, the total damage equals 10,200. Thus, with the boost, the player can earn more rewards while actually dealing less damage.
 
 ## Daily Damage Meter & Mystery Boxes
-![](images/misterybox_EN.2x.png)
+![](images/misterybox_en.2x.png)
 
 Each participant of the PvE event will receive their own **daily damage meter** once they deal their first damage to the Dust King.
 This meter shows the total damage dealt by the player and their referees (more about them later) within a 24-hour period. All progress resets every 24 hours.
 
-There will be three damage tiers in total, and upon reaching each one, the player will receive a Mystery Box.Thus, every player can earn up **to three Mystery Boxes per day**.
+There will be three damage tiers in total, and upon reaching each one, the player will receive a Mystery Box. Thus, every player can earn up **to three Mystery Boxes per day**.
 
 1,000 damage → Rare Mystery Box
 3,000 damage → Epic Mystery Box
@@ -111,7 +111,7 @@ Everything depends on you and your desire to contribute to our shared cause.
 ✨ May fortune favor you, and may Mendeléf’s blessing guide you to victory!
 
 ### FAQ
-**If I deal more than 10,000 damage and fill the entire daily damage bar, will the excess carry over to the next day?**
+**If I deal more than 10,000 damages and fill the entire daily damage bar, will the excess carry over to the next day?**
 
 
 No, the extra damage will not carry over.
@@ -138,6 +138,6 @@ All tickets will be stored in your inventory, just like during the previous Magi
 USDT will be deducted from your in-game balance.
 Players must transfer funds from their game wallet beforehand, the same way as when purchasing Rusk for paid matches.
 
-**How often can purchased weapons be used?**
+**How often can purchase weapons be used?**
 
 Each weapon can be used only once. After it is used, you will need to purchase it again if you want to deal damage to the Dust King once more.
