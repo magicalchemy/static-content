@@ -1,0 +1,22 @@
+[
+  {
+    "version": "0.4.436",
+    "date": "2025-12-08",
+    "type": "feature"
+  },
+  {
+    "version": "0.4.413",
+    "date": "2025-11-10",
+    "type": "feature"
+  },
+  {
+    "version": "0.4.398",
+    "date": "2025-10-28",
+    "type": "fix"
+  },
+  {
+    "version": "0.4.393",
+    "date": "2025-10-26",
+    "type": "feature"
+  }
+]
