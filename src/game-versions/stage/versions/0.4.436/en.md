@@ -11,4 +11,4 @@ Get ready for:
 
 This is a major event in the world of Magic Alchemy with unique mechanics, tons of rewards, and true goblin-style hype.
 
-📜 See details in the [library](https://magicalchemy.org/world/library).
+📜 See details in the [library](https://magicalchemy.org/world/library?article=articles%2Fdust_king%2Fdustking_en.md).
