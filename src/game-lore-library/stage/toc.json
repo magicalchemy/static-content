@@ -377,6 +377,16 @@
         "ru": "articles/legent_tornament/tornament_ru.md",
         "en": "articles/legent_tornament/tornament_en.md"
       }
+    },
+    {
+      "title": {
+        "ru": "PVE-ИВЕНТ “ПЫЛЬНЫЙ КОРОЛЬ”",
+        "en": "PVE EVENT: “THE DUSTY KING”"
+      },
+      "files": {
+        "ru": "articles/dust_king/dustking_ru.md",
+        "en": "articles/dust_king/dustking_en.md"
+      }
     }
   ],
   "LORE": [
