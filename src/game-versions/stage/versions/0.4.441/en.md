@@ -1,4 +1,4 @@
-A new cooperative competitive PvE event, "Dusty King".
+**A new cooperative competitive PvE event, "Dusty King".**
 
 Find the Dusty King on the second floor of the Fallen Moon tavern and, together with other alchemists, perform an ancient goblin exorcism ritual to drive out the evil spirit.
 
