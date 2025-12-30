@@ -103,6 +103,16 @@
             "ru": "articles/tokenomics_2/tokenomics_ru.md",
             "en": "articles/tokenomics_2/tokenomics_en.md"
           }
+        },
+         {
+          "title": {
+            "ru": "Игровая механика – Торговые караваны",
+            "en": "game mechanic – Trade caravans"
+          },
+          "files": {
+            "ru": "articles/karavany/karavany_ru.md",
+            "en": "articles/karavany/karavany_en.md"
+          }
         }
       ]
     },
