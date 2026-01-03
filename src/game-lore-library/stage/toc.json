@@ -106,8 +106,8 @@
         },
          {
           "title": {
-            "ru": "Игровая механика – Торговые караваны",
-            "en": "Game mechanic – Trade caravans"
+            "ru": "Торговые караваны",
+            "en": "Trade caravans"
           },
           "files": {
             "ru": "articles/karavany/karavany_ru.md",
