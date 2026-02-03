@@ -390,12 +390,22 @@
     },
     {
       "title": {
-        "ru": "PVE-ИВЕНТ “ПЫЛЬНЫЙ КОРОЛЬ”",
-        "en": "PVE EVENT: “THE DUSTY KING”"
+        "ru": "PvE-ивент “Пыльный Король”",
+        "en": "PvE event: “The Dust King”"
       },
       "files": {
         "ru": "articles/dust_king/dustking_ru.md",
         "en": "articles/dust_king/dustking_en.md"
+      }
+    },
+    {
+      "title": {
+        "ru": "PvE-ивент “Пьяный Мастер”",
+        "en": "PvE event: “The Drunken Master”"
+      },
+      "files": {
+        "ru": "articles/drunkenmaster/drunkenmaster_ru.md",
+        "en": "articles/drunkenmaster/drunkenmaster_en.md"
       }
     }
   ],
