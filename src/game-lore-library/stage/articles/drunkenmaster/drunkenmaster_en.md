@@ -46,7 +46,7 @@ In this event, there will be only one type of Mystery Box containing the followi
 
 We also kept the *Starter Mystery Box.* Every new player is guaranteed to receive it upon dealing their first "damage" (scoring points). It contains:
 * Guaranteed: 1000 Silver.
-* Additionally (Random): 10,000 / 25,000 / 100,000 Rusks (RUSK).
+* Additionally (Random): 1000 / 25,000 / 100,000 Rusks (RUSK).
 ## Referral System
 
 During the PvE event, players can increase their individual fun scale using referrals. All players who previously registered in Magic Alchemy using your link, as well as all new ones, will add +10% points to you from every treat they give Tormin Bayes-Hall.
