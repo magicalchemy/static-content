@@ -1,0 +1,14 @@
+{
+  "name": "game-versions",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images:avif": "node tools/images-avif.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "sharp": "^0.33.4"
+  }
+}
