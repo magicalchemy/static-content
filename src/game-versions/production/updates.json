@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.5.35",
+    "date": "2026-02-04",
+    "type": "fix"
+  },
+  {
     "version": "0.5.27",
     "date": "2026-02-03",
     "type": "feature"
