@@ -1,4 +1,4 @@
-# New game mechanic – Trade Caravans
+# Trade Caravans, Crafting Parts: Smeltery and Workbench
 
 ![](images/karavan1en.2x.jpg)
 Greetings, Alchemists!
@@ -70,6 +70,19 @@ But Players 1 and 2 didn’t hire guards, so apply a 25% loss:
 
 ![](images/tablica6en.2x.png)
 
+## Crafting Parts: Smeltery and Workbench
+
+Inside your Workshop, you'll find a smelting furnace and workbench. These are used to craft the parts Alchemists need.
+Here's how raw materials are converted:
+
+![](images/verstak_en.2x.png)
+
+Then, at the workbench, you’ll create parts. Crafting time depends on your wagon-worshop:  
+
+![](images/verstak2_en.2x.png)
+
+![](images/verstak3_en.2x.png)
+ 
 As can be seen from the example, hiring guards and a merchant provides approximately +57% to the final amount of resources obtained, compared to a caravan without them. Players who have already assembled asset wagons, and especially those who own NFT workshop wagons, will have a significant advantage at all stages of spare parts production. This should increase their earnings in the free-to-play part of our game. The most effective combination in free-to-play mode becomes owning a rare goblin repairman and an NFT workshop wagon.
 
 And as you all know, all of these NFTs could be obtained completely for free during the early stages of the game. We have always said that all the “early birds” will be properly rewarded at the game’s release.
