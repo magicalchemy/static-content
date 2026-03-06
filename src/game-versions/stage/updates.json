@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.5.69",
+    "date": "2026-03-06",
+    "type": "feature"
+  },
+  {
+    "version": "0.5.61",
+    "date": "2026-02-20",
+    "type": "feature"
+  },
+  {
     "version": "0.5.49",
     "date": "2026-02-13",
     "type": "feature"
