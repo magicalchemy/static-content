@@ -1,4 +1,4 @@
-![](pets.jpg)
+![](pets.png)
 NFT Pets Now Generate More Silver 💰
 
 The scholar-mage Vitalius has completed his research on familiars that were transmuted during the Yellow Plague epidemic. Pets can now be safely placed in the goblin room, and their value has increased significantly.

@@ -1,4 +1,4 @@
-![](workbench.jpg)
+![](workbench.png)
 Workshop Wagon Workbench Is Live 🔧
 
 Master craftsman Dazar has completed the inspection of your workshop wagon and authorized the goblin mechanic to use the workbench.
