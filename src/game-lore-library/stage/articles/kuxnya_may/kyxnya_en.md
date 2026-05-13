@@ -98,5 +98,3 @@ For example, growing plants, brewing elixir, and staking in an accurate Goblin B
 That’s all I can say for now, but there will be an extensive article on Brew or Die very soon. We’ll also launch our secret product in early July, so stay tuned so you can experience it.
 
 On that note, I’ll wrap up the report. Our main goal is to build a cohesive, robust, and organic community genuinely interested in the Magic Alchemy project. Looking forward to the launch of the next phase, and I’d also appreciate it if you have interesting thoughts on how we can come to launch the game with better results.
-
-![](images/kyxnya14.2x.png)
