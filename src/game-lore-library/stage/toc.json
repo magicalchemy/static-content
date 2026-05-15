@@ -491,6 +491,16 @@
                 "ru": "articles/legendarium_7_2/the_great_goblin_prophecy_ru.md",
                 "en": "articles/legendarium_7_2/the_great_goblin_prophecy_en.md"
               }
+            },
+            {
+              "title": {
+                "ru": "Преждевременное пробуждение Адомиона",
+                "en": "Adomion's Premature Awakening"
+              },
+              "files": {
+                "ru": "articles/legendarium_8_2/8_adomion_s_premature_awakening_ru.md",
+                "en": "articles/legendarium_8_2/8_adomion_s_premature_awakening_en.md"
+              }
             }
           ]
         },
