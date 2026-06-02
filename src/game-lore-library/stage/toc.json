@@ -765,6 +765,135 @@
             "ru": "articles/the_chronicles_of_echoron_7_2/homecoming_ru.md",
             "en": "articles/the_chronicles_of_echoron_7_2/homecoming_en.md"
           }
+        },
+        {
+          "title": {
+            "ru": "Жизнеописание Величайшего сына народа детей Менделефа Галдана ДаГорла",
+            "en": "The Biography of the Greatest Son of the Mendelef People, Galdan DaGorla"
+          },
+          "items": [
+            {
+              "title": {
+                "ru": "Глава первая. Наследие Менделефа",
+                "en": "Chapter One. The Legacy of Mendelef"
+              },
+              "files": {
+                "ru": "articles/glava_1/Chapter_One_Mendelef`s_Legacy_ru.md",
+                "en": "articles/glava_1/Chapter_One_Mendelef`s_Legacy_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава вторая. Избранный",
+                "en": "Chapter Two. The Chosen One"
+              },
+              "files": {
+                "ru": "articles/glava_2/CHAPTER_TWO_THE_CHOSEN_ONE_ru.md",
+                "en": "articles/glava_2/CHAPTER_TWO_THE_CHOSEN_ONE_en.md"
+              }
+            },
+             
+            {
+              "title": {
+                "ru": "Глава третья. Вторжение Южных племен",
+                "en": "Chapter Three. The Invasion of the Southern Tribes"
+              },
+              "files": {
+                "ru": "articles/glava_3/THE_INVASION_OF_THE_SOUTHERN_TRIBES_ru.md",
+                "en": "articles/glava_3/THE_INVASION_OF_THE_SOUTHERN_TRIBES_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава четвертая. Древнее зло",
+                "en": "Chapter Four. An Ancient Evil"
+              },
+              "files": {
+                "ru": "articles/glava_4/AN_ANCIENT_EVIL_ru.md",
+                "en": "articles/glava_4/AN_ANCIENT_EVIL_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Вторжение орков Южных Племен и его последствия",
+                "en": "The Invasion of the Orcs from the Southern Tribes and Its Consequences."
+              },
+              "files": {
+                "ru": "articles/glava_4/Invasion_of_the_Orcs_ru.md",
+                "en": "articles/glava_4/Invasion_of_the_Orcs_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава пятая. Предвестник бури",
+                "en": "Chapter Five. The Harbinger of the Storm"
+              },
+              "files": {
+                "ru": "articles/glava_5/Harbinger_of_the_Storm_ru.md",
+                "en": "articles/glava_5/Harbinger_of_the_Storm_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава шестая. Гибель Империи Дуджун",
+                "en": "Chapter Six. The Fall of the Dudzhun Empire"
+              },
+              "files": {
+                "ru": "articles/glava_6/THE_FALL_OF_THE_EMPIRE_ru.md",
+                "en": "articles/glava_6/THE_FALL_OF_THE_EMPIRE_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава седьмая. Новый союз",
+                "en": "Chapter Seven. A New Alliance"
+              },
+              "files": {
+                "ru": "articles/glava_7/A_New_Alliance_ru.md",
+                "en": "articles/glava_7/A_New_Alliance_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава восьмая. Корона Севера",
+                "en": "Chapter Eight. The Crown of the North"
+              },
+              "files": {
+                "ru": "articles/glava_8/The_Crown_of_the_North_ru.md",
+                "en": "articles/glava_6/The_Crown_of_the_North_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава девятая. Цена величия",
+                "en": "Chapter Nine. The Price of Greatness"
+              },
+              "files": {
+                "ru": "articles/glava_9/The_Price_of_Greatness_ru.md",
+                "en": "articles/glava_9/The_Price_of_Greatness_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Глава десятая. Последний элемент",
+                "en": "Chapter Ten. The Final Element"
+              },
+              "files": {
+                "ru": "articles/glava_10/The_Last_Element_ru.md",
+                "en": "articles/glava_10/The_Last_Element_en.md"
+              }
+            },
+            {
+              "title": {
+                "ru": "Эпилог",
+                "en": "Epilogue"
+              },
+              "files": {
+                "ru": "articles/glava_10/Epilogue_ru.md",
+                "en": "articles/glava_10/Epilogue_en.md"
+              }
+            }
+          ]
         }
       ]
     }
